@@ -1,4 +1,4 @@
-const CACHE_NAME = 'litbites-v1';
+const CACHE_NAME = 'litbites-v2';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',
@@ -24,6 +24,7 @@ self.addEventListener('activate', (event) => {
       return Promise.all(
         cacheNames.map((cache) => {
           if (cache !== CACHE_NAME) {
+            console.log('[SW] Apagando cache antigo:', cache);
             return caches.delete(cache);
           }
         })
