@@ -137,22 +137,22 @@ body {
 
 .summary-content {
   display: flex;
-  flex-direction: column;
+  flex-direction: column; /* Força ordem vertical: Meta topo, texto embaixo */
   gap: 1rem;
+}
+
+.summary-meta {
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: var(--text-secondary);
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
 }
 
 .summary-text {
   font-size: 1.15rem;
   line-height: 1.6;
   color: var(--text-primary);
-}
-
-.summary-meta {
-  font-size: 0.85rem;
-  font-weight: 600;
-  color: var(--text-secondary);
-  letter-spacing: 0.5px;
-  text-transform: uppercase;
 }
 
 .summary-actions {
