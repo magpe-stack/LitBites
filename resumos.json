@@ -730,5 +730,859 @@
     "titulo": "O Sol Também É uma Estrela",
     "autor": "Nicola Yoon",
     "resumo": "Adolescente pragmática prestes a ser deportada conhece garoto romântico e vivem romance intenso em poucas horas. Romance jovem, destino."
+  },
+  {
+    "id": 123,
+    "titulo": "Um Lugar Bem Longe Daqui",
+    "autor": "Delia Owens",
+    "resumo": "Menina abandonada cresce sozinha nos pântanos da Carolina do Norte e torna-se suspeita de assassinato local. Drama, mistério, natureza."
+  },
+  {
+    "id": 124,
+    "titulo": "Deixe a Neve Cair",
+    "autor": "John Green, Maureen Johnson e Lauren Myracle",
+    "resumo": "Três histórias de amor e amizade conectam-se em pequena cidade atingida por forte intempérie natalina. Romance jovem, Natal."
+  },
+  {
+    "id": 125,
+    "titulo": "Sol da Meia-Noite",
+    "autor": "Stephenie Meyer",
+    "resumo": "Os acontecimentos do clássico romance vampiresco são recontados sob a perspectiva e angústias da mente do vampiro. Romance sobrenatural, ponto de vista."
+  },
+  {
+    "id": 126,
+    "titulo": "O Caso das Vitaminas",
+    "autor": "Robin Cook",
+    "resumo": "Médico investiga mortes misteriosas de pacientes saudáveis associadas a suplementos e conspiração na indústria da saúde. Thriller médico, conspiração."
+  },
+  {
+    "id": 127,
+    "titulo": "Coma",
+    "autor": "Robin Cook",
+    "resumo": "Estagiária de medicina descobre que pacientes jovens estão entrando em coma irreversível durante cirurgias simples para tráfico de órgãos. Thriller médico, suspense."
+  },
+  {
+    "id": 128,
+    "titulo": "Anjos e Demônios",
+    "autor": "Dan Brown",
+    "resumo": "Simbologista corre contra o tempo em Roma para deter bomba de antimatéria e salvar cardeais sequestrados pelo Vaticano. Thriller, religião, ciência."
+  },
+  {
+    "id": 129,
+    "titulo": "A Firma",
+    "autor": "John Grisham",
+    "resumo": "Jovem advogado aceita oferta milionária em escritório de advocacia mas descobre que a empresa serve à máfia. Thriller jurídico, crime, conspiração."
+  },
+  {
+    "id": 130,
+    "titulo": "O Cliente",
+    "autor": "John Grisham",
+    "resumo": "Garoto presencia suicídio de advogado da máfia, descobre onde corpo de senador está enterrado e vira alvo de criminosos. Thriller jurídico, tribunal."
+  },
+  {
+    "id": 131,
+    "titulo": "O Tempo de Matar",
+    "autor": "John Grisham",
+    "resumo": "Advogado de pequena cidade assume defesa de homem negro acusado de matar estupradores de sua filha. Drama de tribunal, justiça, preconceito."
+  },
+  {
+    "id": 132,
+    "titulo": "Nós",
+    "autor": "Yevgeny Zamyatin",
+    "resumo": "Engenheiro em sociedade futurista de vidro vigiada apaixona-se por mulher rebelde e descobre a individualidade. Distopia originária, controle, amor."
+  },
+  {
+    "id": 133,
+    "titulo": "A Peste",
+    "autor": "Albert Camus",
+    "resumo": "Cidade médica entra em quarentena rígida para combater epidemia devastadora, expondo o absurdo da condição humana. Ficção existencial, solidariedade, absurdo."
+  },
+  {
+    "id": 134,
+    "titulo": "Rancor e Desejo",
+    "autor": "E.L. James",
+    "resumo": "Bilionário com traumas de infância tenta manter controle absoluto sobre jovem estudante por quem desenvolve obsessão amorosa. Romance erótico, psicologia."
+  },
+  {
+    "id": 135,
+    "titulo": "O Silmarillion",
+    "autor": "J.R.R. Tolkien",
+    "resumo": "Mitologia ancestral detalha a criação da Terra-média, o surgimento dos elfos e as primeiras guerras contra o mal. Fantasia, mitologia, criação."
+  },
+  {
+    "id": 136,
+    "titulo": "Corte de Espinhos e Rosas",
+    "autor": "Sarah J. Maas",
+    "resumo": "Caçadora humana mata lobo gigante e é levada como prisioneira para terra mágica governada por feéricos perigosos. Fantasia romântica, fadas."
+  },
+  {
+    "id": 137,
+    "titulo": "Trono de Vidro",
+    "autor": "Sarah J. Maas",
+    "resumo": "Assassina profissional é retirada de minas de trabalho forçado para competir em torneio mortal pela liberdade no palácio. Fantasia, ação, torneio."
+  },
+  {
+    "id": 138,
+    "titulo": "A Rainha Vermelha",
+    "autor": "Victoria Aveyard",
+    "resumo": "Garota de classe baixa descobre ter poderes divinos reservados apenas à elite nobre de sangue prateado e lidera revolta. Fantasia distópica, revolução."
+  },
+  {
+    "id": 139,
+    "titulo": "Jogos Vorazes",
+    "autor": "Suzanne Collins",
+    "resumo": "Adolescente voluntaria-se para substituir irmã em competição mortal transmitida ao vivo por governo tirânico e tecnológico. Distopia, sobrevivência."
+  },
+  {
+    "id": 140,
+    "titulo": "Divergente",
+    "autor": "Veronica Roth",
+    "resumo": "Jovem em sociedade dividida por facções de personalidade descobre ser inadequada ao sistema e corre risco de morte. Distopia, identidade, ação."
+  },
+  {
+    "id": 141,
+    "titulo": "Maze Runner: Correr ou Morrer",
+    "autor": "James Dashner",
+    "resumo": "Garoto acorda sem memória dentro de labirinto gigante mutável povoado por criaturas cibernéticas e outros jovens. Distopia, mistério, labirinto."
+  },
+  {
+    "id": 142,
+    "titulo": "Crepúsculo",
+    "autor": "Stephenie Meyer",
+    "resumo": "Adolescente muda-se para cidade chuvosa e apaixona-se por colega de classe misterioso que revela ser vampiro centenário. Romance sobrenatural, vampiros."
+  },
+  {
+    "id": 143,
+    "titulo": "A Culpa É das Estrelas",
+    "autor": "John Green",
+    "resumo": "Dois adolescentes com câncer conhecem-se em grupo de apoio, apaixonam-se e viajam a Amsterdã em busca de autor. Drama juvenil, amor, doença."
+  },
+  {
+    "id": 144,
+    "titulo": "Quem É Você, Alasca?",
+    "autor": "John Green",
+    "resumo": "Garoto vai para internato em busca de grande aventura e apaixona-se por garota enigmática e autodestrutiva. Romance de formação, tragédia."
+  },
+  {
+    "id": 145,
+    "titulo": "As Vantagens de Ser Invisível",
+    "autor": "Stephen Chbosky",
+    "resumo": "Garoto introvertido supera traumas do passado ao ser acolhido por grupo de veteranos no ensino médio. Romance de formação, juventude."
+  },
+  {
+    "id": 146,
+    "titulo": "Extraordinário",
+    "autor": "R.J. Palacio",
+    "resumo": "Garoto com deformidade facial grave frequenta escola regular pela primeira vez e enfrenta preconceitos e amizades. Drama familiar, empatia, respeito."
+  },
+  {
+    "id": 147,
+    "titulo": "O Menino do Pijama Listrado",
+    "autor": "John Boyne",
+    "resumo": "Filho de oficial nazista faz amizade proibida com garoto judeu através da cerca de campo de concentração. Drama histórico, Holocausto."
+  },
+  {
+    "id": 148,
+    "titulo": "O Diário de Anne Frank",
+    "autor": "Anne Frank",
+    "resumo": "Garota alemã documenta em diário o cotidiano do esconderijo secreto durante a ocupação nazista em Amsterdã. Relato autobiográfico, Holocausto."
+  },
+  {
+    "id": 149,
+    "titulo": "A Lista de Schindler",
+    "autor": "Thomas Keneally",
+    "resumo": "Empresário alemão usa fábrica de munições para salvar centenas de trabalhadores judeus do extermínio nazista. Romance histórico, Holocausto."
+  },
+  {
+    "id": 150,
+    "titulo": "O Leitor",
+    "autor": "Bernhard Schlink",
+    "resumo": "Jovem tem caso amoroso com mulher mais velha e anos depois descobre que ela é ré em julgamento por crimes de guerra. Drama histórico, culpa, ética."
+  },
+  {
+    "id": 151,
+    "titulo": "Cinquenta Tons Mais Escuros",
+    "autor": "E.L. James",
+    "resumo": "Estudante e empresário tentam reatar relacionamento sob novas regras emocionais enquanto sombras do passado dele reaparecem. Romance erótico, segredos."
+  },
+  {
+    "id": 152,
+    "titulo": "Cinquenta Tons de Liberdade",
+    "autor": "E.L. James",
+    "resumo": "Recém-casados enfrentam ameaças de antigo patrão dela e os desafios de conciliar vida familiar, poder e paixão. Romance erótico, casamento."
+  },
+  {
+    "id": 153,
+    "titulo": "Cujo",
+    "autor": "Stephen King",
+    "resumo": "Cão da raça São Bernardo contrai raiva após picada de morcego e aterroriza mãe e filho presos em carro quebrado. Horror, sobrevivência, claustrofobia."
+  },
+  {
+    "id": 154,
+    "titulo": "Carrie, a Estranha",
+    "autor": "Stephen King",
+    "resumo": "Adolescente tímida e reprimida pela mãe religiosa descobre ter poderes telecinéticos e desencadeia vingança terrível após humilhação. Horror, telecinese, vingança."
+  },
+  {
+    "id": 155,
+    "titulo": "Sob a Redoma",
+    "autor": "Stephen King",
+    "resumo": "Pequena cidade do interior fica subitamente isolada por barreira invisível e indestrutível, provocando o colapso social e político. Ficção científica, isolamento."
+  },
+  {
+    "id": 156,
+    "titulo": "A Dança da Morte",
+    "autor": "Stephen King",
+    "resumo": "Vírus mutante de gripe escapa de laboratório e dizima a população mundial, dividindo sobreviventes entre o bem e o mal. Ficção pós-apocalíptica, sobrevivência."
+  },
+  {
+    "id": 157,
+    "titulo": "O Bicho-da-Seda",
+    "autor": "Robert Galbraith",
+    "resumo": "Detetive privado Cormoran Strike investiga o assassinato macabro de um escritor que retratou conhecidos em romance difamatório. Suspense policial, investigação."
+  },
+  {
+    "id": 158,
+    "titulo": "O Chamado do Cuckoo",
+    "autor": "Robert Galbraith",
+    "resumo": "Detetive veterano de guerra investiga a suposta morte por suicídio de uma famosa modelo em Londres. Suspense policial, mistério."
+  },
+  {
+    "id": 159,
+    "titulo": "A Bússola de Ouro",
+    "autor": "Philip Pullman",
+    "resumo": "Menina viaja ao norte distante para resgatar crianças roubadas e descobre conspiração de dimensões paralelas. Fantasia, universos paralelos, aventura."
+  },
+  {
+    "id": 160,
+    "titulo": "A Cidade e as Serras",
+    "autor": "Eça de Queirós",
+    "resumo": "Homem acostumado ao luxo de Paris descobre a paz e o sentido da vida ao retornar às serras portuguesas. Realismo, contraste, campo."
+  },
+  {
+    "id": 161,
+    "titulo": "O Crime do Padre Amaro",
+    "autor": "Eça de Queirós",
+    "resumo": "Pároco influenciável vive caso proibido com jovem religiosa em cidade do interior de Portugal, gerando tragédia. Realismo, crítica clerical."
+  },
+  {
+    "id": 162,
+    "titulo": "O Primo Basílio",
+    "autor": "Eça de Queirós",
+    "resumo": "Burguesa entediada inicia caso extraconjugal com primo sedutor e passa a ser chantageada pela governanta da casa. Realismo, adultério, chantagem."
+  },
+  {
+    "id": 163,
+    "titulo": "Os Maias",
+    "autor": "Eça de Queirós",
+    "resumo": "Saga de família aristocrática culmina no relacionamento amoroso e trágico entre dois jovens que desconhecem ser irmãos. Realismo, tragédia, aristocracia."
+  },
+  {
+    "id": 164,
+    "titulo": "Amor de Perdição",
+    "autor": "Camilo Castelo Branco",
+    "resumo": "Paixão proibida entre jovens de famílias rivais culmina em prisão, exílio e morte trágica em Portugal. Romantismo, paixão, tragédia."
+  },
+  {
+    "id": 165,
+    "titulo": "A Ilustre Casa de Ramires",
+    "autor": "Eça de Queirós",
+    "resumo": "Fidalgo de linhagem antiga tenta escrever romance sobre seus antepassados enquanto lida com rivalidades políticas locais. Realismo, identidade, história."
+  },
+  {
+    "id": 166,
+    "titulo": "Casa-Grande & Senzala",
+    "autor": "Gilberto Freyre",
+    "resumo": "Ensaio romanceado analisa a formação da sociedade brasileira através da miscigenação e das relações no patriarcalismo rural. Ensaio histórico, brasilidade, formação."
+  },
+  {
+    "id": 167,
+    "titulo": "O Ateneu",
+    "autor": "Raul Pompéia",
+    "resumo": "Jovem relata a rotina opressiva, as rivalidades e a corrupção moral dentro de renomado colégio interno masculino. Realismo, memória, opressão."
+  },
+  {
+    "id": 168,
+    "titulo": "Inocência",
+    "autor": "Visconde de Taunay",
+    "resumo": "Médico itinerante apaixona-se por jovem sertaneja prometida a outro em trama marcada por rígido controle familiar. Romance romântico, sertão, tragédia."
+  },
+  {
+    "id": 169,
+    "titulo": "A Escrava Isaura",
+    "autor": "Bernardo Guimarães",
+    "resumo": "Escrava branca e educada sofre a perseguição obsessiva e cruel de seu senhor enquanto busca a liberdade. Romance abolicionista, obsessão."
+  },
+  {
+    "id": 170,
+    "titulo": "O Guarani",
+    "autor": "José de Alencar",
+    "resumo": "Indígena Peri dedica lealdade e amor áulico à jovem Ceci em meio a conflitos no Brasil colonial. Romance indianista, heroísmo."
+  },
+  {
+    "id": 171,
+    "titulo": "Iracema",
+    "autor": "José de Alencar",
+    "resumo": "Amor proibido entre virgem dos lábios de mel e colonizador português simboliza poeticamente o nascimento do Ceará. Romance indianista, mito."
+  },
+  {
+    "id": 172,
+    "titulo": "Senhora",
+    "autor": "José de Alencar",
+    "resumo": "Jovem rica compra o noivado do homem que a rejeitara no passado para vingar sua honra ferida. Romance urbano, casamento, vingança."
+  },
+  {
+    "id": 173,
+    "titulo": "Lucíola",
+    "autor": "José de Alencar",
+    "resumo": "Jovem interiorano apaixona-se por cortesã famosa no Rio de Janeiro e descobre sua busca secreta por redenção moral. Romance urbano, regeneração."
+  },
+  {
+    "id": 174,
+    "titulo": "Macunaíma",
+    "autor": "Mário de Andrade",
+    "resumo": "Herói sem nenhum caráter vive aventuras folclóricas e surreais pelo Brasil buscando recuperar seu amuleto perdido. Modernismo, folclore, identidade."
+  },
+  {
+    "id": 175,
+    "titulo": "A Bagaceira",
+    "autor": "José Américo de Almeida",
+    "resumo": "Romance inaugura vertente regionalista ao retratar a seca, o drama dos retirantes e os donos de engenho. Regionalismo, seca, coronelismo."
+  },
+  {
+    "id": 176,
+    "titulo": "O Quinze",
+    "autor": "Rachel de Queiroz",
+    "resumo": "A terrível seca de 1915 no Ceará devasta fazendas e força a migração traumática de famílias famintas. Regionalismo, seca, miséria."
+  },
+  {
+    "id": 177,
+    "titulo": "Menino de Engenho",
+    "autor": "José Lins do Rego",
+    "resumo": "Garoto órfão cresce na propriedade do avô presenciando a decadência do ciclo do açúcar no Nordeste. Regionalismo, infância, decadência."
+  },
+  {
+    "id": 178,
+    "titulo": "Fogo Morto",
+    "autor": "José Lins do Rego",
+    "resumo": "Decadência final dos antigos engenhos nordestinos é vista pelos olhos de seleiro, senhor de engenho e mestre. Regionalismo, sociedade."
+  },
+  {
+    "id": 179,
+    "titulo": "Capitães da Areia",
+    "autor": "Jorge Amado",
+    "resumo": "Grupo de garotos abandonados vive de furtos nas ruas de Salvador, enfrentando a violência e a desigualdade social. Regionalismo, juventude, marginalidade."
+  },
+  {
+    "id": 180,
+    "titulo": "Tieta do Agreste",
+    "autor": "Jorge Amado",
+    "resumo": "Mulher expulsa jovem da cidade retorna rica anos depois e transforma a vida moral e econômica do povoado. Regionalismo, liberdade, sátira."
+  },
+  {
+    "id": 181,
+    "titulo": "Dona Flor e Seus Dois Maridos",
+    "autor": "Jorge Amado",
+    "resumo": "Viúva casa-se com homem correto mas passa a receber visitas do fantasma sensual do falecido marido. Realismo mágico, paixão, humor."
+  },
+  {
+    "id": 182,
+    "titulo": "Sagarana",
+    "autor": "João Guimarães Rosa",
+    "resumo": "Coletânea de contos retrata o sertão mineiro através de linguagem inovadora, causos de valentia e dilemas morais. Contos regionalistas, sertão."
+  },
+  {
+    "id": 183,
+    "titulo": "Primeiras Estórias",
+    "autor": "João Guimarães Rosa",
+    "resumo": "Contos curtos e poéticos abordam a loucura, a infância, a revelação espiritual e a vida no sertão. Contos, revelação, poesia."
+  },
+  {
+    "id": 184,
+    "titulo": "Laços de Família",
+    "autor": "Clarice Lispector",
+    "resumo": "Contos mostram personagens femininas em momentos cotidianos que desencadeiam epifanias existenciais perturbadoras e profundas. Contos, epifania, subjetividade."
+  },
+  {
+    "id": 185,
+    "titulo": "A Paixão Segundo G.H.",
+    "autor": "Clarice Lispector",
+    "resumo": "Mulher burguesa esmaga barata na porta do armário e entra em crise existencial e mística profunda. Ficção existencial, absolvição."
+  },
+  {
+    "id": 186,
+    "titulo": "Perto do Coração Selvagem",
+    "autor": "Clarice Lispector",
+    "resumo": "Jovem mulher busca autenticidade e liberdade interior, rompendo com as convenções sociais e com o casamento. Romance de formação, introspecção."
+  },
+  {
+    "id": 187,
+    "titulo": "O Encontro Marcado",
+    "autor": "Fernando Sabino",
+    "resumo": "Escritor mineiro repassa sua juventude, amizades e angústias existenciais enquanto busca um sentido para a vida. Romance de formação, angústia."
+  },
+  {
+    "id": 188,
+    "titulo": "As Meninas",
+    "autor": "Lygia Fagundes Telles",
+    "resumo": "Três estudantes universitárias de personalidades opostas dividem pensionato em São Paulo durante a Ditadura Militar. Drama, juventude, ditadura."
+  },
+  {
+    "id": 189,
+    "titulo": "Antes do Baile Verde",
+    "autor": "Lygia Fagundes Telles",
+    "resumo": "Contos curtos exploram o insólito, a fragilidade das relações humanas e as tensões psicológicas do cotidiano. Contos, psicológico."
+  },
+  {
+    "id": 190,
+    "titulo": "Olhai os Lírios do Campo",
+    "autor": "Érico Veríssimo",
+    "resumo": "Médico ambicioso abandona seu amor verdadeiro por casamento de conveniência financeira e busca redenção moral. Drama, ética, redenção."
+  },
+  {
+    "id": 191,
+    "titulo": "O Tempo e o Vento: O Continente",
+    "autor": "Érico Veríssimo",
+    "resumo": "Formação da sociedade gaúcha acompanhada ao longo de gerações pelas lutas das famílias Terra e Cambará. Romance histórico, épico."
+  },
+  {
+    "id": 192,
+    "titulo": "Incidente em Antares",
+    "autor": "Érico Veríssimo",
+    "resumo": "Defuntos sem sepultamento por causa de greve levantam-se dos caixões para expor os podres dos poderosos locais. Sátira política, realismo mágico."
+  },
+  {
+    "id": 193,
+    "titulo": "O Triste Fim de Policarpo Quaresma",
+    "autor": "Lima Barreto",
+    "resumo": "Patriota ingênuo propõe o tupi-guarani como língua oficial e enfrenta a burocracia e a loucura do Estado. Sátira política, nacionalismo."
+  },
+  {
+    "id": 194,
+    "titulo": "Clara dos Anjos",
+    "autor": "Lima Barreto",
+    "resumo": "Mestiça pobre e ingênua é seduzida e abandonada por jovem inconsequente da elite carioca no Rio antigo. Romance social, preconceito."
+  },
+  {
+    "id": 195,
+    "titulo": "O Alienista",
+    "autor": "Machado de Assis",
+    "resumo": "Médico funda manicômio em vila e passa a internar todos os moradores até perder o critério de sanidade. Sátira, loucura, ciência."
+  },
+  {
+    "id": 196,
+    "titulo": "Quincas Borba",
+    "autor": "Machado de Assis",
+    "resumo": "Matuto herda fortuna de filósofo louco e é explorado na capital até perder tudo e enlouquecer. Realismo, exploração, ironia."
+  },
+  {
+    "id": 197,
+    "titulo": "Esaú e Jacó",
+    "autor": "Machado de Assis",
+    "resumo": "Gêmeos idênticos com ideologias políticas opostas disputam a mesma mulher durante a queda do Império brasileiro. Realismo, política, rivalidade."
+  },
+  {
+    "id": 198,
+    "titulo": "Memorial de Aires",
+    "autor": "Machado de Assis",
+    "resumo": "Conselheiro aposentado registra em diário a solidão de casal idoso e as transformações sociais do fim do século. Realismo, velhice, melancolia."
+  },
+  {
+    "id": 199,
+    "titulo": "A Relíquia",
+    "autor": "Eça de Queirós",
+    "resumo": "Jovem finge devoção religiosa para herdar fortuna de tia beata enquanto mantém vida libertina em segredo. Sátira, hipocrisia, religião."
+  },
+  {
+    "id": 200,
+    "titulo": "A Metamorfose",
+    "autor": "Franz Kafka",
+    "resumo": "Caixeiro-viajante acorda transformado em inseto monstruoso e passa a sofrer a rejeição e o abandono de sua família. Ficção absurda, alienação."
+  },
+  {
+    "id": 201,
+    "titulo": "O Evangelho Segundo Jesus Cristo",
+    "autor": "José Saramago",
+    "resumo": "Vida de Jesus recontada destacando suas dúvidas humanas e o pacto entre Deus e o Diabo. Romance filosófico, religião, humanidade."
+  },
+  {
+    "id": 202,
+    "titulo": "O Ano da Morte de Ricardo Reis",
+    "autor": "José Saramago",
+    "resumo": "Heterônimo de Fernando Pessoa retorna a Lisboa e passeia pela cidade às vésperas do fascismo. Romance histórico, poesia, melancolia."
+  },
+  {
+    "id": 203,
+    "titulo": "O Conto da Aia",
+    "autor": "Margaret Atwood",
+    "resumo": "Em regime teocrático totalitário, poucas mulheres férteis são escravizadas para gerar filhos para a elite. Distopia, opressão, feminismo."
+  },
+  {
+    "id": 204,
+    "titulo": "Oryx e Crake",
+    "autor": "Margaret Atwood",
+    "resumo": "Sobrevivente de colapso biológico vaga por mundo destruído relembrando experimentos científicos que extinguiram a humanidade. Distopia, bioética, apocalipse."
+  },
+  {
+    "id": 205,
+    "titulo": "Não Me Deixe Jamais",
+    "autor": "Kazuo Ishiguro",
+    "resumo": "Estudantes em internato britânico descobrem a terrível verdade sobre seu destino como doadores de órgãos. Ficção científica, memória, humanidade."
+  },
+  {
+    "id": 206,
+    "titulo": "Os Restos do Dia",
+    "autor": "Kazuo Ishiguro",
+    "resumo": "Mordomo dedicado relembra sua vida de serviço e o amor não declarado enquanto reflete sobre escolhas. Romance dramático, dever, arrependimento."
+  },
+  {
+    "id": 207,
+    "titulo": "Amada",
+    "autor": "Toni Morrison",
+    "resumo": "Ex-escravizada é assombrada pelo espírito da filha que matou para salvá-la da escravidão no sul americano. Romance histórico, trauma, maternidade."
+  },
+  {
+    "id": 208,
+    "titulo": "Jazz",
+    "autor": "Toni Morrison",
+    "resumo": "Triângulo amoroso trágico no Harlem dos anos vinte expõe paixão, ciúme e feridas do passado de imigrantes. Romance histórico, paixão, raça."
+  },
+  {
+    "id": 209,
+    "titulo": "Americanah",
+    "autor": "Chimamanda Ngozi Adichie",
+    "resumo": "Jovem nigeriana emigra para os Estados Unidos e enfrenta questões de raça, pertencimento e amor ao longo dos anos. Romance contemporâneo, raça, imigração."
+  },
+  {
+    "id": 210,
+    "titulo": "Meio Sol Amarelo",
+    "autor": "Chimamanda Ngozi Adichie",
+    "resumo": "Vidas de três personagens são entrelaçadas e devastadas pela violência da Guerra de Biafra na Nigéria. Romance histórico, guerra, África."
+  },
+  {
+    "id": 211,
+    "titulo": "Kafka à Beira-Mar",
+    "autor": "Haruki Murakami",
+    "resumo": "Jovem foge de casa para escapar de maldição e idoso que fala com gatos cruzam caminhos mágicos. Realismo mágico, destino, identidade."
+  },
+  {
+    "id": 212,
+    "titulo": "1Q84",
+    "autor": "Haruki Murakami",
+    "resumo": "Mulher e escritor entram em realidade paralela com duas luas onde seita religiosa exerce controle misterioso. Realismo mágico, mistério, amor."
+  },
+  {
+    "id": 213,
+    "titulo": "Atlas de Nuvens",
+    "autor": "David Mitchell",
+    "resumo": "Seis histórias em épocas diferentes conectam-se através do tempo, explorando como atos individuais ecoam na história. Ficção experimental, destino, conexões."
+  },
+  {
+    "id": 214,
+    "titulo": "Os Relógios de Osso",
+    "autor": "David Mitchell",
+    "resumo": "Garota com visões envolve-se em guerra secreta entre imortais que sugam almas e protetores da humanidade. Fantasia urbana, imortalidade, magia."
+  },
+  {
+    "id": 215,
+    "titulo": "A Faca Sutil",
+    "autor": "Philip Pullman",
+    "resumo": "Garoto com faca capaz de cortar portais entre universos une-se a Lyra em busca da verdade. Fantasia, universos paralelos, aventura."
+  },
+  {
+    "id": 216,
+    "titulo": "A Luneta Âmbar",
+    "autor": "Philip Pullman",
+    "resumo": "Batalha final entre forças do conhecimento e autoridades celestes decide o destino de todos os mundos existentes. Fantasia, filosofia, aventura."
+  },
+  {
+    "id": 217,
+    "titulo": "Criptonômicon",
+    "autor": "Neal Stephenson",
+    "resumo": "Quebradores de códigos na Segunda Guerra e hackers modernos conectam-se na busca por ouro nazista e criptografia. Cyberpunk, história, tecnologia."
+  },
+  {
+    "id": 218,
+    "titulo": "Anathem",
+    "autor": "Neal Stephenson",
+    "resumo": "Monges cientistas isolados do mundo tecnológico precisam unir forças para investigar ameaça espacial que se aproxima. Ficção científica, filosofia, espaço."
+  },
+  {
+    "id": 219,
+    "titulo": "Kindred: Laços de Sangue",
+    "autor": "Octavia E. Butler",
+    "resumo": "Mulher negra contemporânea é transportada no tempo para fazenda escravagista no sul pré-Guerra Civil americana. Ficção científica, escravidão, tempo."
+  },
+  {
+    "id": 220,
+    "titulo": "A Parábola do Semeador",
+    "autor": "Octavia E. Butler",
+    "resumo": "Em futuro distópico devastado por crises climáticas, jovem com hiperempatia funda nova filosofia de sobrevivência. Distopia, empatia, futuro."
+  },
+  {
+    "id": 221,
+    "titulo": "The Underground Railroad: Os Caminhos da Liberdade",
+    "autor": "Colson Whitehead",
+    "resumo": "Jovem escravizada foge por rede secreta de ferrovias subterrâneas literais em busca da liberdade. Romance histórico, escravidão, fuga."
+  },
+  {
+    "id": 222,
+    "titulo": "Zona Um",
+    "autor": "Colson Whitehead",
+    "resumo": "Equipes de limpeza tentam reocupar Nova York devastada por vírus zumbi enquanto enfrentam trauma e sobreviventes. Pós-apocalíptico, zumbis, trauma."
+  },
+  {
+    "id": 223,
+    "titulo": "Reparação",
+    "autor": "Ian McEwan",
+    "resumo": "Mentira de garota acusando inocente destrói vidas e gera tentativa vitalícia de expiação através da escrita literária. Drama, culpa, literatura."
+  },
+  {
+    "id": 224,
+    "titulo": "Enclausurado",
+    "autor": "Ian McEwan",
+    "resumo": "Feto dentro do ventre materno testemunha e narra plano da mãe e do amante para assassinar seu pai. Thriller psicológico, perspectivas."
+  },
+  {
+    "id": 225,
+    "titulo": "Baudolino",
+    "autor": "Umberto Eco",
+    "resumo": "Camponês com dom da mentira inventa histórias que moldam a história medieval e a busca pelo reino mítico. Romance histórico, mitos, linguagem."
+  },
+  {
+    "id": 226,
+    "titulo": "O Pêndulo de Foucault",
+    "autor": "Umberto Eco",
+    "resumo": "Editores criam teoria da conspiração fictícia conectando sociedades secretas, mas a farsa torna-se perigosamente real. Suspense intelectual, conspiração, esoterismo."
+  },
+  {
+    "id": 227,
+    "titulo": "A História Sem Fim",
+    "autor": "Michael Ende",
+    "resumo": "Garoto lê livro mágico sobre reino de Fantasia em destruição e descobre que ele é o salvador. Fantasia, imaginação, leitura."
+  },
+  {
+    "id": 228,
+    "titulo": "Momo",
+    "autor": "Michael Ende",
+    "resumo": "Menina com dom de escutar enfrenta homens cinzentos que roubam o tempo e a alegria dos habitantes da cidade. Fantasia, tempo, sociedade."
+  },
+  {
+    "id": 229,
+    "titulo": "Da Terra à Lua",
+    "autor": "Jules Verne",
+    "resumo": "Clube de artilheiros americanos projeta e constrói canhão gigante para lançar projétil habitado rumo à Lua. Aventura científica, exploração, espaço."
+  },
+  {
+    "id": 230,
+    "titulo": "2001: Uma Odisseia no Espaço",
+    "autor": "Arthur C. Clarke",
+    "resumo": "Monólito misterioso impulsiona evolução humana enquanto astronautas viajam a Júpiter com inteligência artificial instável. Ficção científica, evolução, IA."
+  },
+  {
+    "id": 231,
+    "titulo": "Encontro com Rama",
+    "autor": "Arthur C. Clarke",
+    "resumo": "Nave cilíndrica alienígena gigante entra no sistema solar e cientistas humanos organizam expedição para explorá-la. Ficção científica, exploração espacial."
+  },
+  {
+    "id": 232,
+    "titulo": "Tropas Estelares",
+    "autor": "Robert Heinlein",
+    "resumo": "Jovem alista-se na infantaria móvel e enfrenta guerra brutal contra raça de insetos alienígenas gigantescos. Ficção científica militar, cidadania, guerra."
+  },
+  {
+    "id": 233,
+    "titulo": "Estranho em Terra Estranha",
+    "autor": "Robert Heinlein",
+    "resumo": "Humano criado por marcianos retorna à Terra e desafia convenções morais, religiosas e sociais da humanidade. Ficção científica, cultura, filosofia."
+  },
+  {
+    "id": 234,
+    "titulo": "O Jogo do Exterminador",
+    "autor": "Orson Scott Card",
+    "resumo": "Criança prodígio é treinada em escola de combate espacial para liderar frota contra invasores alienígenas. Ficção científica, estratégia, infância."
+  },
+  {
+    "id": 235,
+    "titulo": "A Voz dos Mortos",
+    "autor": "Orson Scott Card",
+    "resumo": "Investigador viaja a planeta alienígena para compreender espécie inteligente e buscar reconciliação entre espécies. Ficção científica, empatia, ética."
+  },
+  {
+    "id": 236,
+    "titulo": "Uma Dobra no Tempo",
+    "autor": "Madeleine L'Engle",
+    "resumo": "Crianças viajam através de dobras temporais e dimensões para resgatar pai cientista desaparecido no espaço. Fantasia, ciência, família."
+  },
+  {
+    "id": 237,
+    "titulo": "Jurassic Park",
+    "autor": "Michael Crichton",
+    "resumo": "Cientistas usam DNA fóssil para clonar dinossauros em parque temático, mas sistema falha e gera caos. Ficção científica, biotecnologia, caos."
+  },
+  {
+    "id": 238,
+    "titulo": "O Enigma de Andrômeda",
+    "autor": "Michael Crichton",
+    "resumo": "Equipe de cientistas isola-se em laboratório subterrâneo para conter e estudar microrganismo espacial mortal e mutante. Thriller científico, vírus, contenção."
+  },
+  {
+    "id": 239,
+    "titulo": "Ubik",
+    "autor": "Philip K. Dick",
+    "resumo": "Técnicos anti-psíquicos enfrentam regressão temporal e distorções da realidade após explosão misteriosa em missão na Lua. Ficção científica, realidade, mente."
+  },
+  {
+    "id": 240,
+    "titulo": "Valis",
+    "autor": "Philip K. Dick",
+    "resumo": "Homem sofre experiência mística com raio de luz rosa e tenta decifrar a natureza do universo e da insanidade. Ficção científica, gnosticismo, teologia."
+  },
+  {
+    "id": 241,
+    "titulo": "Fim da Infância",
+    "autor": "Arthur C. Clarke",
+    "resumo": "Alienígenas benevolentes assumem o controle da Terra, acabando com guerras e preparando a humanidade para salto evolutivo. Ficção científica, evolução."
+  },
+  {
+    "id": 242,
+    "titulo": "Os Despossuídos",
+    "autor": "Ursula K. Le Guin",
+    "resumo": "Físico viaja entre planeta anarquista e mundo capitalista buscando unir teorias e superar barreiras ideológicas. Ficção científica, utopia, política."
+  },
+  {
+    "id": 243,
+    "titulo": "A Curva do Sonho",
+    "autor": "Ursula K. Le Guin",
+    "resumo": "Homem descobre que seus sonhos têm o poder de alterar a realidade e passa a ser manipulado por psiquiatra. Ficção científica, realidade, ética."
+  },
+  {
+    "id": 244,
+    "titulo": "Fundação e Império",
+    "autor": "Isaac Asimov",
+    "resumo": "Fundação enfrenta o ataque militar do que resta do Império e surge o Mulo, mutante com poderes mentais. Ficção científica, psicohistória."
+  },
+  {
+    "id": 245,
+    "titulo": "Segunda Fundação",
+    "autor": "Isaac Asimov",
+    "resumo": "Grupo secreto de cientistas mentais atua nas sombras para proteger o Plano Seldon contra ameaças ao futuro galáctico. Ficção científica, mente."
+  },
+  {
+    "id": 246,
+    "titulo": "Eu, Robô",
+    "autor": "Isaac Asimov",
+    "resumo": "Dra. Susan Calvin relata histórias de robôs testando e desafiando as Três Leis da Robótica ao longo das décadas. Ficção científica, robótica, ética."
+  },
+  {
+    "id": 247,
+    "titulo": "Os Filhos de Húrin",
+    "autor": "J.R.R. Tolkien",
+    "resumo": "Tragédia de guerreiro humano amaldiçoado por Morgoth enfrenta combates, perdas e o confronto com um dragão. Fantasia épica, tragédia."
+  },
+  {
+    "id": 248,
+    "titulo": "A Queda de Gondolin",
+    "autor": "J.R.R. Tolkien",
+    "resumo": "A grande cidade élfica oculta resiste até ser traída e atacada pelas forças das trevas em batalha sangrenta. Fantasia épica, guerra."
+  },
+  {
+    "id": 249,
+    "titulo": "Beren e Lúthien",
+    "autor": "J.R.R. Tolkien",
+    "resumo": "Amor proibido entre homem mortal e elfa imortal os leva a roubar joia valiosa da coroa do próprio Senhor do Mal. Fantasia, amor, aventura."
+  },
+  {
+    "id": 250,
+    "titulo": "O Livro de Areia",
+    "autor": "Jorge Luis Borges",
+    "resumo": "Livro sagrado com páginas infinitas e numeradas ao acaso atormenta o narrador até sua renúncia definitiva. Contos, infinito, fantástico."
+  },
+  {
+    "id": 251,
+    "titulo": "A Invenção de Morel",
+    "autor": "Adolfo Bioy Casares",
+    "resumo": "Náufrago em ilha misteriosa descobre projeções holográficas eternas de pessoas e apaixona-se por uma imagem imaterial. Ficção científica, ilusão, imortalidade."
+  },
+  {
+    "id": 252,
+    "titulo": "O Sonho dos Heróis",
+    "autor": "Adolfo Bioy Casares",
+    "resumo": "Jovem em Buenos Aires tenta reviver obsessivamente uma noite de carnaval inesquecível e misteriosa vivida anos antes. Romance fantástico, memória, destino."
+  },
+  {
+    "id": 253,
+    "titulo": "Plano de Evasão",
+    "autor": "Adolfo Bioy Casares",
+    "resumo": "Homem aceita cargo de vigilante em colônia penal isolada na Guiana Francesa e descobre conspiração bizarra envolvendo a percepção da realidade. Ficção especulativa, fuga, alienação."
+  },
+  {
+    "id": 254,
+    "titulo": "Dormir ao Sol",
+    "autor": "Adolfo Bioy Casares",
+    "resumo": "Relojoeiro argentino interna a esposa em clínica psiquiátrica misteriosa e presencia experiências científicas bizarras com a identidade humana. Realismo mágico, identidade, suspense."
+  },
+  {
+    "id": 255,
+    "titulo": "O Beijo da Mulher-Aranha",
+    "autor": "Manuel Puig",
+    "resumo": "Dois prisioneiros dividem cela em ditadura latino-americana; um narra filmes clássicos enquanto o outro esconde segredos de militância. Romance político, identidade, afeto."
+  },
+  {
+    "id": 256,
+    "titulo": "Boquitas Pintadas",
+    "autor": "Manuel Puig",
+    "resumo": "Retrato fofoqueiro e melodramático de uma cidadezinha argentina através de cartas, diários e conversas banais que escondem tragédias latentes. Romance popular, sátira, melodramas."
+  },
+  {
+    "id": 257,
+    "titulo": "A Traição de Rita Hayworth",
+    "autor": "Manuel Puig",
+    "resumo": "Garoto solitário em cidade do interior usa o cinema de Hollywood como refúgio imaginário em meio à mediocridade familiar. Romance experimental, infância, cinema."
+  },
+  {
+    "id": 258,
+    "titulo": "Pubis Angelical",
+    "autor": "Manuel Puig",
+    "resumo": "Mulher hospitalizada em Buenos Aires alterna entre divagações sobre sua vida amorosa e fantasias cinematográficas sobre opressão e liberdade. Romance psicológico, opressão, delírio."
+  },
+  {
+    "id": 259,
+    "titulo": "Cai o Pano",
+    "autor": "Manuel Puig",
+    "resumo": "Ator decadente em exílio europeu reconstrói sua trajetória artística e pessoal através de recordações marcadas por paixões e desilusões teatrais. Romance dramático, memória, arte."
+  },
+  {
+    "id": 260,
+    "titulo": "Fantasma",
+    "autor": "César Aira",
+    "resumo": "Menino em cidade de província presencia eventos surreais e aparições cotidianas que misturam inocência infantil e estranheza fantástica. Novela experimental, infância, fantástico."
+  },
+  {
+    "id": 261,
+    "titulo": "O Pequeno Monge",
+    "autor": "César Aira",
+    "resumo": "Monge budista isolado na Cordilheira dos Andes presencia eventos pitorescos e filosóficos em narrativa ágil e inesperada. Novela, filosofia, absurdo."
+  },
+  {
+    "id": 262,
+    "titulo": "Ema, a Cativa",
+    "autor": "César Aira",
+    "resumo": "Mulher argentina do século XIX vive no deserto entre índios e militares em narrativa alucinatória e inconvencional. Novela histórica, absurdo, destino."
+  },
+  {
+    "id": 263,
+    "titulo": "Como Me Tornei Freira",
+    "autor": "César Aira",
+    "resumo": "Menino em Rosario vive infância marcada por alucinações, sorvetes envenenados e situações surreais com a professora. Romance autobiográfico, ficção, infância."
+  },
+  {
+    "id": 264,
+    "titulo": "Um Episódio na Vida do Pintor Viajante",
+    "autor": "César Aira",
+    "resumo": "Pintor alemão do século XIX viaja pelos pampas e sofre acidente dramático que altera sua percepção da arte e da natureza. Novela, arte, viagem."
   }
+]
+  
 ]
