@@ -1984,6 +1984,474 @@
     "titulo": "Disappearance",
     "autor": "David Dabydeen",
     "resumo": "Homem indiano radicado na Inglaterra confronta seu passado colonial e suas raízes caribenhas em narrativa introspectiva e densa. Romance psicológico, diáspora, memória."
+  },
+  {
+    "id": 332,
+    "titulo": "Un Fils de la Nuit",
+    "autor": "Élie Stephenson",
+    "resumo": "Protagonista enfrenta as duras condições sociais e a busca por identidade em meio à complexa realidade guianense. Romance social, identidade, Guiana Francesa."
+  },
+  {
+    "id": 333,
+    "titulo": "The Cost of Sugar",
+    "autor": "Cynthia McLeod",
+    "resumo": "Duas meias-irmãs enfrentam a crueldade da escravidão e os conflitos da aristocracia colonial holandesa no Suriname setecentista. Romance histórico, escravidão, Suriname."
+  },
+  {
+    "id": 334,
+    "titulo": "Sabrina and the Slave",
+    "autor": "Cynthia McLeod",
+    "resumo": "Romance histórico explora as paixões proibidas, os dilemas morais e a violência cotidiana nas antigas plantações surinamesas. Romance histórico, colonialismo, paixão."
+  },
+  {
+    "id": 335,
+    "titulo": "The Queen of Paramaribo",
+    "autor": "Clark Accord",
+    "resumo": "Narrativa urbana baseada em fatos reais retrata a vida fascinante e trágica de uma figura marcante no Suriname. Romance biográfico, cultura popular, marginalidade."
+  },
+  {
+    "id": 336,
+    "titulo": "Temeku",
+    "autor": "Edgar Cairo",
+    "resumo": "Trabalhadores e imigrantes enfrentam o choque cultural, a pobreza e as duras transformações sociais na sociedade multicultural do Suriname. Romance social, multiculturalismo, identidade."
+  },
+  {
+    "id": 337,
+    "titulo": "Palace of the Peacock",
+    "autor": "Wilson Harris",
+    "resumo": "Expedição mítica adentra a perigosa paisagem amazônica guianense em busca de redenção espiritual e fantasmas coloniais. Romance experimental, mitologia, Amazônia."
+  },
+  {
+    "id": 338,
+    "titulo": "The Far Journey of Oudin",
+    "autor": "Wilson Harris",
+    "resumo": "Homem dominado pela ganância e pela obsessão explora a paisagem guianense em uma jornada mítica de culpa e redenção. Romance experimental, mitologia, pós-colonialismo."
+  },
+  {
+    "id": 339,
+    "titulo": "The Whole Armour",
+    "autor": "Wilson Harris",
+    "resumo": "Jovem acusado de assassinato foge para a selva guianense, enfrentando crenças ancestrais, medo e o peso da culpa. Romance, selva, suspense."
+  },
+  {
+    "id": 340,
+    "titulo": "The Secret Ladder",
+    "autor": "Wilson Harris",
+    "resumo": "Engenheiro mede o nível das águas na floresta guianense e entra em conflito com a comunidade nativa local. Romance, conflito cultural, floresta."
+  },
+  {
+    "id": 341,
+    "titulo": "Doña Bárbara",
+    "autor": "Rómulo Gallegos",
+    "resumo": "Advogado idealista retorna às vastas planícies venezuelanas para enfrentar a tirania e a brutalidade de uma poderosa proprietária de terras. Romance regionalista, natureza, conflito."
+  },
+  {
+    "id": 342,
+    "titulo": "Canaima",
+    "autor": "Rómulo Gallegos",
+    "resumo": "Homem enfrenta a implacável e sufocante selva amazônica venezuelana e os violentos conflitos humanos na exploração de borracha e madeira. Romance regionalista, selva, violência."
+  },
+  {
+    "id": 343,
+    "titulo": "Ifigenia",
+    "autor": "Teresa de la Parra",
+    "resumo": "Jovem venezuelana educada na Europa retorna a Caracas e choca a sociedade patriarcal ao buscar sua independência intelectual. Romance social, feminismo, aristocracia."
+  },
+  {
+    "id": 344,
+    "titulo": "Las Memorias de Mamá Blanca",
+    "autor": "Teresa de la Parra",
+    "resumo": "Senhora idosa relembra com ironia e lirismo sua infância aristocrática em fazenda isolada no interior da Venezuela. Romance intimista, memória, aristocracia."
+  },
+  {
+    "id": 345,
+    "titulo": "Los Pequeños Seres",
+    "autor": "Salvador Garmendia",
+    "resumo": "Funcionário público pacato em Caracas enfrenta o tédio cotidiano, a mediocridade urbana e a desintegração de sua vida pessoal. Romance urbano, psicologia, alienação."
+  },
+  {
+    "id": 346,
+    "titulo": "Día de Ceniza",
+    "autor": "Salvador Garmendia",
+    "resumo": "Habitantes de bairro marginalizado em Caracas enfrentam a decadência moral, a pobreza extrema e as tensões sufocantes da convivência urbana. Romance social, realismo, Caracas."
+  },
+  {
+    "id": 347,
+    "titulo": "País Portátil",
+    "autor": "Adriano González León",
+    "resumo": "Jovem guerrilheiro em Caracas revive as memórias violentas e políticas de sua família ao longo das revoluções venezuelanas. Romance político, ditadura, juventude."
+  },
+  {
+    "id": 348,
+    "titulo": "Doña Inés contra el olvido",
+    "autor": "Ana Teresa Torres",
+    "resumo": "Mulher luta bravamente nos tribunais coloniais de Caracas para defender suas terras contra a corrupção e o esquecimento. Romance histórico, memória, justiça."
+  },
+  {
+    "id": 349,
+    "titulo": "La favorita del Señor",
+    "autor": "Ana Teresa Torres",
+    "resumo": "Narrativa envolvente expõe os bastidores do poder, os segredos íntimos e a opressão em momentos cruciais da história venezuelana. Romance histórico, poder, opressão."
+  },
+  {
+    "id": 350,
+    "titulo": "Los Amos del Valle",
+    "autor": "Francisco Herrera Luque",
+    "resumo": "Saga histórica retrata a ascensão cruel e os abusos da elite colonial branca em Caracas durante o período hispânico. Romance histórico, elite, colonialismo."
+  },
+  {
+    "id": 351,
+    "titulo": "Boves, el Urogallo",
+    "autor": "Francisco Herrera Luque",
+    "resumo": "Brutal comandante realista espalha terror e destruição durante a sangrenta Guerra da Independência da Venezuela no século XIX. Romance histórico, violência, guerra."
+  },
+  {
+    "id": 352,
+    "titulo": "La Bella de la Alhambra",
+    "autor": "Laura Antillano",
+    "resumo": "Jovem dançarina em cabaré de Maracaibo busca fama e amor na vibrante e nostálgica Venezuela da primeira metade do século. Romance, cultura popular, música."
+  },
+  {
+    "id": 353,
+    "titulo": "Perfume de Gardenia",
+    "autor": "Laura Antillano",
+    "resumo": "Personagens urbanos lidam com dilemas afetivos, memórias da juventude e as sutis transformações cotidianas na sociedade venezuelana contemporânea. Romance contemporâneo, intimismo, afeto."
+  },
+  {
+    "id": 354,
+    "titulo": "Exilio en Bowery",
+    "autor": "Israel Centeno",
+    "resumo": "Imigrante venezuelano enfrenta a marginalidade, o desespero e a sobrevivência brutal nas ruas frias e implacáveis de Nova York. Romance urbano, exílio, violência."
+  },
+  {
+    "id": 355,
+    "titulo": "El Complot",
+    "autor": "Israel Centeno",
+    "resumo": "Conspirações políticas e tensões sombrias envolvendo o submundo urbano colocam em risco a vida de protagonistas encurralados pela violência. Romance policial, política, suspense."
+  },
+  {
+    "id": 356,
+    "titulo": "A Neve do Almirante",
+    "autor": "Álvaro Mutis",
+    "resumo": "O marinheiro Maqroll adentra um rio caudaloso em busca de lendárias minas de madeira, enfrentando febre, desilusão e solidão. Romance existencial, aventura, Maqroll."
+  },
+  {
+    "id": 357,
+    "titulo": "Ilona Vem com a Chuva",
+    "autor": "Álvaro Mutis",
+    "resumo": "Maqroll reencontra sua antiga amiga Ilona no Panamá para abrir um bordel peculiar com mulheres vestidas de aeromoças. Romance, amizade, erotismo."
+  },
+  {
+    "id": 358,
+    "titulo": "A Virgem dos Sicários",
+    "autor": "Fernando Vallejo",
+    "resumo": "Gramático envelhecido retorna a Medellín e se envolve com jovens matadores de aluguel em meio à violência do narcotráfico. Romance urbano, violência, Medellín."
+  },
+  {
+    "id": 359,
+    "titulo": "El Desbarrancadero",
+    "autor": "Fernando Vallejo",
+    "resumo": "Narrador retorna à Colômbia para acompanhar os últimos dias de vida de seu irmão doente, criticando severamente a sociedade. Romance autobiográfico, família, tragédia."
+  },
+  {
+    "id": 360,
+    "titulo": "Delírio",
+    "autor": "Laura Restrepo",
+    "resumo": "Homem retorna de viagem e encontra sua esposa mergulhada em um surto psicótico, investigando os segredos familiares que causaram o delírio. Romance psicológico, loucura, Colômbia."
+  },
+  {
+    "id": 361,
+    "titulo": "La Novia Oscura",
+    "autor": "Laura Restrepo",
+    "resumo": "Jornalista investiga a lenda de uma prostituta icônica no maior acampamento petrolífero da Colômbia, revelando paixões e sofrimentos. Romance, prostituição, memória."
+  },
+  {
+    "id": 362,
+    "titulo": "Rosário Tijeras",
+    "autor": "Jorge Franco",
+    "resumo": "Jovem e bela matadora de aluguel em Medellín vive um triângulo amoroso enquanto enfrenta a inevitável espiral da violência. Romance urbano, narcotráfico, paixão."
+  },
+  {
+    "id": 363,
+    "titulo": "Paraíso Travel",
+    "autor": "Jorge Franco",
+    "resumo": "Imigrantes colombianos enfrentam a perigosa travessia clandestina pela América Central rumo a Nova York em busca do sonho americano. Romance, imigração, drama."
+  },
+  {
+    "id": 364,
+    "titulo": "Ursúa",
+    "autor": "William Ospina",
+    "resumo": "Reconstituição épica da vida do conquistador espanhol Pedro de Ursúa em sua sangrenta e obsessiva busca por El Dorado. Romance histórico, conquista, Amazônia."
+  },
+  {
+    "id": 365,
+    "titulo": "El País de la Canela",
+    "autor": "William Ospina",
+    "resumo": "Expedição espanhola adentra a selva amazônica em busca do mítico país da canela, descobrindo o majestoso rio Amazonas. Romance histórico, exploração, Amazônia."
+  },
+  {
+    "id": 366,
+    "titulo": "El Olvido que Seremos",
+    "autor": "Héctor Abad Faciolince",
+    "resumo": "Relato intimista sobre a vida e o assassinato de um médico e ativista dos direitos humanos pelo paramilitarismo. Romance biográfico, memória, família."
+  },
+  {
+    "id": 367,
+    "titulo": "Angosta",
+    "autor": "Héctor Abad Faciolince",
+    "resumo": "Cidade fictícia dividida em setores sociais rígidos reflete o apartheid social, a violência e a repressão de um país. Romance distópico, crítica social, violência."
+  },
+  {
+    "id": 368,
+    "titulo": "La Luz Difícil",
+    "autor": "Tomás González",
+    "resumo": "Pai aguarda em Nova York a eutanásia de seu filho cego e acamado, refletindo com dor sobre a finitude. Romance intimista, paternidade, luto."
+  },
+  {
+    "id": 369,
+    "titulo": "Temporal",
+    "autor": "Tomás González",
+    "resumo": "Família de pescadores enfrenta tempestade iminente no Caribe colombiano enquanto tensões veladas e ressentimentos acumulados emergem na embarcação. Romance, tensão, mar."
+  },
+  {
+    "id": 370,
+    "titulo": "A Cidade e os Cães",
+    "autor": "Mario Vargas Llosa",
+    "resumo": "Alunos de colégio militar em Lima enfrentam a violência, o racismo e a brutalidade de um sistema opressor. Romance, militarismo, Lima."
+  },
+  {
+    "id": 371,
+    "titulo": "Conversas na Catedral",
+    "autor": "Mario Vargas Llosa",
+    "resumo": "Homem e motorista conversam em bar de Lima, desvendando a corrupção generalizada e a ditadura de Odría no Peru. Romance político, ditadura, corrupção."
+  },
+  {
+    "id": 372,
+    "titulo": "Os Rios Profundos",
+    "autor": "José María Arguedas",
+    "resumo": "Jovem mestiço dividido entre duas culturas experimenta as tensões raciais, sociais e a mística da natureza nos Andes peruanos. Romance indigenismo, Andes, identidade."
+  },
+  {
+    "id": 373,
+    "titulo": "Yawar Fiesta",
+    "autor": "José María Arguedas",
+    "resumo": "Comunidade andina se divide e resiste diante das autoridades locais durante a violenta e tradicional celebração taurina indígena. Romance indigenismo, cultura, conflito."
+  },
+  {
+    "id": 374,
+    "titulo": "Un Mundo para Julius",
+    "autor": "Alfredo Bryce Echenique",
+    "resumo": "Menino rico cresce na alta sociedade de Lima, observando com distanciamento crítico a hipocrisia e a frivolidade burguesa. Romance, sátira, Lima."
+  },
+  {
+    "id": 375,
+    "titulo": "La Vida Exagerada de Martín Romaña",
+    "autor": "Alfredo Bryce Echenique",
+    "resumo": "Exilado peruano na Europa relata suas desventuras amorosas, os delírios políticos e a nostalgia da pátria distante. Romance, exílio, humor."
+  },
+  {
+    "id": 376,
+    "titulo": "Crónica de San Gabriel",
+    "autor": "Julio Ramón Ribeyro",
+    "resumo": "Jovem de Lima enviado a uma fazenda isolada presencia a decadência aristocrática, as paixões e os segredos familiares. Romance psicológico, província, decadência."
+  },
+  {
+    "id": 377,
+    "titulo": "O Tungstênio",
+    "autor": "César Vallejo",
+    "resumo": "Trabalhadores de minas peruanas enfrentam a exploração brutal de multinacionais norte-americanas e a conivência da elite corrupta local. Romance social, denúncia, capitalismo."
+  },
+  {
+    "id": 378,
+    "titulo": "La Sangre de la Aurora",
+    "autor": "Claudia Salazar Jiménez",
+    "resumo": "Três mulheres enfrentam os horrores, a violência brutal e o fogo cruzado do conflito armado interno no Peru. Romance histórico, violência, perspectiva feminina."
+  },
+  {
+    "id": 379,
+    "titulo": "Abril Rojo",
+    "autor": "Santiago Roncagliolo",
+    "resumo": "Promotor público investiga assassinatos macabros em Ayacucho e descobre o ressurgimento aterrorizante do grupo terrorista Sendero Luminoso. Thriller político, terrorismo, suspense."
+  },
+  {
+    "id": 380,
+    "titulo": "La Hora Azul",
+    "autor": "Rocío Silva-Santisteban",
+    "resumo": "Advogada bem-sucedida descobre o passado sombrio de seu pai como militar torturador durante a repressão política no Peru. Romance, memória, direitos humanos."
+  },
+  {
+    "id": 381,
+    "titulo": "Todo sobre mi padre",
+    "autor": "Rocío Silva-Santisteban",
+    "resumo": "Narrativa intimista explora as memórias familiares, os laços de afeto e os silêncios históricos em meio aos traumas do país. Romance intimista, memória, família."
+  },
+  {
+    "id": 382,
+    "titulo": "Huasipungo",
+    "autor": "Jorge Icaza",
+    "resumo": "Indígenas equatorianos sofrem a exploração brutal de latifundiários e autoridades corrompidas na defesa violenta de suas terras ancestrais. Romance indigenismo, exploração, tragédia."
+  },
+  {
+    "id": 383,
+    "titulo": "El Chulla Romero y Flores",
+    "autor": "Jorge Icaza",
+    "resumo": "Jovem mestiço em Quito tenta ascender socialmente fingindo uma aristocracia inexistente na burocracia estatal corrupta. Romance social, sátira, Quito."
+  },
+  {
+    "id": 384,
+    "titulo": "Don Goyo",
+    "autor": "Demetrio Aguilera Malta",
+    "resumo": "Velho patriarca de manguezal lidera sua comunidade costeira enfrentando os dilemas da modernização, das lendas e da natureza. Romance regionalista, mar, Equador."
+  },
+  {
+    "id": 385,
+    "titulo": "Siete Lunas y Siete Serpientes",
+    "autor": "Demetrio Aguilera Malta",
+    "resumo": "Vila costeira equatoriana vivencia conflitos políticos, crenças mágicas, corrupção e alianças bizarras com o demônio. Realismo mágico, política, Equador."
+  },
+  {
+    "id": 386,
+    "titulo": "Juyungo",
+    "autor": "Adalberto Ortiz",
+    "resumo": "Jovem afro-equatoriano enfrenta o racismo estrutural, a violência e a exploração nas matas e rios da costa do país. Romance afro-equatoriano, racismo, resistência."
+  },
+  {
+    "id": 387,
+    "titulo": "Bruna, Soroche y los Tíos",
+    "autor": "Alicia Yánez Cossío",
+    "resumo": "Jovem aristocrata em Quito presencia a decadência de sua família e as profundas transformações políticas do Equador. Romance histórico, sátira, Quito."
+  },
+  {
+    "id": 388,
+    "titulo": "La Casa del Alquimista",
+    "autor": "Alicia Yánez Cossío",
+    "resumo": "Personagens excêntricos habitam mansão misteriosa em Quito, misturando mistério, crítica social e elementos fantásticos do cotidiano. Romance fantástico, crítica, Equador."
+  },
+  {
+    "id": 389,
+    "titulo": "Cuando los Guayacanes Florecían",
+    "autor": "Nelson Estupiñán Bass",
+    "resumo": "Mestiços e negros equatorianos participam de revoltas armadas enfrentando o racismo e as injustiças sociais históricas. Romance histórico, revolta, Equador."
+  },
+  {
+    "id": 390,
+    "titulo": "El Paraíso",
+    "autor": "Nelson Estupiñán Bass",
+    "resumo": "Narrativa imersiva explora as tensões raciais, a busca por igualdade e os conflitos sociais na vibrante costa equatoriana. Romance social, racismo, Equador."
+  },
+  {
+    "id": 391,
+    "titulo": "La Isla Mágica",
+    "autor": "Rogelio Sinán",
+    "resumo": "Trama polifônica e surrealista acompanha histórias entrelaçadas de moradores e visitantes em uma ilha misteriosa cheia de mitos. Romance surrealista, vanguarda, Panamá."
+  },
+  {
+    "id": 392,
+    "titulo": "Plenitud",
+    "autor": "Rogelio Sinán",
+    "resumo": "Narrativa poética e existencial explora os conflitos psicológicos e as buscas espirituais de um protagonista em transformação interior. Romance poético, introspecção, vanguarda."
+  },
+  {
+    "id": 393,
+    "titulo": "El Guerrillero de Panamá",
+    "autor": "Carlos Francisco Changmarín",
+    "resumo": "Relato histórico e engajado narra a luta popular de camponeses panamenhos contra a opressão e a dominação estrangeira. Romance histórico, campesinato, resistência."
+  },
+  {
+    "id": 394,
+    "titulo": "La Zarza Ardiente",
+    "autor": "Justo Arroyo",
+    "resumo": "Protagonista lida com dilemas morais, segredos do passado e os conflitos sociais na Cidade do Panamá ao longo das décadas. Romance psicológico, memória, Panamá."
+  },
+  {
+    "id": 395,
+    "titulo": "El Desván",
+    "autor": "Justo Arroyo",
+    "resumo": "Família panamenha enfrenta a decadência de seus laços afetivos enquanto memórias ocultas emergem do sótão da antiga casa ancestral. Romance, memória, família."
+  },
+  {
+    "id": 396,
+    "titulo": "El Cuarto Edén",
+    "autor": "Consuelo Tomás",
+    "resumo": "Mulheres enfrentam os desafios, os dilemas e as injustiças do cotidiano em meio às profundas transformações sociais do Panamá. Romance contemporâneo, identidade feminina, sociedade."
+  },
+  {
+    "id": 397,
+    "titulo": "Mamita Yunai",
+    "autor": "Carlos Luis Fallas",
+    "resumo": "Relato cru e denunciante expõe a exploração humana, as doenças e as péssimas condições dos trabalhadores nas plantações bananeiras. Romance social, denúncia, Costa Rica."
+  },
+  {
+    "id": 398,
+    "titulo": "Marcos Ramírez",
+    "autor": "Carlos Luis Fallas",
+    "resumo": "Garoto rebelde cresce no interior costarriquenho, vivendo aventuras populares, dilemas escolares e as transformações sociais do país. Romance de formação, infância, Costa Rica."
+  },
+  {
+    "id": 399,
+    "titulo": "Diario de una multitud",
+    "autor": "Carmen Naranjo",
+    "resumo": "Vozes anônimas da cidade se entrelaçam para criar um retrato fragmentado, poético e crítico da rotina urbana costarriquenha. Romance experimental, vida urbana, sociedade."
+  },
+  {
+    "id": 400,
+    "titulo": "La Ruta de su Evasión",
+    "autor": "Yolanda Oreamuno",
+    "resumo": "Romance psicológico e inovador investiga os traumas, segredos e angústias de uma família sufocada pelo machismo e convenções. Romance psicológico, vanguarda, família."
+  },
+  {
+    "id": 401,
+    "titulo": "Los Molinos de Dios",
+    "autor": "Alberto Cañas",
+    "resumo": "Trama política e histórica explora as rivalidades familiares, os abusos de poder e os bastidores das transformações costarriquenhas. Romance histórico, política, Costa Rica."
+  },
+  {
+    "id": 402,
+    "titulo": "La Loca de Gandoca",
+    "autor": "Anacristina Rossi",
+    "resumo": "Mulher luta apaixonadamente contra a destruição gananciosa e a corrupção estatal de um parque nacional na costa caribenha. Romance ecológico, denúncia, natureza."
+  },
+  {
+    "id": 403,
+    "titulo": "Limón Blues",
+    "autor": "Anacristina Rossi",
+    "resumo": "Saga ambientada na província de Limón retrata a formação, as lutas sociais e a rica cultura da comunidade afro-costarriquenha. Romance histórico, afro-caribenho, Costa Rica."
+  },
+  {
+    "id": 404,
+    "titulo": "Hombres Curtidos",
+    "autor": "Quince Duncan",
+    "resumo": "Imigrantes afro-caribenhos enfrentam o preconceito racial, a dureza do trabalho e a busca por dignidade na costa costarriquenha. Romance social, racismo, identidade."
+  },
+  {
+    "id": 405,
+    "titulo": "Los Cuervos",
+    "autor": "Quince Duncan",
+    "resumo": "Conflitos raciais e tensões sociais marcam a vida de uma comunidade que luta para preservar suas tradições e direitos ancestrais. Romance, resistência cultural, identidade."
+  },
+  {
+    "id": 406,
+    "titulo": "A Mulher Habitada",
+    "autor": "Gioconda Belli",
+    "resumo": "Arquiteta nicaraguense engaja-se na guerrilha revolucionária enquanto sua alma se funde à de uma guerreira indígena ancestral. Romance político, feminismo, Nicarágua."
+  },
+  {
+    "id": 407,
+    "titulo": "El País de las Mujeres",
+    "autor": "Gioconda Belli",
+    "resumo": "Partido político liderado exclusivamente por mulheres chega ao poder na Nicarágua, transformando radicalmente as estruturas sociais do país. Romance político, feminismo, utopia."
+  },
+  {
+    "id": 408,
+    "titulo": "Margarita, Está Linda la Mar",
+    "autor": "Sergio Ramírez",
+    "resumo": "Atentado histórico contra o ditador Anastasio Somoza e a saga familiar desvendam os bastidores sombrios da Nicarágua. Romance histórico, política, ditadura."
+  },
+  {
+    "id": 409,
+    "titulo": "Castigo Divino",
+    "autor": "Sergio Ramírez",
+    "resumo": "Morte misteriosa de figura enigmática em León abala a alta sociedade local em narrativa com forte tom policial. Romance policial, sátira, Nicarágua."
   }
 
 ]
