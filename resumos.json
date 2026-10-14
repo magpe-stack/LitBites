@@ -310,5 +310,233 @@
     "titulo": "A Garota no Trem",
     "autor": "Paula Hawkins",
     "resumo": "Mulher alcoólatra observa casal da janela do trem e envolve-se em investigação de desaparecimento. Suspense psicológico, memória, obsessão."
+  },
+  {
+    "id": 53,
+    "titulo": "A Guerra dos Tronos",
+    "autor": "George R.R. Martin",
+    "resumo": "Famílias nobres lutam pelo controle do Trono de Ferro enquanto ameaça ancestral desperta no norte. Fantasia épica, intriga política, brutalidade."
+  },
+  {
+    "id": 54,
+    "titulo": "O Nome do Vento",
+    "autor": "Patrick Rothfuss",
+    "resumo": "Músico prodígio narra sua trajetória desde infância trágica até tornar-se mago temido e lendário. Fantasia, música, magia, memória."
+  },
+  {
+    "id": 55,
+    "titulo": "O Caminho dos Reis",
+    "autor": "Brandon Sanderson",
+    "resumo": "Mundo devastado por tempestades vê guerreiros ressurgirem para combater ameaça de extinção da humanidade. Fantasia épica, honra, guerra."
+  },
+  {
+    "id": 56,
+    "titulo": "Bel-Ami",
+    "autor": "Guy de Maupassant",
+    "resumo": "Jovem ambicioso ascende socialmente em Paris através de manipulações amorosas e políticas. Romance realista, ambição, sociedade."
+  },
+  {
+    "id": 57,
+    "titulo": "Harry Potter e a Pedra Filosofal",
+    "autor": "J.K. Rowling",
+    "resumo": "Órfão descobre ser bruxo e ingressa em escola de magia enquanto enfrenta vilão renascido. Fantasia infantojuvenil, amizade, magia."
+  },
+  {
+    "id": 58,
+    "titulo": "Percy Jackson e o Ladrão de Raios",
+    "autor": "Rick Riordan",
+    "resumo": "Adolescente descobre ser semideus filho de Poseidon e é acusado de roubar o raio mestre de Zeus. Fantasia urbana, mitologia grega."
+  },
+  {
+    "id": 59,
+    "titulo": "Entrevista com o Vampiro",
+    "autor": "Anne Rice",
+    "resumo": "Vampiro narra sua trágica existência secular, busca por sentido e conflitos com seus criadores em Nova Orleans. Horror gótico, imortalidade, melancolia."
+  },
+  {
+    "id": 60,
+    "titulo": "Deuses Americanos",
+    "autor": "Neil Gaiman",
+    "resumo": "Ex-presidiário é contratado por antigo deus para viagem pelos EUA preparando guerra contra deuses modernos. Fantasia urbana, mitologia, estrada."
+  },
+  {
+    "id": 61,
+    "titulo": "Lugar Nenhum",
+    "autor": "Neil Gaiman",
+    "resumo": "Homem comum ajuda garota ferida e cai em mundo subterrâneo e perigoso escondido sob a cidade de Londres. Fantasia urbana, mundo secreto, aventura."
+  },
+  {
+    "id": 62,
+    "titulo": "O Pintassilgo",
+    "autor": "Donna Tartt",
+    "resumo": "Garoto sobrevive a atentado em museu e carrega secretamente pintura valiosa que molda toda sua vida. Drama, arte, culpa, crescimento."
+  },
+  {
+    "id": 63,
+    "titulo": "A Menina que Roubava Livros",
+    "autor": "Markus Zusak",
+    "resumo": "A Morte narra história de garota alemã que rouba livros e acolhe judeu perseguido no porão. Drama histórico, Segunda Guerra, leitura."
+  },
+  {
+    "id": 64,
+    "titulo": "O Caçador de Pipas",
+    "autor": "Khaled Hosseini",
+    "resumo": "Homem busca redenção por traição de infância retornando ao Afeganistão dominado pelo grupo Talibã. Drama, amizade, culpa, redenção."
+  },
+  {
+    "id": 65,
+    "titulo": "As Vinhas da Ira",
+    "autor": "John Steinbeck",
+    "resumo": "Família de agricultores migra para Califórnia durante Grande Depressão enfrentando exploração e fome extrema. Ficção social, pobreza, solidariedade."
+  },
+  {
+    "id": 66,
+    "titulo": "Sobre Ratos e Homens",
+    "autor": "John Steinbeck",
+    "resumo": "Dois trabalhadores itinerantes buscam sonho americano durante crise, mas tragédia interrompe seus planos ingênuos. Novela, amizade, tragédia."
+  },
+  {
+    "id": 67,
+    "titulo": "A Festa do Bode",
+    "autor": "Mario Vargas Llosa",
+    "resumo": "Retorno de mulher à República Dominicana revive memórias da brutal e opressiva ditadura de Trujillo. Romance histórico, ditadura, trauma."
+  },
+  {
+    "id": 68,
+    "titulo": "A Insustentável Leveza do Ser",
+    "autor": "Milan Kundera",
+    "resumo": "Relacionamentos entre intelectuais em Praga misturam amor, política, filosofia e o peso das escolhas. Romance filosófico, existência, política."
+  },
+  {
+    "id": 69,
+    "titulo": "O Amor nos Tempos do Cólera",
+    "autor": "Gabriel García Márquez",
+    "resumo": "Homem espera mais de cinquenta anos pelo amor de sua juventude em cidade caribenha. Romance, paixão, envelhecimento."
+  },
+  {
+    "id": 70,
+    "titulo": "Pedro Páramo",
+    "autor": "Juan Rulfo",
+    "resumo": "Homem viaja à cidade fantasma em busca do pai e encontra povoado habitado apenas por sussurros e mortos. Realismo mágico, morte, fantasmas."
+  },
+  {
+    "id": 71,
+    "titulo": "Siddhartha",
+    "autor": "Hermann Hesse",
+    "resumo": "Jovem indiano abandona família em busca de iluminação espiritual conhecendo ascetismo, prazeres e a sabedoria do rio. Ficção filosófica, busca interior."
+  },
+  {
+    "id": 72,
+    "titulo": "O Lobo da Estepe",
+    "autor": "Hermann Hesse",
+    "resumo": "Homem solitário e dividido entre natureza humana e selvagem descobre teatro mágico de libertação interior. Romance existencial, alienação, mente."
+  },
+  {
+    "id": 73,
+    "titulo": "Snow Crash",
+    "autor": "Neal Stephenson",
+    "resumo": "Entregador de pizza no mundo real e espadachim na realidade virtual investiga vírus informático que infecta cérebros. Cyberpunk, linguística, metaverso."
+  },
+  {
+    "id": 74,
+    "titulo": "A Mão Esquerda da Escuridão",
+    "autor": "Ursula K. Le Guin",
+    "resumo": "Enviado humano visita planeta de habitantes sem sexo fixo e aprende sobre alteridade e diplomacia. Ficção científica, gênero, sociedade."
+  },
+  {
+    "id": 75,
+    "titulo": "O Homem do Castelo Alto",
+    "autor": "Philip K. Dick",
+    "resumo": "História alternativa em que as potências do Eixo venceram a Segunda Guerra e dividiram os EUA. Ficção científica, distopia, história."
+  },
+  {
+    "id": 76,
+    "titulo": "Androides Sonham com Ovelhas Elétricas?",
+    "autor": "Philip K. Dick",
+    "resumo": "Caçador de recompensas persegue androides fugitivos idênticos a humanos em Terra decadente. Ficção científica, empatia, futuro."
+  },
+  {
+    "id": 77,
+    "titulo": "Solaris",
+    "autor": "Stanislaw Lem",
+    "resumo": "Cientistas em estação espacial tentam comunicar-se com oceano vivo que materializa memórias dolorosas de suas mentes. Ficção científica, inconsciente, cosmos."
+  },
+  {
+    "id": 78,
+    "titulo": "A Estrada",
+    "autor": "Cormac McCarthy",
+    "resumo": "Pai e filho caminham por Estados Unidos devastados enfrentando frio, fome e canibais na luta pela sobrevivência. Pós-apocalíptico, amor paterno, esperança."
+  },
+  {
+    "id": 79,
+    "titulo": "O Perfume",
+    "autor": "Patrick Süskind",
+    "resumo": "Homem sem odor próprio mas com olfato sobre-humano assassina mulheres para criar o perfume supremo do amor. Horror histórico, obsessão, sentidos."
+  },
+  {
+    "id": 80,
+    "titulo": "O Clube da Luta",
+    "autor": "Chuck Palahniuk",
+    "resumo": "Homem insone cria clube secreto de lutas corporais que evolui para organização terrorista anti-materialista. Sátira social, masculinidade, caos."
+  },
+  {
+    "id": 81,
+    "titulo": "Psicopata Americano",
+    "autor": "Bret Easton Ellis",
+    "resumo": "Executivo de Wall Street vive vida fútil de luxo enquanto comete assassinatos e mutilações brutais em segredo. Sátira sombria, consumismo, violência."
+  },
+  {
+    "id": 82,
+    "titulo": "Trainspotting",
+    "autor": "Irvine Welsh",
+    "resumo": "Grupo de jovens em Edimburgo vive imerso no vício em heroína, desemprego e criminalidade urbana marginal. Ficção marginal, vício, juventude."
+  },
+  {
+    "id": 83,
+    "titulo": "Trópico de Câncer",
+    "autor": "Henry Miller",
+    "resumo": "Escritor americano vive vida boemia, miserável e hipersexualizada em Paris durante a década de trinta. Romance autobiográfico, erotismo, liberdade."
+  },
+  {
+    "id": 84,
+    "titulo": "O Pequeno Príncipe",
+    "autor": "Antoine de Saint-Exupéry",
+    "resumo": "Aviador perdido no deserto encontra garoto vindo de pequeno asteroide cheio de lições poéticas. Fábula filosófica, amizade, infância."
+  },
+  {
+    "id": 85,
+    "titulo": "O Processo",
+    "autor": "Franz Kafka",
+    "resumo": "Bancário é preso e processado por autoridades sem jamais descobrir o crime do qual é acusado. Ficção absurda, burocracia, alienação."
+  },
+  {
+    "id": 86,
+    "titulo": "Os Miseráveis",
+    "autor": "Victor Hugo",
+    "resumo": "Ex-condenado busca redenção na França do século XIX enquanto é perseguido por inspetor obcecado pela lei. Romance histórico, justiça, compaixão."
+  },
+  {
+    "id": 87,
+    "titulo": "Guerra e Paz",
+    "autor": "Liev Tolstói",
+    "resumo": "Famílias aristocráticas russas enfrentam dilemas pessoais, amores e transformações durante a invasão napoleônica. Romance histórico, guerra, sociedade."
+  },
+  {
+    "id": 88,
+    "titulo": "Anna Karenina",
+    "autor": "Liev Tolstói",
+    "resumo": "Aristocrata casada enfrenta o julgamento da alta sociedade ao viver paixão avassaladora por jovem conde. Romance, tragédia, hipocrisia social."
+  },
+  {
+    "id": 89,
+    "titulo": "Os Irmãos Karamázov",
+    "autor": "Fiódor Dostoiévski",
+    "resumo": "Assassinato do pai desencadeia conflitos filosóficos, morais e religiosos entre três irmãos de personalidades opostas. Romance filosófico, parricídio, fé."
+  },
+  {
+    "id": 90,
+    "titulo": "O Idiota",
+    "autor": "Fiódor Dostoiévski",
+    "resumo": "Príncipe bondoso e ingênuo tenta navegar na sociedade russa corrupta, sendo tomado por louco pelos outros. Romance psicológico, pureza, tragédia."
   }
 ]
