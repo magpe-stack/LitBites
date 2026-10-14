@@ -1,6 +1,6 @@
 # LitBites 📚
 
-O **LitBites** é um Progressive Web App (PWA) minimalista desenvolvido em preto e branco que apresenta microresumos literários clássicos de forma totalmente **aleatória**, permitindo leitura rápida, cópia instantânea e funcionamento **100% offline**.
+O **LitBites** é um Progressive Web App (PWA) minimalista desenvolvido em preto e branco que apresenta microresumos literários de forma totalmente **aleatória**, permitindo leitura rápida, cópia instantânea e funcionamento **100% offline**.
 
 ---
 
@@ -10,9 +10,9 @@ Um **Progressive Web App (PWA)** combina o melhor da web e dos aplicativos móve
 ---
 
 ## 📖 Como Usar no Site (Sem Instalar)
-Basta abrir o arquivo `index.html` ou acessar o link publicado no seu navegador web favorito:
+Basta abrir o arquivo `index.html` ou acessar o link publicado no seu navegador web favorito (lembre-se de rodar via servidor local, como o Live Server do VS Code, para permitir a leitura do `resumos.json`):
 1. **Passar (🫲):** Clique no botão com o ícone de mão deslizando para sortear e exibir um novo microresumo aleatório.
-2. **Copiar (🖐️):** Clique no botão com o ícone de mão aberta para copiar o resumo e as informações da obra para a sua área de transferência.
+2. **Copiar (🖐️):** Clique no botão com o ícone de mão aberta para copiar o título, autor e o resumo para a sua área de transferência.
 3. **Alternar Tema:** Clique no botão `🌓` no topo à direita para alternar entre o modo claro e escuro.
 
 ---
@@ -34,17 +34,6 @@ Basta abrir o arquivo `index.html` ou acessar o link publicado no seu navegador 
 1. Acesse o site no navegador.
 2. Clique no ícone de instalação na barra de endereços (ou abra o menu `⋮` > **Instalar LitBites...**).
 3. Confirme. O app abrirá em uma janela própria dedicada.
-
----
-
-## 💻 Como Instalar e Rodar Localmente
-
-1. Baixe todos os arquivos do projeto para uma pasta local (`index.html`, `style.css`, `app.js`, `resumos.json`, `sw.js`, `manifest.json`, `logo.svg`).
-2. Inicie um servidor HTTP local simples na pasta (necessário para que o `fetch` leia o arquivo `resumos.json` corretamente):
-   - **Com Python 3:** `python -m http.server 8000`
-   - **Com Node.js / npx:** `npx serve`
-   - **Com VS Code:** Use a extensão *Live Server* e clique em "Go Live".
-3. Acesse `http://localhost:8000` no seu navegador.
 
 ---
 
