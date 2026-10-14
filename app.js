@@ -34,13 +34,15 @@ function getRandomSummary() {
   const randomIndex = Math.floor(Math.random() * resumosList.length);
   const item = resumosList[randomIndex];
 
-  summaryText.textContent = `“${item.resumo}”`;
+  // Título e Autor no topo (meta)
   summaryMeta.textContent = `${item.titulo} — ${item.autor}`;
+  // Resumo sem aspas na parte de baixo
+  summaryText.textContent = item.resumo;
 }
 
 // --- Copiar Resumo Atual ---
 async function copySummary() {
-  const textToCopy = `${summaryText.textContent} \n\n(${summaryMeta.textContent})`;
+  const textToCopy = `${summaryMeta.textContent}\n\n${summaryText.textContent}`;
   
   try {
     await navigator.clipboard.writeText(textToCopy);
