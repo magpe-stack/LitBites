@@ -1582,6 +1582,408 @@
     "titulo": "Um Episódio na Vida do Pintor Viajante",
     "autor": "César Aira",
     "resumo": "Pintor alemão do século XIX viaja pelos pampas e sofre acidente dramático que altera sua percepção da arte e da natureza. Novela, arte, viagem."
+  },
+  {
+    "id": 265,
+    "titulo": "Respiração Artificial",
+    "autor": "Ricardo Piglia",
+    "resumo": "Jovem intelectual investiga o desaparecimento de seu tio em meio às sombras e à censura da ditadura militar argentina. Romance político, metanarrativa, investigação."
+  },
+  {
+    "id": 266,
+    "titulo": "Alvo Noturno",
+    "autor": "Ricardo Piglia",
+    "resumo": "Ex-guerrilheiro é contratado para proteger executivo americano sequestrado em pequena cidade, desencadeando tensão política e policial. Romance policial, conspiração, suspense."
+  },
+  {
+    "id": 267,
+    "titulo": "Dinheiro Morto",
+    "autor": "Ricardo Piglia",
+    "resumo": "Inspetor investiga o assassinato de um ex-banqueiro em província argentina, desnudando a corrupção e os segredos da elite local. Romance policial, mistério, crítica social."
+  },
+  {
+    "id": 268,
+    "titulo": "O Auto da Compadecida",
+    "autor": "Ariano Suassuna",
+    "resumo": "Astuto sertanejo e seu amigo covarde enfrentam o julgamento divino após mortes violentas no sertão, salvos pela intercessão da Virgem. Peça teatral, humor, religiosidade."
+  },
+  {
+    "id": 269,
+    "titulo": "Ponciá Vicêncio",
+    "autor": "Conceição Evaristo",
+    "resumo": "Jovem negra deixa o campo rumo à cidade em busca de uma vida melhor, carregando as marcas da escravidão e o sonho de liberdade. Romance, memória, identidade."
+  },
+  {
+    "id": 270,
+    "titulo": "O Casamento",
+    "autor": "Nelson Rodrigues",
+    "resumo": "Pai tenta impedir casamento da filha após descobrir segredo do noivo, desencadeando farsa alucinada sobre os tabus da sociedade burguesa. Romance, sátira, tragédia."
+  },
+  {
+    "id": 271,
+    "titulo": "Vestido de Noiva",
+    "autor": "Nelson Rodrigues",
+    "resumo": "Jovem atropelada delira na mesa de cirurgia, dividindo sua mente entre a alucinação, a memória e o passado criminoso da irmã. Peça teatral, modernismo, psicologia."
+  },
+  {
+    "id": 272,
+    "titulo": "Engraçadinha: Seus Amores e Seus Pecados",
+    "autor": "Nelson Rodrigues",
+    "resumo": "Jovem carioca de família tradicional lida com o peso da culpa, desejos reprimidos e escândalos amorosos ao longo dos anos. Romance, drama, psicanálise."
+  },
+  {
+    "id": 273,
+    "titulo": "Toda Nudez Será Castigada",
+    "autor": "Nelson Rodrigues",
+    "resumo": "Viúvo conservador se apaixona por prostituta apresentada pelo próprio filho, mergulhando em espiral de manipulação, tragédia e decadência moral. Peça teatral, tragédia, erotismo."
+  },
+  {
+    "id": 274,
+    "titulo": "O Centauro no Jardim",
+    "autor": "Moacyr Scliar",
+    "resumo": "Homem nascido com a metade do corpo equina no Rio Grande do Sul busca aceitação e identidade no Brasil do século XX. Realismo mágico, identidade, judaísmo."
+  },
+  {
+    "id": 275,
+    "titulo": "A Mulher que Escreveu a Bíblia",
+    "autor": "Moacyr Scliar",
+    "resumo": "Misteriosa mulher milenar relata sua versão íntima e surpreendente sobre os grandes episódios narrados nas Sagradas Escrituras. Realismo mágico, humor, história."
+  },
+  {
+    "id": 276,
+    "titulo": "Dois Irmãos",
+    "autor": "Milton Hatoum",
+    "resumo": "Rivalidade destrutiva entre irmãos gêmeos de origem libanesa em Manaus é narrada sob o olhar melancólico do filho de empregada. Romance familiar, Amazônia, conflito."
+  },
+  {
+    "id": 277,
+    "titulo": "Relato de um Certo Oriente",
+    "autor": "Milton Hatoum",
+    "resumo": "Jovem descendente de libaneses investiga as memórias e os segredos trágicos de sua família na floresta amazônica. Memória, imigração, Amazônia."
+  },
+  {
+    "id": 278,
+    "titulo": "O Filho Eterno",
+    "autor": "Cristovão Tezza",
+    "resumo": "Pai relata com profunda emoção o impacto, as dores e a transformação amorosa ao criar um filho diagnosticado com síndrome de Down. Romance intimista, paternidade, superação."
+  },
+  {
+    "id": 279,
+    "titulo": "A Tradutora",
+    "autor": "Cristovão Tezza",
+    "resumo": "Intérprete em congresso internacional reflete sobre sua trajetória profissional, seus fracassos amorosos e o vazio existencial da vida moderna. Romance psicológico, introspecção, dilemas."
+  },
+  {
+    "id": 280,
+    "titulo": "Cabeça a Prêmio",
+    "autor": "Marçal Aquino",
+    "resumo": "Matador profissional de aluguel executa ordens em pequena cidade do interior, revelando teias de corrupção, poder e interesses escusos. Romance policial, violência, corrupção."
+  },
+  {
+    "id": 281,
+    "titulo": "Eu Receberia as Piores Notícias dos Seus Lindos Lábios",
+    "autor": "Marçal Aquino",
+    "resumo": "Fotógrafo em garimpo na Amazônia envolve-se em paixão destrutiva e complexa com a esposa de pastor evangélico. Romance noir, paixão, violência."
+  },
+  {
+    "id": 282,
+    "titulo": "Cidade de Deus",
+    "autor": "Paulo Lins",
+    "resumo": "Jovens traficantes e moradores enfrentam a espiral da violência, pobreza e abandono estatal na periferia do Rio de Janeiro. Romance urbano, favela, marginalidade."
+  },
+  {
+    "id": 283,
+    "titulo": "A Casa dos Espíritos",
+    "autor": "Isabel Allende",
+    "resumo": "Saga monumental acompanha gerações da família Trueba no Chile, unindo amores intensos, tragédias políticas e realismo mágico. Realismo mágico, família, política."
+  },
+  {
+    "id": 284,
+    "titulo": "Eva Luna",
+    "autor": "Isabel Allende",
+    "resumo": "Órfã talentosa usa o dom de contar histórias para sobreviver e encantar todos ao seu redor na turbulenta América Latina. Realismo mágico, narrativa, destino."
+  },
+  {
+    "id": 285,
+    "titulo": "Os Detetives Selvagens",
+    "autor": "Roberto Bolaño",
+    "resumo": "Poetas boêmios embarcam em busca frenética por escritora misteriosa que desapareceu no México durante a década de 1970. Romance experimental, poesia, juventude."
+  },
+  {
+    "id": 286,
+    "titulo": "2666",
+    "autor": "Roberto Bolaño",
+    "resumo": "Épico monumental dividido em cinco partes investiga assassinatos brutais de mulheres em cidade fronteiriça mexicana e a literatura mundial. Romance experimental, violência, mistério."
+  },
+  {
+    "id": 287,
+    "titulo": "O Obsceno Pássaro da Noite",
+    "autor": "José Donoso",
+    "resumo": "Relato alucinatório e grotesco narrado por homem recluso em convento chileno que abriga monstros e figuras marginalizadas. Realismo mágico, grotesco, identidade."
+  },
+  {
+    "id": 288,
+    "titulo": "Casa de Campo",
+    "autor": "José Donoso",
+    "resumo": "Família aristocrática isolada em propriedade rural presencia subversão gradual e absurda da ordem social estabelecida pelos criados. Realismo mágico, crítica social, poder."
+  },
+  {
+    "id": 289,
+    "titulo": "Lumpérica",
+    "autor": "Diamela Eltit",
+    "resumo": "Mulher realiza ações performáticas em praça pública chilena sob vigilância militar e o controle asfixiante da ditadura. Experimentalismo, política, resistência."
+  },
+  {
+    "id": 290,
+    "titulo": "Los Vigilantes",
+    "autor": "Diamela Eltit",
+    "resumo": "Mãe isolada escreve cartas desesperadas para juiz em clima claustrofóbico de vigilância e opressão na sociedade ditatorial. Ficção experimental, opressão, resistência."
+  },
+  {
+    "id": 291,
+    "titulo": "Hijo de Ladrón",
+    "autor": "Manuel Rojas",
+    "resumo": "Jovem marginalizado relata sua infância e juventude nas ruas de Buenos Aires e Santiago enfrentando a pobreza e a dureza. Romance social, marginalidade, identidade."
+  },
+  {
+    "id": 292,
+    "titulo": "Nosotras que nos queremos tanto",
+    "autor": "Marcela Serrano",
+    "resumo": "Quatro mulheres chilenas de diferentes origens compartilham seus medos, amores e desilusões durante a transição democrática. Literatura feminina, amizade, política."
+  },
+  {
+    "id": 293,
+    "titulo": "El albergue de las mujeres tristes",
+    "autor": "Marcela Serrano",
+    "resumo": "Mulheres abrigadas em refúgio na Patagônia chilena curam feridas emocionais e superam a violência patriarcal juntas. Romance, solidariedade, cura."
+  },
+  {
+    "id": 294,
+    "titulo": "Bonsai",
+    "autor": "Alejandro Zambra",
+    "resumo": "Estudantes universitários em Santiago mantêm relacionamento melancólico enquanto cultivam planta ornamental e discutem leituras literárias minimalistas. Romance minimalista, intimismo, juventude."
+  },
+  {
+    "id": 295,
+    "titulo": "Formas de Volver a Casa",
+    "autor": "Alejandro Zambra",
+    "resumo": "Escritor adulto relembra sua infância nos anos oitenta em Santiago e os silêncios políticos da ditadura chilena. Romance intimista, memória, ditadura."
+  },
+  {
+    "id": 296,
+    "titulo": "La Reina Isabel Cantaba Rancheras",
+    "autor": "Hernán Rivera Letelier",
+    "resumo": "Prostitutas e mineiros do deserto de Atacama vivem dramas intensos e cotidianos de humor e tragédia. Narrativa popular, deserto, Chile."
+  },
+  {
+    "id": 297,
+    "titulo": "Santa María de las Flores Negras",
+    "autor": "Hernán Rivera Letelier",
+    "resumo": "Relato histórico e doloroso do massacre de operários grevistas nas salitreiras chilenas no início do século XX. Romance histórico, tragédia, operariado."
+  },
+  {
+    "id": 298,
+    "titulo": "Eu o Supremo",
+    "autor": "Augusto Roa Bastos",
+    "resumo": "Ditador paraguaio Gaspar de Francia dita suas memórias e delírios de poder absoluto enquanto enfrenta a solidão da velhice. Romance histórico, ditadura, tirania."
+  },
+  {
+    "id": 299,
+    "titulo": "Filho de Homem",
+    "autor": "Augusto Roa Bastos",
+    "resumo": "Painel épico retrata a história do Paraguai através de lutas sociais, revoltas camponesas e os horrores da Guerra do Chaco. Romance histórico, opressão, resistência."
+  },
+  {
+    "id": 300,
+    "titulo": "A Babosa",
+    "autor": "Gabriel Casaccia",
+    "resumo": "Mulher fofoqueira em cidadezinha paraguaia destrói reputações e incita conflitos domésticos com sua língua venenosa e intrigas mesquinhas. Realismo crítico, província, hipocrisia."
+  },
+  {
+    "id": 301,
+    "titulo": "Os Exilados",
+    "autor": "Gabriel Casaccia",
+    "resumo": "Grupo de refugiados políticos paraguaios na Argentina enfrenta a saudade da pátria, a miséria e a desagregação moral no exílio. Romance social, exílio, decadência."
+  },
+  {
+    "id": 302,
+    "titulo": "O Preço dos Sonhos",
+    "autor": "Josefina Plá",
+    "resumo": "Jovem sonhadora enfrenta a rigidez das tradições familiares em pequena cidade paraguaia em busca de liberdade pessoal. Romance, subjetividade, emancipação."
+  },
+  {
+    "id": 303,
+    "titulo": "A Sétima Pétala do Vento",
+    "autor": "Rubén Bareiro Saguier",
+    "resumo": "Romance poético acompanha as lembranças nostálgicas e dolorosas de um intelectual forçado ao exílio pela ditadura. Romance, exílio, nostalgia."
+  },
+  {
+    "id": 304,
+    "titulo": "Os Pomares do Silêncio",
+    "autor": "Dirma Pardo de Carugati",
+    "resumo": "Mulher reconstrói suas memórias de juventude em Assunção enquanto reflete sobre os silêncios e perdas familiares. Romance intimista, memória, identidade."
+  },
+  {
+    "id": 305,
+    "titulo": "Os Nós do Silêncio",
+    "autor": "Renée Ferrer",
+    "resumo": "Duas mulheres de classes sociais distintas no Paraguai tentam se libertar da dominação masculina e do casamento sufocante. Romance contemporâneo, gênero, liberdade."
+  },
+  {
+    "id": 306,
+    "titulo": "A Casa Vazia",
+    "autor": "Renée Ferrer",
+    "resumo": "Família aristocrática enfrenta o declínio financeiro e emocional dentro de um casarão decadente que esconde segredos obscuros do passado. Romance, decadência, memória."
+  },
+  {
+    "id": 307,
+    "titulo": "Rio Fugitivo",
+    "autor": "Edmundo Paz Soldán",
+    "resumo": "Jovens na Bolívia dos anos oitenta enfrentam transições políticas, amores juvenis e os dilemas da ditadura em Cochabamba. Romance histórico, juventude, política."
+  },
+  {
+    "id": 308,
+    "titulo": "Norte",
+    "autor": "Edmundo Paz Soldán",
+    "resumo": "Três imigrantes latino-americanos enfrentam o sonho americano, a solidão e a violência extrema nas margens dos Estados Unidos. Romance contemporâneo, imigração, violência."
+  },
+  {
+    "id": 309,
+    "titulo": "American Visa",
+    "autor": "Juan de Recacoechea",
+    "resumo": "Professor boliviano pacato tenta obter visto americano em La Paz, envolvendo-se acidentalmente com o submundo do crime e prostituição. Romance policial, crime, La Paz."
+  },
+  {
+    "id": 310,
+    "titulo": "Altiplano Express",
+    "autor": "Juan de Recacoechea",
+    "resumo": "Viagem de trem pelas alturas andinas transforma-se em perigosa rede de conspiração internacional, contrabando e tensão política nos Andes. Romance policial, conspiração, Andes."
+  },
+  {
+    "id": 311,
+    "titulo": "Terra Fresca de Seu Túmulo",
+    "autor": "Giovanna Rivero",
+    "resumo": "Coletânea de contos sombrios que explora a violência macabra, o horror psicológico e a vulnerabilidade do corpo humano. Contos, horror, fantástico."
+  },
+  {
+    "id": 312,
+    "titulo": "Os Afectos",
+    "autor": "Rodrigo Hasbún",
+    "resumo": "Família de exilados políticos europeus na Bolívia lida com a desintegração afetiva, escolhas radicais e silêncios do passado. Romance intimista, exílio, memória."
+  },
+  {
+    "id": 313,
+    "titulo": "Los dias más felices",
+    "autor": "Rodrigo Hasbún",
+    "resumo": "Personagens lidam com perdas, instabilidades emocionais e as pequenas rupturas cotidianas em tramas intimistas e cortantes. Novela, intimismo, sentimentos."
+  },
+  {
+    "id": 314,
+    "titulo": "A Vida Breve",
+    "autor": "Juan Carlos Onetti",
+    "resumo": "Publicitário frustrado em Buenos Aires inventa uma cidade fictícia chamada Santa María para escapar de sua realidade sufocante e opressiva. Romance existencial, fuga, ilusão."
+  },
+  {
+    "id": 315,
+    "titulo": "O Estaleiro",
+    "autor": "Juan Carlos Onetti",
+    "resumo": "Homem envelhecido aceita cargo administrativo em empresa falida e decadente, imergindo em atmosfera de ruína moral e total desesperança. Romance existencial, ruína, decadência."
+  },
+  {
+    "id": 316,
+    "titulo": "Junta-Cadáveres",
+    "autor": "Juan Carlos Onetti",
+    "resumo": "Ex-prostituta e empresário união mútua para abrir um bordel elegante em Santa María, enfrentando a hostilidade da moral conservadora local. Romance psicológico, moralidade, decadência."
+  },
+  {
+    "id": 317,
+    "titulo": "A Trégua",
+    "autor": "Mario Benedetti",
+    "resumo": "Viúvo entediado perto da aposentadoria em Montevidéu encontra inesperada paixão amorosa com colega de trabalho mais jovem, transformando sua rotina cinzenta. Romance urbano, amor, cotidiano."
+  },
+  {
+    "id": 318,
+    "titulo": "Primavera num Espelho Partido",
+    "autor": "Mario Benedetti",
+    "resumo": "Familiares e amigos lidam com as marcas dolorosas do exílio político, da saudade e da separação imposta pela ditadura uruguaia. Romance político, exílio, memória."
+  },
+  {
+    "id": 319,
+    "titulo": "Gracias por el Fuego",
+    "autor": "Mario Benedetti",
+    "resumo": "Homem planeja assassinar seu pai, um poderoso político corrupto e tirânico, enquanto reflete sobre a crise moral do país. Romance político, conflito familiar, corrupção."
+  },
+  {
+    "id": 320,
+    "titulo": "La Nave de los Locos",
+    "autor": "Cristina Peri Rossi",
+    "resumo": "Intelectual exilado viaja pela Europa enfrentando o desenraizamento, a solidão, a busca de identidade e o trauma político. Romance político, exílio, identidade."
+  },
+  {
+    "id": 321,
+    "titulo": "Carnaval",
+    "autor": "Felipe Polleri",
+    "resumo": "Habitantes de cidade sombria enfrentam o tédio, a loucura e o grotesco cotidiano durante as festividades caóticas de uma celebração popular. Romance surreal, grotesco, sátira."
+  },
+  {
+    "id": 322,
+    "titulo": "El alma de Gardel",
+    "autor": "Felipe Polleri",
+    "resumo": "Personagens marginalizados buscam redenção e sentido em meio à miséria urbana e aos ecos nostálgicos do tango tradicional uruguaio. Romance urbano, marginalidade, tango."
+  },
+  {
+    "id": 323,
+    "titulo": "El Club de los Nostálgicos",
+    "autor": "Hugo Burel",
+    "resumo": "Homens se reúnem periodicamente em Montevidéu para relembrar o passado áureo, escondendo segredos dolorosos e mágoas não resolvidas. Romance psicológico, memória, mistério."
+  },
+  {
+    "id": 324,
+    "titulo": "El Hijo de Nadie",
+    "autor": "Hugo Burel",
+    "resumo": "Protagonista enigmático investiga suas origens familiares em meio a conspirações políticas e tensões ocultas na sociedade uruguaia contemporânea. Romance de suspense, identidade, conspiração."
+  },
+  {
+    "id": 325,
+    "titulo": "La Azotea",
+    "autor": "Fernanda Trías",
+    "resumo": "Jovem reclusa em casarão deteriorado em Montevidéu lida com a claustrofobia, a loucura familiar e um relacionamento sufocante com o pai. Romance psicológico, clausura, tensão."
+  },
+  {
+    "id": 326,
+    "titulo": "Mugre Rosa",
+    "autor": "Fernanda Trías",
+    "resumo": "Mulher sobrevive solitária em cidade costeira sitiada por uma praga misteriosa enquanto cuida de uma criança e reflete sobre o colapso. Romance distópico, isolamento, colapso."
+  },
+  {
+    "id": 327,
+    "titulo": "The Ventriloquist’s Tale",
+    "autor": "Pauline Melville",
+    "resumo": "Mistério familiar e mitos ancestrais se entrelaçam na floresta guianense revelando segredos profundos e traumas coloniais. Romance, pós-colonialismo, mistério."
+  },
+  {
+    "id": 328,
+    "titulo": "Eating Air",
+    "autor": "Pauline Melville",
+    "resumo": "Personagens caribenhos em Londres e na Guiana enfrentam o desenraizamento, a imigração e os choques culturais modernos. Romance contemporâneo, diáspora, identidade."
+  },
+  {
+    "id": 329,
+    "titulo": "Palace of the Peacock",
+    "autor": "Wilson Harris",
+    "resumo": "Expedição mítica adentra a perigosa paisagem amazônica guianense em busca de redenção espiritual e fantasmas coloniais. Romance experimental, mitologia, Amazônia."
+  },
+  {
+    "id": 330,
+    "titulo": "The Intended",
+    "autor": "David Dabydeen",
+    "resumo": "Jovem imigrante indiano na Inglaterra lida com o racismo, a educação colonial e o isolamento cultural na juventude. Romance de formação, diáspora, colonialismo."
+  },
+  {
+    "id": 331,
+    "titulo": "Disappearance",
+    "autor": "David Dabydeen",
+    "resumo": "Homem indiano radicado na Inglaterra confronta seu passado colonial e suas raízes caribenhas em narrativa introspectiva e densa. Romance psicológico, diáspora, memória."
   }
 
 ]
