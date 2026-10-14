@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100%" height="100%">
+  <!-- Fundo arredondado estilo app icon -->
+  <rect width="100" height="100" rx="22" fill="#ffffff" />
+  
+  <!-- Estante (Base) -->
+  <rect x="12" y="76" width="76" height="5" rx="2.5" fill="#000000" />
+
+  <!-- Livro 1 -->
+  <rect x="18" y="42" width="7" height="34" rx="1.5" fill="#000000" />
+  <line x1="21.5" y1="48" x2="21.5" y2="70" stroke="#ffffff" stroke-width="1.5" stroke-linecap="round" />
+
+  <!-- Livro 2 (Levemente inclinado ou menor) -->
+  <rect x="27" y="36" width="9" height="40" rx="1.5" fill="#000000" />
+  <circle cx="31.5" cy="44" r="1.5" fill="#ffffff" />
+  <circle cx="31.5" cy="50" r="1.5" fill="#ffffff" />
+
+  <!-- Livro 3 -->
+  <rect x="38" y="45" width="8" height="31" rx="1.5" fill="#000000" />
+  <line x1="42" y1="52" x2="42" y2="68" stroke="#ffffff" stroke-width="1.5" />
+
+  <!-- Livro 4 (Lombada mais grossa) -->
+  <rect x="48" y="32" width="11" height="44" rx="1.5" fill="#000000" />
+  <line x1="53.5" y1="40" x2="53.5" y2="68" stroke="#ffffff" stroke-width="2" />
+
+  <!-- Livro 5 -->
+  <rect x="61" y="38" width="8" height="38" rx="1.5" fill="#000000" />
+  <circle cx="65" cy="46" r="1.5" fill="#ffffff" />
+
+  <!-- Livro 6 -->
+  <rect x="71" y="44" width="9" height="32" rx="1.5" fill="#000000" />
+  <line x1="75.5" y1="52" x2="75.5" y2="64" stroke="#ffffff" stroke-width="1.5" />
+</svg>
