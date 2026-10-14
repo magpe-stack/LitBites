@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>LitBites - MicroResumos Literários</title>
+  
+  <!-- PWA & Meta Tags -->
+  <link rel="manifest" href="manifest.json">
+  <meta name="theme-color" content="#ffffff">
+  <meta name="description" content="Microresumos literários rápidos, aleatórios, minimalistas e offline via PWA.">
+  
+  <!-- Favicon & Icons -->
+  <link rel="icon" type="image/svg+xml" href="logo.svg">
+  <link rel="apple-touch-icon" href="icon-192.png">
+
+  <!-- Estilos -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Cabeçalho -->
+  <header class="app-header">
+    <div class="logo-container">
+      <img src="logo.svg" alt="Logo LitBites" class="logo-img">
+      <h1 class="app-title">LitBites</h1>
+    </div>
+
+    <!-- Alternar Tema Claro/Escuro -->
+    <button id="theme-toggle" class="btn-icon" aria-label="Alternar Modo Claro/Escuro" title="Alternar Modo Claro/Escuro">
+      <span class="icon-theme">🌓</span>
+    </button>
+  </header>
+
+  <!-- Conteúdo Principal -->
+  <main class="app-main">
+    
+    <!-- Cartão Central do Resumo -->
+    <section class="summary-card" id="summary-card">
+      <div class="summary-content">
+        <p id="summary-text" class="summary-text">Carregando microresumos...</p>
+        <span id="summary-meta" class="summary-meta"></span>
+      </div>
+
+      <!-- Botões de Ação baseados exclusivamente em ícones -->
+      <div class="summary-actions">
+        <!-- Botão Passar (Mão Deslizando) -->
+        <button id="btn-next" class="btn-action" title="Próximo Resumo (Passar)">
+          <span class="hand-icon">🫲</span>
+        </button>
+
+        <!-- Botão Copiar (Mão Aberta) -->
+        <button id="btn-copy" class="btn-action" title="Copiar Resumo">
+          <span class="hand-icon">🖐️</span>
+        </button>
+      </div>
+    </section>
+
+    <!-- Notificação Flutuante (Toast) -->
+    <div id="toast" class="toast hidden" role="status" aria-live="polite">
+      Resumo copiado com sucesso!
+    </div>
+
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
