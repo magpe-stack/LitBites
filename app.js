@@ -12,7 +12,7 @@ const toast = document.getElementById('toast');
 // --- Carregamento dos Resumos do resumos.json ---
 async function loadResumos() {
   try {
-    const response = await fetch('resumos.json');
+    const response = await fetch(`resumos.json?v=${Date.now()}`); // Força o download do JSON atualizado
     if (!response.ok) throw new Error('Falha ao carregar o arquivo de resumos.');
     resumosList = await response.json();
     
@@ -34,9 +34,9 @@ function getRandomSummary() {
   const randomIndex = Math.floor(Math.random() * resumosList.length);
   const item = resumosList[randomIndex];
 
-  // Título e Autor no topo (meta)
+  // 1. Título e Autor no topo
   summaryMeta.textContent = `${item.titulo} — ${item.autor}`;
-  // Resumo sem aspas na parte de baixo
+  // 2. Resumo sem aspas embaixo
   summaryText.textContent = item.resumo;
 }
 
