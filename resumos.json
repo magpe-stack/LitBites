@@ -2452,6 +2452,665 @@
     "titulo": "Castigo Divino",
     "autor": "Sergio Ramírez",
     "resumo": "Morte misteriosa de figura enigmática em León abala a alta sociedade local em narrativa com forte tom policial. Romance policial, sátira, Nicarágua."
+  },
+  {
+    "id": 410,
+    "titulo": "O Comandante",
+    "autor": "Fernando Silva",
+    "resumo": "Memórias e relatos ficcionais resgatam a vida rural, as tradições populares e a identidade ribeirinha da Nicarágua profunda. Romance regionalista, memória, campo."
+  },
+  {
+    "id": 411,
+    "titulo": "El Supremo Sueño de Inocencio",
+    "autor": "Lizandro Chávez Alfaro",
+    "resumo": "Saga histórica investiga as lutas políticas, os conflitos de classe e a formação da identidade nacional na Nicarágua. Romance histórico, política, sociedade."
+  },
+  {
+    "id": 412,
+    "titulo": "Los Monos de San Telmo",
+    "autor": "Lizandro Chávez Alfaro",
+    "resumo": "Personagens marginalizados enfrentam os dilemas da alienação urbana, da pobreza e da decadência moral na cidade. Romance urbano, marginalidade, crítica."
+  },
+  {
+    "id": 413,
+    "titulo": "Cenizas de Izalco",
+    "autor": "Claribel Alegría",
+    "resumo": "Romance epistolar e histórico investiga os segredos familiares e o violento massacre camponês de 1932 em El Salvador. Romance histórico, memória, violência."
+  },
+  {
+    "id": 414,
+    "titulo": "El Sueño de la Razón",
+    "autor": "Manuel Cordero",
+    "resumo": "Protagonista navega pelas turbulências políticas, pelos fantasmas do passado e pela realidade urbana da Nicarágua contemporânea. Romance contemporâneo, política, identidade."
+  },
+  {
+    "id": 415,
+    "titulo": "La Ciudad de los Árboles",
+    "autor": "Manuel Cordero",
+    "resumo": "Relações humanas, tensões cotidianas e dilemas existenciais marcam a vida de moradores em meio à paisagem urbana nicaraguense. Romance urbano, intimismo, sociedade."
+  },
+  {
+    "id": 416,
+    "titulo": "Un Día en la Vida",
+    "autor": "Manlio Argueta",
+    "resumo": "Avó camponesa em El Salvador revive vinte e quatro horas de extrema tensão, repressão militar e tragédias familiares. Romance político, guerra civil, El Salvador."
+  },
+  {
+    "id": 417,
+    "titulo": "Caperucita en la Zona Roja",
+    "autor": "Manlio Argueta",
+    "resumo": "Jovens estudantes enfrentam a repressão policial, a violência urbana e os perigos cotidianos sob o regime militar salvadorenho. Romance urbano, política, juventude."
+  },
+  {
+    "id": 418,
+    "titulo": "Pobrecito Poeta que Era Yo",
+    "autor": "Roque Dalton",
+    "resumo": "Jovem intelectual reflete sobre a militância política, a boemia e os dilemas da revolução armada em San Salvador. Romance autobiográfico, revolta, El Salvador."
+  },
+  {
+    "id": 419,
+    "titulo": "El Paraíso Desgarrado",
+    "autor": "Italo López Vallecillos",
+    "resumo": "Protagonistas enfrentam as desilusões políticas, as injustiças estruturais e os conflitos sociais na turbulenta história salvadorenha. Romance histórico, política, sociedade."
+  },
+  {
+    "id": 420,
+    "titulo": "La Loba",
+    "autor": "Italo López Vallecillos",
+    "resumo": "Trama dramática explora os dilemas humanos, a opressão social e os desejos de transformação na realidade de El Salvador. Romance social, poder, drama."
+  },
+  {
+    "id": 421,
+    "titulo": "El Asco",
+    "autor": "Horacio Castellanos Moya",
+    "resumo": "Exilado salvadorenho retorna brevemente a San Salvador e descarrega violenta satírica indignação contra a mediocridade cultural do país. Romance satírico, exílio, crítica."
+  },
+  {
+    "id": 422,
+    "titulo": "Insensatez",
+    "autor": "Horacio Castellanos Moya",
+    "resumo": "Revisor literário revisa relatório sobre massacres indígenas e mergulha em profunda paranoia e terror psicológico diante da barbárie. Romance psicológico, violência, política."
+  },
+  {
+    "id": 423,
+    "titulo": "La Diáspora",
+    "autor": "Horacio Castellanos Moya",
+    "resumo": "Intelectuais salvadorenhos exilados no México lidam com a nostalgia, o desenraizamento e os traumas da guerra civil em suas pátrias. Romance, exílio, trauma."
+  },
+  {
+    "id": 424,
+    "titulo": "El Evangelio de las Esferas",
+    "autor": "Francisco Andrés Escobar",
+    "resumo": "Narrativa experimental e reflexiva investiga as complexidades da identidade cultural e os dilemas políticos salvadorenhos. Romance experimental, política, cultura."
+  },
+  {
+    "id": 425,
+    "titulo": "El Señor Presidente",
+    "autor": "Miguel Ángel Asturias",
+    "resumo": "Ditadura implacável e sufocante corrói a moral, o medo e a sanidade de toda uma nação latino-americana sob tirania. Romance político, ditadura, Guatemala."
+  },
+  {
+    "id": 426,
+    "titulo": "Hombres de Maíz",
+    "autor": "Miguel Ángel Asturias",
+    "resumo": "Comunidades indígenas guatemaltecas lutam para preservar suas crenças ancestrais contra a ganância e a exploração comercial da terra. Romance indigenismo, mito, Guatemala."
+  },
+  {
+    "id": 427,
+    "titulo": "El Cojo Bueno",
+    "autor": "Rodrigo Rey Rosa",
+    "resumo": "Homem investiga segredos sombrios e corrupção em ambiente urbano opressor na Guatemala contemporânea em narrativa tensa e enxuta. Romance policial, corrupção, Guatemala."
+  },
+  {
+    "id": 428,
+    "titulo": "El Material Humano",
+    "autor": "Rodrigo Rey Rosa",
+    "resumo": "Arquivista descobre documentos policiais secretos sobre a repressão política e a violência na história recente da Guatemala. Romance histórico, memória, violência."
+  },
+  {
+    "id": 429,
+    "titulo": "Donde Acaban los Caminos",
+    "autor": "Mario Monteforte Toledo",
+    "resumo": "Médico urbano se apaixona por jovem indígena nas montanhas, enfrentando o forte racismo e barreiras culturais guatemaltecas. Romance indigenismo, amor, preconceito."
+  },
+  {
+    "id": 430,
+    "titulo": "Una Voz en el Río",
+    "autor": "Mario Monteforte Toledo",
+    "resumo": "Conflitos sociais e transformações rurais marcam a vida de comunidades ribeirinhas nas paisagens do interior da Guatemala. Romance regionalista, sociedade, rio."
+  },
+  {
+    "id": 431,
+    "titulo": "Lo Demás es Silencio",
+    "autor": "Augusto Monterroso",
+    "resumo": "Morte misteriosa de figura pública na província revela segredos, hipocrisias e rivalidades da sociedade guatemalteca em narrativa satírica. Romance satírico, província, mistério."
+  },
+  {
+    "id": 432,
+    "titulo": "El Hijo de Casa",
+    "autor": "Dante Liano",
+    "resumo": "Jovem enfrenta a rigidez familiar, as normas sociais opressoras e as transições políticas na Guatemala urbana do século XX. Romance psicológico, sociedade, família."
+  },
+  {
+    "id": 433,
+    "titulo": "El Lugar de su Quietud",
+    "autor": "Dante Liano",
+    "resumo": "Investigador desvenda segredos profundos, crimes e silêncios acumulados em pacata cidade guatemalteca de passado sombrio. Romance policial, mistério, Guatemala."
+  },
+  {
+    "id": 434,
+    "titulo": "Con Pasión Absoluta",
+    "autor": "Carol Zardetto",
+    "resumo": "Artista enfrenta dilemas existenciais, paixões intensas e a busca por autonomia na sociedade contemporânea da Guatemala. Romance contemporâneo, identidade, arte."
+  },
+  {
+    "id": 435,
+    "titulo": "La Ciudad de los Minotauros",
+    "autor": "Carol Zardetto",
+    "resumo": "Trama de suspense investiga corrupção, segredos e perigos ocultos na paisagem urbana sufocante da Guatemala moderna. Romance de suspense, corrupção, cidade."
+  },
+  {
+    "id": 436,
+    "titulo": "Los Demonios de la Guerra",
+    "autor": "Enrique Juárez Toledo",
+    "resumo": "Sobreviventes e militares lidam com as lembranças brutais, o medo e os estragos humanos da guerra civil guatemalteca. Romance histórico, guerra civil, memória."
+  },
+  {
+    "id": 437,
+    "titulo": "Prisión Verde",
+    "autor": "Ramón Amaya Amador",
+    "resumo": "Trabalhadores rurais enfrentam a exploração brutal, a miséria e doenças nas plantações de uma multinacional bananeira em Honduras. Romance social, denúncia, Honduras."
+  },
+  {
+    "id": 438,
+    "titulo": "Cipotes",
+    "autor": "Ramón Amaya Amador",
+    "resumo": "Meninos pobres enfrentam a dura realidade da infância desamparada, da fome e da marginalidade nas ruas de Honduras. Romance social, infância, pobreza."
+  },
+  {
+    "id": 439,
+    "titulo": "Blanca Olmedo",
+    "autor": "Lucila Gamero de Medina",
+    "resumo": "Jovem órfã enfrenta a hipocrisia da alta sociedade hondorenha e o assédio moral de padre poderoso em tragédia romântica. Romance sentimental, crítica, Honduras."
+  },
+  {
+    "id": 440,
+    "titulo": "Amor que Redime",
+    "autor": "Lucila Gamero de Medina",
+    "resumo": "Paixões intensas, dilemas morais e sacrifícios marcam os conflitos da aristocracia e da sociedade tradicional de Honduras. Romance sentimental, sociedade, drama."
+  },
+  {
+    "id": 441,
+    "titulo": "El Vampiro del Paraíso",
+    "autor": "Humberto Castillo Figueroa",
+    "resumo": "Crítica social e humor ácido expõem as mazelas, a corrupção e os desmandos políticos na sociedade hondurenha. Romance satírico, política, humor."
+  },
+  {
+    "id": 442,
+    "titulo": "El Señor de la Sierra",
+    "autor": "Humberto Castillo Figueroa",
+    "resumo": "Poder local, conflitos agrários e tensões violentas marcam a disputa por terras nas montanhas de Honduras. Romance regionalista, poder, conflito."
+  },
+  {
+    "id": 443,
+    "titulo": "Los Confines",
+    "autor": "Eduardo Bähr",
+    "resumo": "Narrativa fragmentada e realista aborda os traumas sociais, a violência e a dolorosa memória política da história contemporânea hondurenha. Romance histórico, política, violência."
+  },
+  {
+    "id": 444,
+    "titulo": "Beka Lamb",
+    "autor": "Zee Edgell",
+    "resumo": "Jovem estudante em Belize cresce em meio a tensões políticas pré-independência, segredos familiares e profundas transformações sociais. Romance histórico, formação, Belize."
+  },
+  {
+    "id": 445,
+    "titulo": "In Times Like These",
+    "autor": "Zee Edgell",
+    "resumo": "Diretora governamental em Belize equilibra pressões políticas, corrupção institucional e dilemas morais durante crises nacionais. Romance político, poder, Belize."
+  },
+  {
+    "id": 446,
+    "titulo": "North Amerikkkan Blues",
+    "autor": "Evan X Hyde",
+    "resumo": "Jovem belizenho nos Estados Unidos vivencia o racismo, os protestos políticos e os dilemas da identidade afro-caribenha. Romance urbano, identidade, diáspora."
+  },
+  {
+    "id": 447,
+    "titulo": "X-Communication",
+    "autor": "Evan X Hyde",
+    "resumo": "Reflexões intensas e críticas contundentes expõem as engrenagens da política, os meios de comunicação e a opressão social. Romance político, crítica, sociedade."
+  },
+  {
+    "id": 448,
+    "titulo": "Boss of Dangriga",
+    "autor": "John Alexander Watler",
+    "resumo": "Poder local, ambição e segredos familiares moldam a trajetória de influente figura na comunidade costeira de Belize. Romance regionalista, poder, cultura."
+  },
+  {
+    "id": 449,
+    "titulo": "As Meninas",
+    "autor": "Lygia Fagundes Telles",
+    "resumo": "Três jovens estudantes em São Paulo enfrentam os dilemas da ditadura militar, o medo e os conflitos existenciais na juventude. Romance psicológico, ditadura, São Paulo."
+  },
+  {
+    "id": 450,
+    "titulo": "Ciranda de Pedra",
+    "autor": "Lygia Fagundes Telles",
+    "resumo": "Jovem sensível lida com a desestruturação familiar, os traumas burgueses e as complexas relações afetivas na sociedade paulistana. Romance psicológico, família, São Paulo."
+  },
+  {
+    "id": 451,
+    "titulo": "Grande Sertão: Veredas",
+    "autor": "Guimarães Rosa",
+    "resumo": "Ex-jagunço Riobaldo atravessa o vasto sertão mineiro refletindo sobre o amor, o pacto com o diabo e a existência humana. Romance modernista, sertão, filosofia."
+  },
+  {
+    "id": 452,
+    "titulo": "Sagarana",
+    "autor": "Guimarães Rosa",
+    "resumo": "Narrativas densas e míticas exploram a violência, a bravura e a astúcia dos habitantes no interior do sertão de Minas Gerais. Romance regionalista, sertão, mitos."
+  },
+  {
+    "id": 453,
+    "titulo": "Dois Irmãos",
+    "autor": "Milton Hatoum",
+    "resumo": "Irmãos gêmeos em Manaus vivem uma relação marcada por profunda rivalidade, segredos familiares e intensas transformações na Amazônia urbana. Romance familiar, Manaus, Amazônia."
+  },
+  {
+    "id": 454,
+    "titulo": "Relato de um Certo Oriente",
+    "autor": "Milton Hatoum",
+    "resumo": "Imigrante libanesa recorda o passado familiar em Manaus através de memórias fragmentadas, revelando segredos e tensões veladas. Romance intimista, memória, Amazônia."
+  },
+  {
+    "id": 455,
+    "titulo": "Olhos d’Água",
+    "autor": "Conceição Evaristo",
+    "resumo": "Histórias de mulheres negras periféricas expõem com lirismo a dureza da vida, a solidariedade e a luta contra a opressão. Romance social, periferia, mulheres."
+  },
+  {
+    "id": 456,
+    "titulo": "Sinfonia em Branco",
+    "autor": "Adriana Lisboa",
+    "resumo": "Duas irmãs lidam com os reflexos de um trauma familiar antigo e as complexas texturas do afeto na vida adulta. Romance psicológico, memória, família."
+  },
+  {
+    "id": 457,
+    "titulo": "Azul-Corvo",
+    "autor": "Adriana Lisboa",
+    "resumo": "Jovem adolescente viaja dos Estados Unidos ao Novo México para desvendar segredos de sua família e sua própria identidade em trânsito. Romance contemporâneo, identidade, deslocamento."
+  },
+  {
+    "id": 458,
+    "titulo": "Eles Eram Muitos Cavalos",
+    "autor": "Luiz Ruffato",
+    "resumo": "Retrato fragmentado e vertiginoso expõe a caótica rotina, a solidão e a violência de múltiplos personagens na cidade de São Paulo. Romance urbano, São Paulo, fragmentação."
+  },
+  {
+    "id": 459,
+    "titulo": "Inferno Provisório",
+    "autor": "Luiz Ruffato",
+    "resumo": "Saga monumental acompanha a dolorosa trajetória de trabalhadores migrantes mineiros em busca de sobrevivência nas duras periferias industriais paulistas. Romance social, migração, trabalho."
+  },
+  {
+    "id": 460,
+    "titulo": "Carvão Animal",
+    "autor": "Ana Paula Maia",
+    "resumo": "Homens lidam com a brutalidade e o trabalho desumano em matadouro isolado em meio à desolação do interior brasileiro. Romance realista, brutalidade, trabalho."
+  },
+  {
+    "id": 461,
+    "titulo": "De Gados e Homens",
+    "autor": "Ana Paula Maia",
+    "resumo": "Funcionário encarregado de eutanasiar animais doentes enfrenta dilemas morais e a violência implacável em um cenário de desolação. Romance realista, ética, desolação."
+  },
+  {
+    "id": 462,
+    "titulo": "Casa de Pensão",
+    "autor": "Aluísio Azevedo",
+    "resumo": "Jovem provinciano chega ao Rio de Janeiro e mergulha em uma espiral de perdimento, intrigas e tragédia em pensão boêmia. Romance naturalista, Rio de Janeiro, corrupção."
+  },
+  {
+    "id": 463,
+    "titulo": "São Bernardo",
+    "autor": "Graciliano Ramos",
+    "resumo": "Vigarista ambicioso transforma-se em latifundiário tirânico no interior nordestino, destruindo tudo ao seu redor por obsessão e frieza. Romance psicológico, poder, sertão."
+  },
+  {
+    "id": 464,
+    "titulo": "Memorial de Maria Moura",
+    "autor": "Rachel de Queiroz",
+    "resumo": "Mulher corajosa e indômita lidera bando armado no sertão nordestino do século XIX, desafiando o machismo e a violência local. Romance histórico, sertão, liderança."
+  },
+  {
+    "id": 465,
+    "titulo": "A Menina Morta",
+    "autor": "Cornélio Penna",
+    "resumo": "Atmosfera sombria e opressiva domina fazenda decadente no interior mineiro após a morte trágica de jovem inocente. Romance psicológico, atmosfera, tragédia."
+  },
+  {
+    "id": 466,
+    "titulo": "Fronteira",
+    "autor": "Cornélio Penna",
+    "resumo": "Trama carregada de densidade psicológica explora os segredos culposos, a culpa cristã e as angústias de personagens isolados. Romance psicológico, culpa, interior."
+  },
+  {
+    "id": 467,
+    "titulo": "Viva o Povo Brasileiro",
+    "autor": "João Ubaldo Ribeiro",
+    "resumo": "Saga monumental percorre séculos de história da Bahia e do Brasil, satirizando o poder, a colonização e a identidade nacional. Romance histórico, sátira, Bahia."
+  },
+  {
+    "id": 468,
+    "titulo": "Sargento Getúlio",
+    "autor": "João Ubaldo Ribeiro",
+    "resumo": "Policial brutal e fanático cruza o sertão nordestino transportando prisioneiro em uma jornada alucinatória de violência e fidelidade cega. Romance regionalista, violência, sertão."
+  },
+  {
+    "id": 469,
+    "titulo": "Feliz Ano Novo",
+    "autor": "Rubem Fonseca",
+    "resumo": "Contos e novelas urbanas retratam sem filtros a violência extrema, o cinismo e a desigualdade social na metrópole carioca. Romance urbano, violência, Rio de Janeiro."
+  },
+  {
+    "id": 470,
+    "titulo": "Agosto",
+    "autor": "Rubem Fonseca",
+    "resumo": "Trama policial e política desvenda os bastidores sombrios, as conspirações e o suicídio de Getúlio Vargas no Rio de Janeiro. Romance histórico, política, Rio de Janeiro."
+  },
+  {
+    "id": 471,
+    "titulo": "Asfalto Selvagem",
+    "autor": "Nelson Rodrigues",
+    "resumo": "Irmãs cariocas enfrentam os dramas da culpa, do erotismo desenfreado, da traição e da moralidade sufocante dos anos dourados. Romance dramático, erotismo, Rio de Janeiro."
+  },
+  {
+    "id": 472,
+    "titulo": "O Matador",
+    "autor": "Patrícia Melo",
+    "resumo": "Jovem matador de aluguel em metrópole brasileira lida com a banalização da violência, a sobrevivência e o cinismo urbano. Romance policial, violência, metrópole."
+  },
+  {
+    "id": 473,
+    "titulo": "Inferno",
+    "autor": "Patrícia Melo",
+    "resumo": "Arquiteto bem-sucedido vê sua vida desmoronar ao envolver-se com o submundo das drogas e da criminalidade violenta em São Paulo. Romance urbano, drogas, São Paulo."
+  },
+  {
+    "id": 474,
+    "titulo": "Os Malaquias",
+    "autor": "Andréa del Fuego",
+    "resumo": "Três irmãos órfãos isolados em recanto rural enfrentam a solidão, as crendices e as transformações drásticas do mundo moderno. Romance regionalista, solidão, isolamento."
+  },
+  {
+    "id": 475,
+    "titulo": "As Miniaturas",
+    "autor": "Andréa del Fuego",
+    "resumo": "Mulher que trabalha criando miniaturas colecionáveis lida com memórias familiares, o tempo e delicados mistérios da percepção humana. Romance intimista, memória, miniatura."
+  },
+  {
+    "id": 476,
+    "titulo": "El Mundo alucinante",
+    "autor": "Reinaldo Arenas",
+    "resumo": "Trajetória alucinatória e fantástica do frei mexicano Servando Teresa de Mier por prisões e cortes da Europa e América. Romance histórico, picaresco, exílio."
+  },
+  {
+    "id": 477,
+    "titulo": "Otra vez el mar",
+    "autor": "Reinaldo Arenas",
+    "resumo": "Casal em Cuba lida com a desilusão, a opressão política e as memórias sufocantes de uma rotina claustrofóbica. Romance psicológico, opressão, Cuba."
+  },
+  {
+    "id": 478,
+    "titulo": "Celeste antes del amanecer",
+    "autor": "Reinaldo Arenas",
+    "resumo": "Jovem homossexual enfrenta a repressão e a violência rural na Cuba revolucionária enquanto busca liberdade e identidade. Romance autobiográfico, repressão, Cuba."
+  },
+  {
+    "id": 479,
+    "titulo": "Tres tristes tigres",
+    "autor": "Guillermo Cabrera Infante",
+    "resumo": "Noites boêmias de Havana nos anos 50 são narradas através de jogos linguísticos, música e conversas em cabarés. Romance experimental, Havana, boemia."
+  },
+  {
+    "id": 480,
+    "titulo": "La Habana para un infante difunto",
+    "autor": "Guillermo Cabrera Infante",
+    "resumo": "Protagonista relembra com erotismo e humor suas obsessões amorosas e aventuras sexuais na Havana pré-revolucionária. Romance autobiográfico, erotismo, Havana."
+  },
+  {
+    "id": 481,
+    "titulo": "El reino de este mundo",
+    "autor": "Alejo Carpentier",
+    "resumo": "Escravo testemunha revoltas e a ascensão mágica de líderes em meio à revolução no Haiti colonial. Romance histórico, realismo maravilhoso, Haiti."
+  },
+  {
+    "id": 482,
+    "titulo": "Los pasos perdidos",
+    "autor": "Alejo Carpentier",
+    "resumo": "Compositor abandona Nova York e adentra a selva latino-americana em busca de instrumentos ancestrais e origens da música. Romance filosófico, selva, viagem."
+  },
+  {
+    "id": 483,
+    "titulo": "El siglo de las luces",
+    "autor": "Alejo Carpentier",
+    "resumo": "Jovens cubanos vivenciam os ideais e os horrores da Revolução Francesa espalhados pelas ilhas do Caribe. Romance histórico, Revolução Francesa, Caribe."
+  },
+  {
+    "id": 484,
+    "titulo": "Paradiso",
+    "autor": "José Lezama Lima",
+    "resumo": "Jovem asmático em Havana cresce em meio a uma família intensa, revelando uma linguagem barroca, poética e mítica densa. Romance experimental, Havana, barroco."
+  },
+  {
+    "id": 485,
+    "titulo": "La isla de los amores infinitos",
+    "autor": "Daína Chaviano",
+    "resumo": "Famílias percorrem séculos de história cubana, misturando migrações, segredos ancestrais e elementos fantásticos no Caribe. Romance histórico, realismo mágico, Cuba."
+  },
+  {
+    "id": 486,
+    "titulo": "Trilogía sucia de La Habana",
+    "autor": "Pedro Juan Gutiérrez",
+    "resumo": "Moradores de cortiço em Havana sobrevivem à miséria, à fome e ao desespero com crueza e hiper-realismo erótico. Romance realista, Havana, marginalidade."
+  },
+  {
+    "id": 487,
+    "titulo": "El rey de La Habana",
+    "autor": "Pedro Juan Gutiérrez",
+    "resumo": "Jovem marginalizado navega pela violência, pela pobreza extrema e pelo submundo da capital cubana durante o Período Especial. Romance urbano, marginalidade, Cuba."
+  },
+  {
+    "id": 488,
+    "titulo": "Maquillaje",
+    "autor": "Virgilio Piñera",
+    "resumo": "Ator envelhecido lida com a decadência, o medo da morte e as ilusões teatrais em Havana. Romance psicológico, teatro, Havana."
+  },
+  {
+    "id": 489,
+    "titulo": "El hombre que se fue por la boca",
+    "autor": "Virgilio Piñera",
+    "resumo": "Protagonista enfrenta situações absurdas e grotescas em narrativa que satiriza a burocracia e a paranoia social. Romance absurdo, sátira, Cuba."
+  },
+  {
+    "id": 490,
+    "titulo": "Hombres sin mujer",
+    "autor": "Virgilio Piñera",
+    "resumo": "Homens confinados enfrentam a solidão, as tensões psicológicas e o isolamento em ambiente opressor e sufocante. Romance psicológico, isolamento, drama."
+  },
+  {
+    "id": 491,
+    "titulo": "Máscaras",
+    "autor": "Leonardo Padura",
+    "resumo": "Investigador Conde desvenda assassinato brutal no meio artístico e na alta sociedade de Havana nos anos 90. Romance policial, Havana, investigação."
+  },
+  {
+    "id": 492,
+    "titulo": "Pasaje a la eternidad",
+    "autor": "Leonardo Padura",
+    "resumo": "Trama policial e histórica explora segredos, perseguições políticas e o destino de exilados cubanos em diferentes épocas. Romance histórico, política, exílio."
+  },
+  {
+    "id": 493,
+    "titulo": "Los días del agua",
+    "autor": "Edmundo Desnoes",
+    "resumo": "Campesina em Cuba ganha fama de curandeira com águas milagrosas, atraindo fanatismo popular e repressão governamental. Romance histórico, religiosidade, Cuba."
+  },
+  {
+    "id": 494,
+    "titulo": "Memorias del subdesarrollo",
+    "autor": "Edmundo Desnoes",
+    "resumo": "Burguês intelectual decide ficar em Cuba após a revolução, observando com distanciamento crítico e ironia as mudanças sociais. Romance psicológico, revolução, Havana."
+  },
+  {
+    "id": 495,
+    "titulo": "Los veranos también mueren",
+    "autor": "Jesús Díaz",
+    "resumo": "Jovens estudantes em Cuba enfrentam os dilemas da militância, o amor e as transformações políticas da revolução. Romance político, juventude, Cuba."
+  },
+  {
+    "id": 496,
+    "titulo": "Las iniciales de la tierra",
+    "autor": "Jesús Díaz",
+    "resumo": "Protagonista percorre sua trajetória de ascensão e desilusão na sociedade cubana em meio às convulsões políticas da ilha. Romance político, biografia, Cuba."
+  },
+  {
+    "id": 497,
+    "titulo": "Biografía de un cimarrón",
+    "autor": "Miguel Barnet",
+    "resumo": "Relato testimonial reconstrói a vida de ex-escravo centenário que fugiu para as matas e viveu a história cubana. Romance testimonial, escravidão, Cuba."
+  },
+  {
+    "id": 498,
+    "titulo": "Gallego",
+    "autor": "Miguel Barnet",
+    "resumo": "Imigrante espanhol chega a Cuba e enfrenta o trabalho duro, as guerras e as agruras da vida no campo cubano. Romance histórico, imigração, Cuba."
+  },
+  {
+    "id": 499,
+    "titulo": "Hotel Florida",
+    "autor": "Enrique Cirules",
+    "resumo": "Investigações e tramas de espiões, mafiosos e celebridades no luxuoso hotel em Havana durante os anos 50. Romance histórico, máfia, Havana."
+  },
+  {
+    "id": 500,
+    "titulo": "El imperio de La Habana",
+    "autor": "Enrique Cirules",
+    "resumo": "Máfia norte-americana e o submundo do jogo controlam os cassinos e a política em Cuba antes de 1959. Romance histórico, máfia, Havana."
+  },
+  {
+    "id": 501,
+    "titulo": "Pasión de Urbino",
+    "autor": "Lisandro Otero",
+    "resumo": "Médico idealista enfrenta os desafios da ciência, da política e das paixões na turbulenta sociedade cubana do século XX. Romance histórico, medicina, Cuba."
+  },
+  {
+    "id": 502,
+    "titulo": "Árbol de la vida",
+    "autor": "Lisandro Otero",
+    "resumo": "Saga familiar acompanha gerações de burgueses cubanos em meio à decadência econômica e à agitação política nacional. Romance histórico, família, Cuba."
+  },
+  {
+    "id": 503,
+    "titulo": "La anarquía de las sombras",
+    "autor": "Antonio Orlando Rodríguez",
+    "resumo": "Mistérios e segredos obscuros emergem no cenário cultural e teatral da Havana do século XIX. Romance histórico, teatro, Havana."
+  },
+  {
+    "id": 504,
+    "titulo": "A Maçã no Escuro",
+    "autor": "Clarice Lispector",
+    "resumo": "Homem em fuga após cometer suposto crime busca se reconstruir do zero através do contato primordial com a terra e a natureza. Romance existencial, renovação, isolamento."
+  },
+  {
+    "id": 505,
+    "titulo": "A Via Crucis do Corpo",
+    "autor": "Clarice Lispector",
+    "resumo": "Coletânea de contos retrata com franqueza e crueza o desejo, a sexualidade e os desvios da moralidade cotidiana. Contos, erotismo, cotidianidade."
+  },
+  {
+    "id": 506,
+    "titulo": "Uma Aprendizagem ou O Livro dos Prazeres",
+    "autor": "Clarice Lispector",
+    "resumo": "Mulher vive processo de maturação afetiva e espiritual para aprender a amar plenamente sem medo da entrega. Romance existencial, amor, autoconhecimento."
+  },
+  {
+    "id": 507,
+    "titulo": "Água Viva",
+    "autor": "Clarice Lispector",
+    "resumo": "Monólogo poético e lírico sobre a criação artística, o instante presente e o fluxo ininterrupto de consciência. Prosa poética, tempo, existência."
+  },
+  {
+    "id": 508,
+    "titulo": "Onde Estivestes de Noite",
+    "autor": "Clarice Lispector",
+    "resumo": "Contos exploram o fantástico, a atmosfera mística e a busca por sentido em meio a mistérios urbanos e insólitos. Contos, mistério, insólito."
+  },
+  {
+    "id": 509,
+    "titulo": "Onde Canta o Sabiá",
+    "autor": "Gastão Cruls",
+    "resumo": "Expedição pela bacia amazônica revela as lendas, a fauna exuberante e as lutas cotidianas das comunidades do interior. Romance regionalista, Amazônia, exploração."
+  },
+  {
+    "id": 510,
+    "titulo": "A Amazônia Misteriosa",
+    "autor": "Gastão Cruls",
+    "resumo": "Cientistas adentram a mata virgem e encontram uma sociedade secreta de mulheres guerreiras inspiradas no mito das amazonas. Ficção científica, mito, Amazônia."
+  },
+  {
+    "id": 511,
+    "titulo": "O Feijão e o Sonho",
+    "autor": "Orígenes Lessa",
+    "resumo": "Poeta idealista enfrenta a pobreza e o conflito constante entre o sustento material da família e sua vocação literária. Romance social, poesia, vocação."
+  },
+  {
+    "id": 512,
+    "titulo": "Boca do Inferno",
+    "autor": "Ana Miranda",
+    "resumo": "O poeta Gregório de Matos e o padre Antônio Vieira enfrentam intrigas, corrupção e assassinatos na Bahia colonial do século XVII. Romance histórico, Bahia, poesia."
+  },
+  {
+    "id": 513,
+    "titulo": "Desmundo",
+    "autor": "Ana Miranda",
+    "resumo": "Jovem órfã portuguesa é enviada ao Brasil colonial para casar-se com colono, enfrentando a opressão machista e a aridez da nova terra. Romance histórico, colonização, feminino."
+  },
+  {
+    "id": 514,
+    "titulo": "Amrik",
+    "autor": "Ana Miranda",
+    "resumo": "Dançarina libanesa desembarca no São Paulo do século XIX e reconstrói sua vida em meio à comunidade de imigrantes árabes. Romance histórico, imigração, São Paulo."
+  },
+  {
+    "id": 515,
+    "titulo": "Nove Noites",
+    "autor": "Bernardo Carvalho",
+    "resumo": "Jornalista investiga o misterioso suicídio de um antropólogo americano ocorrido em tribo indígena brasileira em 1939. Romance policial, antropologia, mistério."
+  },
+  {
+    "id": 516,
+    "titulo": "Mongólia",
+    "autor": "Bernardo Carvalho",
+    "resumo": "Diplomata brasileiro em Pequim é enviado às estepes mongóis em busca de um fotógrafo desaparecido, enfrentando o vazio e o isolamento. Romance de viagem, isolamento, Ásia."
+  },
+  {
+    "id": 517,
+    "titulo": "O Filho da Mãe",
+    "autor": "Bernardo Carvalho",
+    "resumo": "Histórias cruzadas em São Petersburgo revelam o impacto da Guerra da Chechênia na vida de mães, soldados e despatriados. Romance contemporâneo, guerra, Rússia."
+  },
+  {
+    "id": 518,
+    "titulo": "Simpatia pelo Demônio",
+    "autor": "Bernardo Carvalho",
+    "resumo": "Funcionário de agência humanitária é enredado em uma teia global de terrorismo, sequestro e ambiguidades morais no Oriente Médio. Thriller político, conflito, geopolítica."
+  },
+  {
+    "id": 519,
+    "titulo": "O Sol se Põe em São Paulo",
+    "autor": "Bernardo Carvalho",
+    "resumo": "Dono de restaurante japonês no bairro da Liberdade reconstrói memórias da Segunda Guerra Mundial e segredos familiares do Japão. Romance contemporâneo, São Paulo, Segunda Guerra."
   }
-
 ]
