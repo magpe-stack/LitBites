@@ -208,5 +208,107 @@
     "titulo": "Vinte Mil Léguas Submarinas",
     "autor": "Júlio Verne",
     "resumo": "Professor capturado navega pelos oceanos a bordo de submarino avançado liderado por capitão misterioso. Aventura, exploração, ciência."
+  },
+  {
+    "id": 36,
+    "titulo": "A Volta ao Mundo em 80 Dias",
+    "autor": "Júlio Verne",
+    "resumo": "Cavalheiro inglês aposta fortuna de que consegue circum-navegar o globo terrestre em tempo recorde. Aventura, tecnologia, corrida contra o tempo."
+  },
+  {
+    "id": 37,
+    "titulo": "O Sol É para Todos",
+    "autor": "Harper Lee",
+    "resumo": "Advogado defende homem negro acusado injustamente de crime em cidade racista do sul americano. Drama tribunal, preconceito racial, infância."
+  },
+  {
+    "id": 38,
+    "titulo": "A Hora da Estrela",
+    "autor": "Clarice Lispector",
+    "resumo": "Datilógrafa nordestina miserável vive vida alienada e invisível na grande metrópole do Rio. Ficção existencial, miséria, busca de identidade."
+  },
+  {
+    "id": 39,
+    "titulo": "O Alquimista",
+    "autor": "Paulo Coelho",
+    "resumo": "Jovem pastor espanhol viaja ao Egito em busca de tesouro e descobre sua lenda pessoal. Ficção mística, destino, espiritualidade."
+  },
+  {
+    "id": 40,
+    "titulo": "Ensaio sobre a Cegueira",
+    "autor": "José Saramago",
+    "resumo": "Epidemia misteriosa de cegueira branca afeta população revelando o colapso da civilização e empatia. Ficção alegórica, natureza humana."
+  },
+  {
+    "id": 41,
+    "titulo": "Grande Sertão: Veredas",
+    "autor": "João Guimarães Rosa",
+    "resumo": "Ex-jagunço narra suas lutas, amores e dilemas metafísicos no sertão mineiro. Literatura modernista, destino, bem e mal."
+  },
+  {
+    "id": 42,
+    "titulo": "Memórias Póstumas de Brás Cubas",
+    "autor": "Machado de Assis",
+    "resumo": "Defunto autor narra sua vida medíocre, amores frustrados e desilusões com tom irônico. Realismo, ironia, crítica social."
+  },
+  {
+    "id": 43,
+    "titulo": "Dom Casmurro",
+    "autor": "Machado de Assis",
+    "resumo": "Homem ciumento relembra juventude e obsessão pela suspeita de traição de sua esposa Capitu. Realismo psicológico, ciúme, dúvida."
+  },
+  {
+    "id": 44,
+    "titulo": "O Cortiço",
+    "autor": "Aluísio Azevedo",
+    "resumo": "Habitação coletiva no Rio torna-se palco de exploração, decadência moral e degradação social humana. Naturalismo, determinismo social."
+  },
+  {
+    "id": 45,
+    "titulo": "Vidas Secas",
+    "autor": "Graciliano Ramos",
+    "resumo": "Família de retirantes atravessa o sertão nordestino enfrentando a seca, exploração e miséria extrema. Regionalismo, seca, sobrevivência."
+  },
+  {
+    "id": 46,
+    "titulo": "Gabriela, Cravo e Canela",
+    "autor": "Jorge Amado",
+    "resumo": "Chegada de retirante sensual transforma a rotina política e moral da cidade de Ilhéus. Regionalismo, sensualidade, modernização."
+  },
+  {
+    "id": 47,
+    "titulo": "A Revolução dos Bichos",
+    "autor": "George Orwell",
+    "resumo": "Animais expulsam fazendeiro e criam sociedade própria que degrada em tirania dos porcos. Sátira política, totalitarismo, corrupção."
+  },
+  {
+    "id": 48,
+    "titulo": "O Senhor das Moscas",
+    "autor": "William Golding",
+    "resumo": "Garotos isolados em ilha deserta tentam criar regras mas descambam para a barbárie violenta. Ficção alegórica, natureza humana, selvageria."
+  },
+  {
+    "id": 49,
+    "titulo": "IT: A Coisa",
+    "autor": "Stephen King",
+    "resumo": "Crianças enfrentam entidade maligna transmorfa que aterroriza cidade e retornam adultos para destruí-la definitivamente. Horror, infância, amizade."
+  },
+  {
+    "id": 50,
+    "titulo": "O Silêncio dos Inocentes",
+    "autor": "Thomas Harris",
+    "resumo": "Clarice Starling consulta psiquiatra canibal preso para capturar assassino em série em liberdade. Suspense psicológico, serial killer."
+  },
+  {
+    "id": 51,
+    "titulo": "Garota Exemplar",
+    "autor": "Gillian Flynn",
+    "resumo": "Homem torna-se principal suspeito quando sua esposa desaparece misteriosamente no aniversário de casamento. Suspense psicológico, casamento, manipulação."
+  },
+  {
+    "id": 52,
+    "titulo": "A Garota no Trem",
+    "autor": "Paula Hawkins",
+    "resumo": "Mulher alcoólatra observa casal da janela do trem e envolve-se em investigação de desaparecimento. Suspense psicológico, memória, obsessão."
   }
 ]
