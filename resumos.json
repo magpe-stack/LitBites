@@ -3112,5 +3112,1151 @@
     "titulo": "O Sol se Põe em São Paulo",
     "autor": "Bernardo Carvalho",
     "resumo": "Dono de restaurante japonês no bairro da Liberdade reconstrói memórias da Segunda Guerra Mundial e segredos familiares do Japão. Romance contemporâneo, São Paulo, Segunda Guerra."
+  },
+  {
+    "id": 520,
+    "titulo": "Chiquita",
+    "autor": "Antonio Orlando Rodríguez",
+    "resumo": "Bailarina exótica e diminuta conquista fama internacional em turnês mundiais no final do século XIX. Romance histórico, biografia, circo."
+  },
+  {
+    "id": 521,
+    "titulo": "El candidato",
+    "autor": "Miguel Mejides",
+    "resumo": "Bastidores da política corrupta, ambições desmedidas e disputas de poder na sociedade cubana pré-revolucionária. Romance político, poder, Cuba."
+  },
+  {
+    "id": 522,
+    "titulo": "El buzón de plata",
+    "autor": "Nancy Alonso",
+    "resumo": "Mulheres cubanas enfrentam dilemas cotidianos, afetivos e profissionais em meio às transformações sociais da ilha. Romance contemporâneo, sociedade, Cuba."
+  },
+  {
+    "id": 523,
+    "titulo": "L'enlèvement des sabines",
+    "autor": "Zoé Valdés",
+    "resumo": "Exilada cubana em Paris revive memórias passionais, artísticas e as feridas profundas deixadas por sua terra natal. Romance autobiográfico, exílio, Paris."
+  },
+  {
+    "id": 524,
+    "titulo": "Te di la vida entera",
+    "autor": "Zoé Valdés",
+    "resumo": "Operária fabril em Havana vive paixão avassaladora por músico de bolero enquanto enfrenta a escassez cotidiana. Romance romântico, Havana, música."
+  },
+  {
+    "id": 525,
+    "titulo": "Y todos fuimos felices",
+    "autor": "Eliseo Alberto",
+    "resumo": "Memórias familiares e nostalgias se cruzam em narrativa sensível sobre o exílio e as perdas na sociedade cubana. Romance intimista, exílio, memória."
+  },
+  {
+    "id": 526,
+    "titulo": "La eternidad por fin comienza un lunes",
+    "autor": "Eliseo Alberto",
+    "resumo": "Personagens excêntricos em cidade pequena lidam com o tempo, o amor e a iminência da morte. Romance fantástico, reflexão, Cuba."
+  },
+  {
+    "id": 527,
+    "titulo": "La última mujer y el próximo combate",
+    "autor": "Norberto Fuentes",
+    "resumo": "Guerrilheiros e intelectuais lidam com os dilemas morais, o desgaste e a burocracia do poder em Cuba. Romance político, revolução, Cuba."
+  },
+  {
+    "id": 528,
+    "titulo": "Confesiones de un guajiro",
+    "autor": "Norberto Fuentes",
+    "resumo": "Memórias ficcionalizadas abordam o cotidiano rural, a vida militar e as tensões políticas na ilha. Romance autobiográfico, política, Cuba."
+  },
+  {
+    "id": 529,
+    "titulo": "El ojo de Aleida",
+    "autor": "Daniel Chavarría",
+    "resumo": "Agentes secretos, espionagem internacional e conspirações políticas agitam a geopolítica caribenha em ritmo de suspense eletrizante. Romance de espionagem, política, suspense."
+  },
+  {
+    "id": 530,
+    "titulo": "Adiós muchachos",
+    "autor": "Daniel Chavarría",
+    "resumo": "Guerrilheiros urbanos e intelectuais articulam ações revolucionárias clandestinas em Havana durante os anos da ditadura de Batista. Romance político, conspiração, Cuba."
+  },
+  {
+    "id": 531,
+    "titulo": "Lucía Jerez",
+    "autor": "José Martí",
+    "resumo": "Artista idealista e jovem aristocrata vivem paixão trágica e complexa na alta sociedade de Nova York no século XIX. Romance romântico, arte, exílio."
+  },
+  {
+    "id": 532,
+    "titulo": "Sab",
+    "autor": "Gertrudis Gómez de Avellaneda",
+    "resumo": "Escravo apaixonado por sua senhora branca enfrenta o racismo e a injustiça social no contexto colonial cubano. Romance antiescravagista, Cuba, paixão."
+  },
+  {
+    "id": 533,
+    "titulo": "Guatimozín",
+    "autor": "Gertrudis Gómez de Avellaneda",
+    "resumo": "Épico histórico reconstrói a trágica resistência do último imperador asteca frente à conquista sangrenta dos espanhóis. Romance histórico, conquista, México."
+  },
+  {
+    "id": 534,
+    "titulo": "Cecilia Valdés",
+    "autor": "Cirilo Villaverde",
+    "resumo": "Jovem mulata em Havana vive romance trágico com jovem aristocrata sem saber que são filhos do mesmo pai. Romance romântico, escravidão, Havana."
+  },
+  {
+    "id": 535,
+    "titulo": "El brujo",
+    "autor": "José Soler Puig",
+    "resumo": "Conflitos sociais, crenças populares e a luta armada contra a ditadura agitam a província de Santiago de Cuba. Romance histórico, revolta, Santiago."
+  },
+  {
+    "id": 536,
+    "titulo": "Cobra",
+    "autor": "Severo Sarduy",
+    "resumo": "Dançarinos de teatro em Paris embarcam em jornada mística e transexual repleta de símbolos orientais e visões barrocas. Romance experimental, identidade, Paris."
+  },
+  {
+    "id": 537,
+    "titulo": "Pas de Zèle",
+    "autor": "Carlos Victoria",
+    "resumo": "Exilado cubano nos Estados Unidos lida com a paranoia, o desenraizamento e os fantasmas políticos do passado. Romance psicológico, exílio, EUA."
+  },
+  {
+    "id": 538,
+    "titulo": "La tarde de los caracoles",
+    "autor": "Fernando Villaverde",
+    "resumo": "Intelectuais e artistas lidam com escolhas difíceis, rupturas e dilemas morais na Cuba revolucionária. Romance psicológico, política, Cuba."
+  },
+  {
+    "id": 539,
+    "titulo": "La ciudad de los tanques",
+    "autor": "Fernando Villaverde",
+    "resumo": "Trama dramática aborda a militarização da sociedade, a burocracia estatal e as perdas afetivas em Cuba. Romance político, drama, Cuba."
+  },
+  {
+    "id": 540,
+    "titulo": "Mine Boy",
+    "autor": "Peter Abrahams",
+    "resumo": "Jovem negro deixa a zona rural sul-africana e enfrenta o racismo brutal, a exploração e a miséria nas minas de ouro. Romance social, racismo, África do Sul."
+  },
+  {
+    "id": 541,
+    "titulo": "This Island Now",
+    "autor": "Peter Abrahams",
+    "resumo": "Ditadura e corrupção política corroem os ideais democráticos em uma ilha caribenha fictícia após a independência nacional. Romance político, poder, Caribe."
+  },
+  {
+    "id": 542,
+    "titulo": "When Gougin Met Kaw Mul",
+    "autor": "Opal Palmer Adisa",
+    "resumo": "Relações humanas complexas, memórias e tensões culturais moldam a vida de mulheres na vibrante sociedade caribenha. Romance contemporâneo, cultura, Jamaica."
+  },
+  {
+    "id": 550,
+    "titulo": "Song for Mumu",
+    "autor": "Lindsay Barrett",
+    "resumo": "Jovem jamaicana lida com o amor trágico, os mitos ancestrais e a forte conexão espiritual com a natureza da ilha. Romance lírico, mitos, Jamaica."
+  },
+  {
+    "id": 551,
+    "titulo": "Banana Bottom",
+    "autor": "Claude McKay",
+    "resumo": "Jovem jamaicana educada na Inglaterra retorna à sua ilha natal e busca conciliar a cultura britânica com suas raízes negras. Romance de formação, Jamaica, identidade."
+  },
+  {
+    "id": 552,
+    "titulo": "Home to Harlem",
+    "autor": "Claude McKay",
+    "resumo": "Soldado jamaicano desertor vive a vibrante e perigosa vida noturna, os dilemas e o racismo no Harlem dos anos 1920. Romance urbano, Harlem, jazz."
+  },
+  {
+    "id": 553,
+    "titulo": "Banjo",
+    "autor": "Claude McKay",
+    "resumo": "Marinheiro negro lidera grupo de músicos boêmios e marginalizados nas docas de Marselha em busca de liberdade e dignidade. Romance social, diáspora, Marselha."
+  },
+  {
+    "id": 554,
+    "titulo": "The Children of Sisyphus",
+    "autor": "Orlando Patterson",
+    "resumo": "Moradores de favela em Kingston enfrentam a extrema pobreza, o desespero e a dura opressão social na Jamaica pós-colonial. Romance social, Kingston, pobreza."
+  },
+  {
+    "id": 555,
+    "titulo": "Jamaica Inn",
+    "autor": "Erna Brodber",
+    "resumo": "Intelectual estuda as marcas profundas da escravidão e do colonialismo na memória e na identidade cultural do povo jamaicano. Romance histórico, memória, Jamaica."
+  },
+  {
+    "id": 556,
+    "titulo": "Myal",
+    "autor": "Erna Brodber",
+    "resumo": "Mulher jamaicana sofre possessão misteriosa enquanto a comunidade tenta curá-la resgatando suas crenças ancestrais e laços espirituais perdidos. Romance fantástico, mitos, Jamaica."
+  },
+  {
+    "id": 557,
+    "titulo": "Louisiana",
+    "autor": "Erna Brodber",
+    "resumo": "Jovem antropóloga jamaicana viaja ao sul dos Estados Unidos para registrar histórias de vida e descobre profundas conexões espirituais ancestrais. Romance histórico, diáspora, espiritualidade."
+  },
+  {
+    "id": 558,
+    "titulo": "Jane and Louisa Will Soon Come Home",
+    "autor": "Erna Brodber",
+    "resumo": "Jovem jamaicana de classe média lida com os traumas raciais, os padrões coloniais e a fragmentação de sua identidade. Romance psicológico, identidade, Jamaica."
+  },
+  {
+    "id": 559,
+    "titulo": "The Butterfly's Way",
+    "autor": "Michelle Cliff",
+    "resumo": "Histórias cruzadas de exilados jamaicanos nos Estados Unidos revelam os traumas políticos, o racismo e a busca por pertencimento. Romance, diáspora, identidade."
+  },
+  {
+    "id": 560,
+    "titulo": "Abeng",
+    "autor": "Michelle Cliff",
+    "resumo": "Menina na Jamaica colonial descobre os segredos de sua árvore genealógica, confrontando as barreiras raciais e de classe na ilha. Romance histórico, Jamaica, identidade."
+  },
+  {
+    "id": 561,
+    "titulo": "No Telephone to Heaven",
+    "autor": "Michelle Cliff",
+    "resumo": "Jovem jamaicana retorna de Londres à sua terra natal e junta-se a guerrilheiros rurais contra a corrupção e a desigualdade. Romance político, Jamaica, revolta."
+  },
+  {
+    "id": 562,
+    "titulo": "She Tents Unknown",
+    "autor": "Michelle Cliff",
+    "resumo": "Memórias e tramas familiares exploram o desenraizamento, a opressão colonial e a busca por liberdade no Caribe complexo. Romance histórico, Caribe, memória."
+  },
+  {
+    "id": 563,
+    "titulo": "Where the Children Play",
+    "autor": "Kwame Dawes",
+    "resumo": "Família jamaicana enfrenta o luto, os dilemas morais e as dolorosas transformações sociais na ilha dos anos 1970. Romance dramático, família, Jamaica."
+  },
+  {
+    "id": 564,
+    "titulo": "Prodigal Son",
+    "autor": "Kwame Dawes",
+    "resumo": "Jovem músico jamaicano busca redenção e sentido para sua vida entre Kingston e as complexas comunidades da diáspora nos EUA. Romance, música, diáspora."
+  },
+  {
+    "id": 565,
+    "titulo": "Hurricane Watch",
+    "autor": "Kwame Dawes",
+    "resumo": "Família em ilha caribenha aguarda a chegada de tempestade devastadora enquanto segredos e tensões antigas emergem violentamente. Romance dramático, família, Caribe."
+  },
+  {
+    "id": 566,
+    "titulo": "In the Time of the Dry Eye",
+    "autor": "Neville Dawes",
+    "resumo": "Conflitos políticos, corrupção e as tensões raciais moldam a trajetória de intelectuais na Jamaica pré-independência. Romance político, Jamaica, história."
+  },
+  {
+    "id": 567,
+    "titulo": "The Last Enchantment",
+    "autor": "Neville Dawes",
+    "resumo": "Jovem jamaicano vivencia os dilemas do exílio na Inglaterra e o retorno conflituoso às suas raízes caribenhas. Romance de formação, exílio, Jamaica."
+  },
+  {
+    "id": 568,
+    "titulo": "Auntie Roachy Seh",
+    "autor": "Jean D’Costa",
+    "resumo": "Narrativas populares e memórias preservam a rica tradição oral, o folclore e o humor espirituoso do povo jamaicano. Romance popular, folclore, Jamaica."
+  },
+  {
+    "id": 569,
+    "titulo": "Escape to King's Island",
+    "autor": "Jean D’Costa",
+    "resumo": "Jovens enfrentam aventuras perigosas e desafios em ilha caribenha em narrativa infantojuvenil repleta de suspense e mistério. Romance infantojuvenil, aventura, Caribe."
+  },
+  {
+    "id": 570,
+    "titulo": "The White Witch of Rose Hall",
+    "autor": "H. G. de Lisser",
+    "resumo": "Lendária proprietária de terras na Jamaica colonial é temida por sua crueldade e prática de bruxaria com escravizados. Romance histórico, terror, Jamaica."
+  },
+  {
+    "id": 571,
+    "titulo": "Jane's Career",
+    "autor": "H. G. de Lisser",
+    "resumo": "Jovem camponesa chega a Kingston em busca de emprego e ascensão social, enfrentando a dureza da vida urbana. Romance social, Kingston, trabalho."
+  },
+  {
+    "id": 572,
+    "titulo": "The Cup and the Chronicle",
+    "autor": "H. G. de Lisser",
+    "resumo": "Intriga política e romance na alta sociedade da Jamaica colonial revelam os bastidores do poder local. Romance histórico, política, Jamaica."
+  },
+  {
+    "id": 573,
+    "titulo": "August Town",
+    "autor": "Nicole Dennis-Benn",
+    "resumo": "Mulheres em comunidade rastafári de Kingston enfrentam a violência, a fé e a busca por autonomia em cenário tenso. Romance social, Kingston, religião."
+  },
+  {
+    "id": 574,
+    "titulo": "Patsy",
+    "autor": "Nicole Dennis-Benn",
+    "resumo": "Mãe jamaicana migra para Nova York em busca de uma vida melhor, deixando a filha para trás em doloroso processo de separação. Romance dramático, imigração, diáspora."
+  },
+  {
+    "id": 575,
+    "titulo": "This One Sky Day",
+    "autor": "Marcia Douglas",
+    "resumo": "Personagens em Kingston lidam com a pobreza, a música reggae, os espíritos ancestrais e a esperança em 24 horas intensas. Romance mágico, Kingston, reggae."
+  },
+  {
+    "id": 576,
+    "titulo": "Madam Fate",
+    "autor": "Marcia Douglas",
+    "resumo": "Mulher misteriosa na Jamaica do século XX lidera sua comunidade enfrentando o colonialismo, o racismo e a injustiça social. Romance histórico, Jamaica, resistência."
+  },
+  {
+    "id": 577,
+    "titulo": "The Young Warriors",
+    "autor": "Victor Stafford Reid",
+    "resumo": "Jovens cimarrons lutam bravamente nas montanhas da Jamaica contra os colonizadores britânicos em busca de liberdade. Romance histórico, cimarrons, Jamaica."
+  },
+  {
+    "id": 578,
+    "titulo": "New Day",
+    "autor": "Victor Stafford Reid",
+    "resumo": "Três gerações da mesma família participam das lutas políticas e da busca pela autonomia nacional na Jamaica do século XX. Romance histórico, política, Jamaica."
+  },
+  {
+    "id": 579,
+    "titulo": "The Leopard",
+    "autor": "Victor Stafford Reid",
+    "resumo": "Membro do movimento Mau Mau no Quênia enfrenta dilemas morais extremos, violência e a brutalidade do colonialismo britânico. Romance histórico, Quênia, colonialismo."
+  },
+  {
+    "id": 580,
+    "titulo": "The Jamaicans",
+    "autor": "Victor Stafford Reid",
+    "resumo": "Saga épica retrata a formação do povo jamaicano, misturando tradições indígenas, africanas e européias na ilha caribenha. Romance histórico, Jamaica, identidade."
+  },
+  {
+    "id": 581,
+    "titulo": "The Bridge of Beyond",
+    "autor": "Simone Schwarz-Bart",
+    "resumo": "Mulher caribenha na Guadalupe supera tragédias familiares e dores cotidianas com imensa força interior e sabedoria ancestral. Romance regionalista, Guadalupe, resistência."
+  },
+  {
+    "id": 582,
+    "titulo": "Brother Man",
+    "autor": "Roger Mais",
+    "resumo": "Pintor rastafári pacato em Kingston é injustamente perseguido pela sociedade preconceituosa e ignorante da capital jamaicana. Romance social, Kingston, preconceito."
+  },
+  {
+    "id": 583,
+    "titulo": "The Hills Were Joyful Together",
+    "autor": "Roger Mais",
+    "resumo": "Moradores de cortiço em Kingston enfrentam a miséria extrema, a violência policial e o desespero cotidiano na ilha. Romance realista, Kingston, pobreza."
+  },
+  {
+    "id": 584,
+    "titulo": "Black Lightning",
+    "autor": "Roger Mais",
+    "resumo": "Escultor talentoso na zona rural jamaicana lida com a cegueira, a solidão e uma tragédia pessoal avassaladora. Romance psicológico, tragédia, Jamaica."
+  },
+  {
+    "id": 585,
+    "titulo": "The Sound and the Fury",
+    "autor": "John Hearne",
+    "resumo": "Relações passionais, poder e tensões raciais agitam a alta sociedade em ilha caribenha sob domínio colonial britânico. Romance dramático, Caribe, poder."
+  },
+  {
+    "id": 586,
+    "titulo": "Voices Under the Window",
+    "autor": "John Hearne",
+    "resumo": "Advogado ferido em motim em Kingston relembra sua vida e os profundos conflitos raciais e sociais da Jamaica. Romance psicológico, Kingston, política."
+  },
+  {
+    "id": 587,
+    "titulo": "Stranger at the Gate",
+    "autor": "John Hearne",
+    "resumo": "Fugitivo político busca refúgio em fazenda isolada na Jamaica, despertando paixões e perigosos conflitos com os proprietários. Romance de suspense, Jamaica, política."
+  },
+  {
+    "id": 588,
+    "titulo": "The Faces of Love",
+    "autor": "John Hearne",
+    "resumo": "Relações amorosas complexas e dilemas morais testam a lealdade de intelectuais e artistas na sociedade caribenha. Romance romântico, Caribe, arte."
+  },
+  {
+    "id": 589,
+    "titulo": "Brown Girl, Blessed Girl",
+    "autor": "John Hearne",
+    "resumo": "Jovem jamaicana navega pelas complexidades de classe, cor da pele e expectativas sociais na ilha. Romance social, Jamaica, identidade."
+  },
+  {
+    "id": 590,
+    "titulo": "Midnight Robber",
+    "autor": "Nalo Hopkinson",
+    "resumo": "Jovem em mundo futurista inspirado no Caribe é traída e exilada em dimensão paralela povoada por criaturas míticas perigosas. Romance de ficção científica, Caribe, mito."
+  },
+  {
+    "id": 591,
+    "titulo": "The New Moon's Arms",
+    "autor": "Nalo Hopkinson",
+    "resumo": "Mulher de meia-idade em ilha caribenha encontra bebê misterioso na praia, desencadeando eventos mágicos e transformações pessoais. Romance fantástico, Caribe, magia."
+  },
+  {
+    "id": 592,
+    "titulo": "Brown Girl in the Ring",
+    "autor": "Nalo Hopkinson",
+    "resumo": "Jovem em Toronto pós-apocalíptica usa conhecimentos ancestrais caribenhos para salvar sua comunidade de ditador cruel. Romance fantástico, diáspora, magia."
+  },
+  {
+    "id": 593,
+    "titulo": "The Salt Roads",
+    "autor": "Nalo Hopkinson",
+    "resumo": "Espirito de mulher escravizada viaja através dos corpos de três mulheres em diferentes épocas e continentes na diáspora negra. Romance histórico, escravidão, espiritualidade."
+  },
+  {
+    "id": 594,
+    "titulo": "A Brief History of Seven Killings",
+    "autor": "Marlon James",
+    "resumo": "Tentativa de assassinato de Bob Marley em 1976 desencadeia saga violenta envolvendo gangues, política e a CIA. Romance histórico, violência, Jamaica."
+  },
+  {
+    "id": 595,
+    "titulo": "The Book of Night Women",
+    "autor": "Marlon James",
+    "resumo": "Escrava em plantação jamaicana do século XVIII planeja sangrenta rebelião contra seus brutais senhores em narrativa visceral. Romance histórico, escravidão, Jamaica."
+  },
+  {
+    "id": 596,
+    "titulo": "Moon Witch, Spider King",
+    "autor": "Marlon James",
+    "resumo": "Feiticeira milenar embarca em perigosa busca épica por jovem desaparecido em universo fantástico inspirado na África antiga. Romance de fantasia, épico, África."
+  },
+  {
+    "id": 597,
+    "titulo": "A Man Called Destruction",
+    "autor": "Evan Jones",
+    "resumo": "Poeta e roteirista explora os dilemas da criação artística e o impacto da cultura jamaicana no cenário internacional. Romance biográfico, arte, Jamaica."
+  },
+  {
+    "id": 598,
+    "titulo": "The Night of the Jabberwock",
+    "autor": "Evan Jones",
+    "resumo": "Trama de suspense e mistério envolve personagens excêntricos em conspirações na zona rural da Jamaica colonial. Romance policial, suspense, Jamaica."
+  },
+  {
+    "id": 599,
+    "titulo": "The Distant Music",
+    "autor": "Evan Jones",
+    "resumo": "Gerações de família pioneira enfrentam os desafios de colonizar e sobreviver nas belas e implacáveis paisagens da Tasmânia. Romance histórico, colonização, Tasmânia."
+  },
+  {
+    "id": 600,
+    "titulo": "Dancing with the Volcanos",
+    "autor": "Alecia McKenzie",
+    "resumo": "Artistas e jornalistas lidam com paixões, segredos e reviravoltas políticas em cenário caribenho vibrante. Romance contemporâneo, arte, Caribe."
+  },
+  {
+    "id": 601,
+    "titulo": "Sweetness in the Belly",
+    "autor": "Camilla Gibb",
+    "resumo": "Mulher britânica criada como muçulmana na Etiópia foge para Londres como refugiada, buscando identidade e amor na diáspora. Romance contemporâneo, diáspora, refugiados."
+  },
+  {
+    "id": 602,
+    "titulo": "City of Orphans",
+    "autor": "Camilla Gibb",
+    "resumo": "Crianças órfãs nas ruas de Londres vitoriana lutam pela sobrevivência e por laços de afeto em ambiente hostil. Romance histórico, Londres, pobreza."
+  },
+  {
+    "id": 603,
+    "titulo": "The Beauty of Humanity Movement",
+    "autor": "Camilla Gibb",
+    "resumo": "Sobreviventes da guerra no Vietnã encontram cura para seus traumas através da culinária, da arte e da memória. Romance dramático, Vietnã, memória."
+  },
+  {
+    "id": 604,
+    "titulo": "By Sweet Water",
+    "autor": "Hamid Ismailov",
+    "resumo": "Exilado político navega pelas lembranças de sua terra natal na Ásia Central em narrativa lírica e profunda. Romance poético, exílio, memória."
+  },
+  {
+    "id": 605,
+    "titulo": "The Dead Lake",
+    "autor": "Hamid Ismailov",
+    "resumo": "Homem paralisado às margens de lago tóxico na União Soviética revive sua infância e os traumas do totalitarismo. Romance histórico, URSS, memória."
+  },
+  {
+    "id": 606,
+    "titulo": "Of Women and Salt",
+    "autor": "Gabriela Garcia",
+    "resumo": "Mulheres de quatro gerações, de Cuba a Miami, enfrentam segredos familiares, imigração e o peso da história política. Romance contemporâneo, imigração, família."
+  },
+  {
+    "id": 607,
+    "titulo": "The Island of Missing Trees",
+    "autor": "Elif Shafak",
+    "resumo": "Amor proibido entre cipriotas em taverna dividida pela guerra é testemunhado por figueira enraizada na ilha mediterrânea. Romance histórico, Chipre, natureza."
+  },
+  {
+    "id": 608,
+    "titulo": "The Forty Rules of Love",
+    "autor": "Elif Shafak",
+    "resumo": "Dona de casa americana lê manuscrito sobre o sufis e o poeta Rumi, transformando radicalmente sua visão de amor e vida. Romance espiritual, amor, transformação."
+  },
+  {
+    "id": 609,
+    "titulo": "The Bastard of Istanbul",
+    "autor": "Elif Shafak",
+    "resumo": "Família armênio-turca em Istambul lida com os silêncios históricos, os fantasmas do passado e a identidade fragmentada. Romance histórico, Istambul, memória."
+  },
+  {
+    "id": 610,
+    "titulo": "Honor",
+    "autor": "Elif Shafak",
+    "resumo": "Família imigrante curda em Londres lida com a tragédia de crime de honra, machismo e o choque entre tradição e modernidade. Romance dramático, imigração, honra."
+  },
+  {
+    "id": 611,
+    "titulo": "The Architect's Apprentice",
+    "autor": "Elif Shafak",
+    "resumo": "Jovem aprendiz em Istambul vitoriosa constrói monumentos magníficos enquanto navega pelas intrigas palacianas do Império Otomano. Romance histórico, Istambul, arquitetura."
+  },
+  {
+    "id": 612,
+    "titulo": "Three Daughters of Eve",
+    "autor": "Elif Shafak",
+    "resumo": "Três mulheres universitárias em Istambul debatem fé, política, amor e identidade secular na Turquia contemporânea. Romance contemporâneo, Istambul, universidade."
+  },
+  {
+    "id": 613,
+    "titulo": "The Island of Sea Women",
+    "autor": "Lisa See",
+    "resumo": "Mergulhadoras tradicionais de ilha coreana enfrentam amizade rompida, conflitos históricos e a brutalidade da guerra no século XX. Romance histórico, Coreia, amizade."
+  },
+  {
+    "id": 614,
+    "titulo": "Snow Flower and the Secret Fan",
+    "autor": "Lisa See",
+    "resumo": "Duas jovens chinesas na China imperial mantêm laços de amizade profunda através de linguagem secreta escrita em leques. Romance histórico, China, amizade."
+  },
+  {
+    "id": 615,
+    "titulo": "Peony in Love",
+    "autor": "Lisa See",
+    "resumo": "Jovem herdeira chinesa do século XVII morre de fome por amor e retorna como espírito errante guiada por clássico literário. Romance histórico, China, espírito."
+  },
+  {
+    "id": 616,
+    "titulo": "Dragon Bones",
+    "autor": "Lisa See",
+    "resumo": "Investigadora forense em Pequim desvenda conspirações internacionais ligadas a antiguidades e contrabando de arte milenar. Romance policial, Pequim, arte."
+  },
+  {
+    "id": 617,
+    "titulo": "The Tea Girl of Hummingbird Lane",
+    "autor": "Lisa See",
+    "resumo": "Mãe e filha de minoria étnica na China encontram destino transformador através do cultivo e comércio do antigo chá pu-erh. Romance dramático, China, chá."
+  },
+  {
+    "id": 618,
+    "titulo": "The Tea Master and the Detective",
+    "autor": "Aliette de Bodard",
+    "resumo": "Mestre do chá e investigadora cibernética em estação espacial inspirada no Vietnã desvendam misterioso assassinato. Romance de ficção científica, espaço, mistério."
+  },
+  {
+    "id": 619,
+    "titulo": "Chiquita",
+    "autor": "Antonio Orlando Rodríguez",
+    "resumo": "Bailarina exótica e diminuta conquista fama internacional em turnês mundiais no final do século XIX. Romance histórico, biografia, circo."
+  },
+  {
+    "id": 620,
+    "titulo": "El candidato",
+    "autor": "Miguel Mejides",
+    "resumo": "Bastidores da política corrupta, ambições desmedidas e disputas de poder na sociedade cubana pré-revolucionária. Romance político, poder, Cuba."
+  },
+  {
+    "id": 621,
+    "titulo": "El buzón de plata",
+    "autor": "Nancy Alonso",
+    "resumo": "Mulheres cubanas enfrentam dilemas cotidianos, afetivos e profissionais em meio às transformações sociais da ilha. Romance contemporâneo, sociedade, Cuba."
+  },
+  {
+    "id": 622,
+    "titulo": "L'enlèvement des sabines",
+    "autor": "Zoé Valdés",
+    "resumo": "Exilada cubana em Paris revive memórias passionais, artísticas e as feridas profundas deixadas por sua terra natal. Romance autobiográfico, exílio, Paris."
+  },
+  {
+    "id": 623,
+    "titulo": "Te di la vida entera",
+    "autor": "Zoé Valdés",
+    "resumo": "Operária fabril em Havana vive paixão avassaladora por músico de bolero enquanto enfrenta a escassez cotidiana. Romance romântico, Havana, música."
+  },
+  {
+    "id": 624,
+    "titulo": "Y todos fuimos felices",
+    "autor": "Eliseo Alberto",
+    "resumo": "Memórias familiares e nostalgias se cruzam em narrativa sensível sobre o exílio e as perdas na sociedade cubana. Romance intimista, exílio, memória."
+  },
+  {
+    "id": 625,
+    "titulo": "La eternidad por fin comienza un lunes",
+    "autor": "Eliseo Alberto",
+    "resumo": "Personagens excêntricos em cidade pequena lidam com o tempo, o amor e a iminência da morte. Romance fantástico, reflexão, Cuba."
+  },
+  {
+    "id": 626,
+    "titulo": "La última mujer y el próximo combate",
+    "autor": "Norberto Fuentes",
+    "resumo": "Guerrilheiros e intelectuais lidam com os dilemas morais, o desgaste e a burocracia do poder em Cuba. Romance político, revolução, Cuba."
+  },
+  {
+    "id": 627,
+    "titulo": "Confesiones de un guajiro",
+    "autor": "Norberto Fuentes",
+    "resumo": "Memórias ficcionalizadas abordam o cotidiano rural, a vida militar e as tensões políticas na ilha. Romance autobiográfico, política, Cuba."
+  },
+  {
+    "id": 628,
+    "titulo": "El ojo de Aleida",
+    "autor": "Daniel Chavarría",
+    "resumo": "Agentes secretos, espionagem internacional e conspirações políticas agitam a geopolítica caribenha em ritmo de suspense eletrizante. Romance de espionagem, política, suspense."
+  },
+  {
+    "id": 629,
+    "titulo": "Adiós muchachos",
+    "autor": "Daniel Chavarría",
+    "resumo": "Guerrilheiros urbanos e intelectuais articulam ações revolucionárias clandestinas em Havana durante os anos da ditadura de Batista. Romance político, conspiração, Cuba."
+  },
+  {
+    "id": 630,
+    "titulo": "Lucía Jerez",
+    "autor": "José Martí",
+    "resumo": "Artista idealista e jovem aristocrata vivem paixão trágica e complexa na alta sociedade de Nova York no século XIX. Romance romântico, arte, exílio."
+  },
+  {
+    "id": 631,
+    "titulo": "Sab",
+    "autor": "Gertrudis Gómez de Avellaneda",
+    "resumo": "Escravo apaixonado por sua senhora branca enfrenta o racismo e a injustiça social no contexto colonial cubano. Romance antiescravagista, Cuba, paixão."
+  },
+  {
+    "id": 632,
+    "titulo": "Guatimozín",
+    "autor": "Gertrudis Gómez de Avellaneda",
+    "resumo": "Épico histórico reconstrói a trágica resistência do último imperador asteca frente à conquista sangrenta dos espanhóis. Romance histórico, conquista, México."
+  },
+  {
+    "id": 633,
+    "titulo": "Cecilia Valdés",
+    "autor": "Cirilo Villaverde",
+    "resumo": "Jovem mulata em Havana vive romance trágico com jovem aristocrata sem saber que são filhos do mesmo pai. Romance romântico, escravidão, Havana."
+  },
+  {
+    "id": 634,
+    "titulo": "El brujo",
+    "autor": "José Soler Puig",
+    "resumo": "Conflitos sociais, crenças populares e a luta armada contra a ditadura agitam a província de Santiago de Cuba. Romance histórico, revolta, Santiago."
+  },
+  {
+    "id": 635,
+    "titulo": "Cobra",
+    "autor": "Severo Sarduy",
+    "resumo": "Dançarinos de teatro em Paris embarcam em jornada mística e transexual repleta de símbolos orientais e visões barrocas. Romance experimental, identidade, Paris."
+  },
+  {
+    "id": 636,
+    "titulo": "Pas de Zèle",
+    "autor": "Carlos Victoria",
+    "resumo": "Exilado cubano nos Estados Unidos lida com a paranoia, o desenraizamento e os fantasmas políticos do passado. Romance psicológico, exílio, EUA."
+  },
+  {
+    "id": 637,
+    "titulo": "La tarde de los caracoles",
+    "autor": "Fernando Villaverde",
+    "resumo": "Intelectuais e artistas lidam com escolhas difíceis, rupturas e dilemas morais na Cuba revolucionária. Romance psicológico, política, Cuba."
+  },
+  {
+    "id": 638,
+    "titulo": "La ciudad de los tanques",
+    "autor": "Fernando Villaverde",
+    "resumo": "Trama dramática aborda a militarização da sociedade, a burocracia estatal e as perdas afetivas em Cuba. Romance político, drama, Cuba."
+  },
+  {
+    "id": 639,
+    "titulo": "Mine Boy",
+    "autor": "Peter Abrahams",
+    "resumo": "Jovem negro deixa a zona rural sul-africana e enfrenta o racismo brutal, a exploração e a miséria nas minas de ouro. Romance social, racismo, África do Sul."
+  },
+  {
+    "id": 640,
+    "titulo": "This Island Now",
+    "autor": "Peter Abrahams",
+    "resumo": "Ditadura e corrupção política corroem os ideais democráticos em uma ilha caribenha fictícia após a independência nacional. Romance político, poder, Caribe."
+  },
+  {
+    "id": 641,
+    "titulo": "When Gougin Met Kaw Mul",
+    "autor": "Opal Palmer Adisa",
+    "resumo": "Relações humanas complexas, memórias e tensões culturais moldam a vida de mulheres na vibrante sociedade caribenha. Romance contemporâneo, cultura, Jamaica."
+  },
+  {
+    "id": 642,
+    "titulo": "The Scarlet Letter",
+    "autor": "Nathaniel Hawthorne",
+    "resumo": "Mulher puritana em Boston colonial enfrenta a condenação social e cria a filha sozinha após ter um filho ilegítimo. Romance histórico, pecado, puritanismo."
+  },
+  {
+    "id": 643,
+    "titulo": "The House of the Seven Gables",
+    "autor": "Nathaniel Hawthorne",
+    "resumo": "Família assombrada por maldição ancestral lida com a decadência moral, a culpa e a ganância em casarão sombrio. Romance gótico, maldição, Nova Inglaterra."
+  },
+  {
+    "id": 644,
+    "titulo": "The Blithedale Romance",
+    "autor": "Nathaniel Hawthorne",
+    "resumo": "Narrador relata as desilusões, os amores frustrados e os conflitos idealistas em comunidade utópica socialista no século XIX. Romance psicológico, utopia, idealismo."
+  },
+  {
+    "id": 645,
+    "titulo": "The Marble Faun",
+    "autor": "Nathaniel Hawthorne",
+    "resumo": "Americanos na Itália envolvem-se em crime passional que desperta culpas profundas, arte e reflexões morais em Roma. Romance psicológico, arte, Itália."
+  },
+  {
+    "id": 646,
+    "titulo": "The Narrative of Arthur Gordon Pym of Nantucket",
+    "autor": "Edgar Allan Poe",
+    "resumo": "Jovem marinheiro embarca em desastrosa viagem marítima repleta de motins, naufrágios, canibalismo e terrores antárticos. Romance de aventura, terror, mar."
+  },
+  {
+    "id": 647,
+    "titulo": "Moby-Dick",
+    "autor": "Herman Melville",
+    "resumo": "Capitão Ahab lidera tripulação em caçada obsessiva e suicida pela gigantesca baleia branca que arrancou sua perna nos mares. Romance épico, obsessão, mar."
+  },
+  {
+    "id": 648,
+    "titulo": "Typee",
+    "autor": "Herman Melville",
+    "resumo": "Marinheiro desertor no Pacífico sul vive entre tribo indígena isolada, debatendo os limites entre a civilização e a suposta selvageria. Romance de aventura, polinésia, exótico."
+  },
+  {
+    "id": 649,
+    "titulo": "Omoo",
+    "autor": "Herman Melville",
+    "resumo": "Aventureiro errante continua suas perambulações pelos mares do sul e ilhas exóticas em narrativa picaresca e observações antropológicas. Romance de aventura, mares do sul, viagens."
+  },
+  {
+    "id": 650,
+    "titulo": "Pierre; or, The Ambiguities",
+    "autor": "Herman Melville",
+    "resumo": "Jovem idealista lida com segredos familiares sombrios, incesto velado e ruína trágica na alta sociedade de Nova York. Romance gótico, tragédia, Nova York."
+  },
+  {
+    "id": 651,
+    "titulo": "The Confidence-Man",
+    "autor": "Herman Melville",
+    "resumo": "Passageiros a bordo de navio a vapor no rio Mississippi enfrentam trapaceiro mascarado em sátira corrosiva sobre a humanidade. Romance satírico, alegoria, Mississippi."
+  },
+  {
+    "id": 652,
+    "titulo": "The Adventures of Tom Sawyer",
+    "autor": "Mark Twain",
+    "resumo": "Menino travesso vive aventuras, travessuras e perigos às margens do rio Mississippi na América do século XIX. Romance infanto-juvenil, aventura, Mississippi."
+  },
+  {
+    "id": 653,
+    "titulo": "The Adventures of Huckleberry Finn",
+    "autor": "Mark Twain",
+    "resumo": "Menino fugitivo e escravo liberto descem o rio Mississippi em jangada, confrontando o racismo e a hipocrisia sulista. Romance clássico, liberdade, rio Mississippi."
+  },
+  {
+    "id": 654,
+    "titulo": "The Prince and the Pauper",
+    "autor": "Mark Twain",
+    "resumo": "Príncipe herdeiro inglês e garoto pobre trocam de lugar por engano, vivenciando realidades opostas na sociedade londrina. Romance histórico, identidade, Londres."
+  },
+  {
+    "id": 655,
+    "titulo": "A Connecticut Yankee in King Arthur's Court",
+    "autor": "Mark Twain",
+    "resumo": "Engenheiro americano do século XIX viaja no tempo até a corte do Rei Arthur, introduzindo tecnologia e modernidade. Romance fantástico, sátira, viagem no tempo."
+  },
+  {
+    "id": 656,
+    "titulo": "Little Women",
+    "autor": "Louisa May Alcott",
+    "resumo": "Quatro irmãs March crescem, enfrentam dificuldades financeiras, cultivam talentos e buscam seus caminhos na Nova Inglaterra da Guerra Civil. Romance de formação, família, Nova Inglaterra."
+  },
+  {
+    "id": 657,
+    "titulo": "Little Men",
+    "autor": "Louisa May Alcott",
+    "resumo": "Jo March e seu marido administram escola experimental para garotos órfãos e travessos baseada no afeto e na compreensão. Romance infantojuvenil, educação, família."
+  },
+  {
+    "id": 658,
+    "titulo": "Jo's Boys",
+    "autor": "Louisa May Alcott",
+    "resumo": "Antigos alunos da escola Plumfield enfrentam os desafios da vida adulta, carreiras, romances e escolhas profissionais no mundo moderno. Romance de formação, juventude, EUA."
+  },
+  {
+    "id": 659,
+    "titulo": "The Portrait of a Lady",
+    "autor": "Henry James",
+    "resumo": "Jovem americana independente herda fortuna na Europa, mas torna-se vítima de casamento manipulador e frio com aristocrata. Romance psicológico, Europa, EUA."
+  },
+  {
+    "id": 660,
+    "titulo": "The Wings of the Dove",
+    "autor": "Henry James",
+    "resumo": "Jovem herdeira americana doente desfruta seus últimos meses em Veneza enquanto amigos maquinam para herdar sua fortuna. Romance psicológico, Veneza, tragédia."
+  },
+  {
+    "id": 661,
+    "titulo": "The Ambassadors",
+    "autor": "Henry James",
+    "resumo": "Homem americano viaja a Paris para resgatar jovem herdeiro da influência europeia, mas acaba transformado pela cultura parisiense. Romance psicológico, Paris, arte."
+  },
+  {
+    "id": 662,
+    "titulo": "The Turn of the Screw",
+    "autor": "Henry James",
+    "resumo": "Jovem preceptora em mansão isolada passa a acreditar que as crianças sob seus cuidados são assombradas por fantasmas corrompidos. Romance gótico, terror, fantasmas."
+  },
+  {
+    "id": 663,
+    "titulo": "The American",
+    "autor": "Henry James",
+    "resumo": "Milionário americano viaja a Paris em busca de esposa aristocrática, mas esbarra nas intrigas frias e cruéis da alta sociedade. Romance social, Paris, romance."
+  },
+  {
+    "id": 664,
+    "titulo": "The Bostonians",
+    "autor": "Henry James",
+    "resumo": "Ativistas feministas e jovens idealistas disputam influências e corações em meio aos debates sociais na Boston do século XIX. Romance social, ativismo, Boston."
+  },
+  {
+    "id": 665,
+    "titulo": "Daisy Miller",
+    "autor": "Henry James",
+    "resumo": "Jovem americana espontânea choca a rígida e conservadora comunidade de expatriados norte-americanos na Europa com seu comportamento livre. Romance psicológico, Europa, choque."
+  },
+  {
+    "id": 666,
+    "titulo": "The Great Gatsby",
+    "autor": "F. Scott Fitzgerald",
+    "resumo": "Milionário misterioso dá festas opulentas em Long Island na vã esperança de reconquistar seu grande amor de juventude. Romance clássico, jazz, decadência."
+  },
+  {
+    "id": 667,
+    "titulo": "Tender Is the Night",
+    "autor": "F. Scott Fitzgerald",
+    "resumo": "Psiquiatra brilhante e sua esposa rica enfrentam o declínio emocional, o alcoolismo e a dissolução moral na Riviera Francesa. Romance psicológico, tragédia, Europa."
+  },
+  {
+    "id": 668,
+    "titulo": "This Side of Paradise",
+    "autor": "F. Scott Fitzgerald",
+    "resumo": "Jovem universitário vaidoso navega pelas desilusões amorosas, pela vaidade acadêmica e pelo vazio da juventude pós-guerra. Romance de formação, juventude, EUA."
+  },
+  {
+    "id": 669,
+    "titulo": "The Beautiful and Damned",
+    "autor": "F. Scott Fitzgerald",
+    "resumo": "Casal jovem e privilegiado desperdiça seus anos e fortunas esperando herança em meio ao tédio e à ruína na alta sociedade. Romance dramático, riqueza, ruína."
+  },
+  {
+    "id": 670,
+    "titulo": "The Sun Also Rises",
+    "autor": "Ernest Hemingway",
+    "resumo": "Expatriados americanos e britânicos viajam de Paris a Pamplona em busca de sentido, amor e touros na Geração Perdida. Romance modernista, Espanha, exílio."
+  },
+  {
+    "id": 671,
+    "titulo": "A Farewell to Arms",
+    "autor": "Ernest Hemingway",
+    "resumo": "Amor trágico entre motorista de ambulância americano e enfermeira britânica floresce durante os horrores da Primeira Guerra Mundial. Romance bélico, tragédia, amor."
+  },
+  {
+    "id": 672,
+    "titulo": "For Whom the Bell Tolls",
+    "autor": "Ernest Hemingway",
+    "resumo": "Dinamitador americano junta-se a guerrilheiros antifascistas nas montanhas espanholas durante a violenta Guerra Civil Espanhola. Romance histórico, guerra, Espanha."
+  },
+  {
+    "id": 673,
+    "titulo": "To Have and Have Not",
+    "autor": "Ernest Hemingway",
+    "resumo": "Capitão de barco de pesca em Key West enreda-se no contrabando e no crime para sustentar sua família na Grande Depressão. Romance noir, crime, Flórida."
+  },
+  {
+    "id": 674,
+    "titulo": "Across the River and into the Trees",
+    "autor": "Ernest Hemingway",
+    "resumo": "Coronel americano cansado e doente revisita Veneza em seus últimos dias, vivenciando tardio e melancólico romance juvenil. Romance dramático, Veneza, morte."
+  },
+  {
+    "id": 675,
+    "titulo": "The Sound and the Fury",
+    "autor": "William Faulkner",
+    "resumo": "Família aristocrática decadente no sul dos Estados Unidos é desmembrada por tragédias, loucura e fragmentação temporal profunda. Romance modernista, sul, tragédia."
+  },
+  {
+    "id": 676,
+    "titulo": "As I Lay Dying",
+    "autor": "William Faulkner",
+    "resumo": "Família pobre do interior do Mississippi transporta o caixão da mãe falecida em jornada bizarra e grotesca repleta de monólogos. Romance regionalista, Mississippi, morte."
+  },
+  {
+    "id": 677,
+    "titulo": "Absalom, Absalom!",
+    "autor": "William Faulkner",
+    "resumo": "História sombria de ambição desmedida, colapso familiar e tragédias raciais no sul dos EUA é reconstruída por jovens narradores. Romance histórico, sul, tragédia."
+  },
+  {
+    "id": 678,
+    "titulo": "Light in August",
+    "autor": "William Faulkner",
+    "resumo": "Homem de ancestralidade racial incerta e passado violento foge por pequenas cidades do sul enfrentando o ódio e a religiosidade. Romance psicológico, sul, racismo."
+  },
+  {
+    "id": 679,
+    "titulo": "The Wild Palms",
+    "autor": "William Faulkner",
+    "resumo": "Casal abandona tudo para viver paixão avassaladora e ilegal, enquanto história paralela acompanha prisioneiro em enchente no rio Mississippi. Romance dramático, paixão, Mississippi."
+  },
+  {
+    "id": 680,
+    "titulo": "The Grapes of Wrath",
+    "autor": "John Steinbeck",
+    "resumo": "Família de agricultores de Oklahoma migra para a Califórnia durante a Grande Depressão, enfrentando fome, miséria e exploração. Romance social, migração, pobreza."
+  },
+  {
+    "id": 681,
+    "titulo": "East of Eden",
+    "autor": "John Steinbeck",
+    "resumo": "Saga monumental revisita o mito bíblico de Caim e Abel em duas famílias na fértil região do vale de Salinas. Romance épico, família, Califórnia."
+  },
+  {
+    "id": 682,
+    "titulo": "Of Mice and Men",
+    "autor": "John Steinbeck",
+    "resumo": "Dois trabalhadores itinerantes buscam o sonho americano em fazenda californiana até que tragédia involuntária interrompe suas vidas. Novela dramática, amizade, tragédia."
+  },
+  {
+    "id": 683,
+    "titulo": "Cannery Row",
+    "autor": "John Steinbeck",
+    "resumo": "Moradores excêntricos e marginais de rua portuária na Califórnia encontram alegria e solidariedade nas pequenas coisas da vida. Romance regionalista, humor, Califórnia."
+  },
+  {
+    "id": 684,
+    "titulo": "The Pearl",
+    "autor": "John Steinbeck",
+    "resumo": "Pescador pobre encontra pérola magnífica na costa mexicana, mas a joia desperta a ganância, a violência e a desgraça. Novela alegórica, ganância, parábola."
+  },
+  {
+    "id": 685,
+    "titulo": "The Catcher in the Rye",
+    "autor": "J.D. Salinger",
+    "resumo": "Adolescente rebelde e desiludido foge de internato e vaga por Nova York criticando a hipocrisia e a falsidade adulta. Romance de formação, alienação, juventude."
+  },
+  {
+    "id": 686,
+    "titulo": "Franny and Zooey",
+    "autor": "J.D. Salinger",
+    "resumo": "Irmãos precoce e cultos da excêntrica família Glass enfrentam crises existenciais, espirituais e intelectuais em Nova York. Romance psicológico, espiritualidade, família."
+  },
+  {
+    "id": 687,
+    "titulo": "Raise High the Roof Beam, Carpenters and Seymour: An Introduction",
+    "autor": "J.D. Salinger",
+    "resumo": "Narrador evoca memórias detalhadas e complexas sobre seu irmão mais velho Seymour, figura central e enigmática da família Glass. Novela intimista, memória, família."
+  },
+  {
+    "id": 688,
+    "titulo": "Invisible Man",
+    "autor": "Ralph Ellison",
+    "resumo": "Jovem negro invisibilizado pela sociedade racista americana relata sua dolorosa jornada de desilusões políticas no Harlem. Romance social, racismo, Harlem."
+  },
+  {
+    "id": 689,
+    "titulo": "Native Son",
+    "autor": "Richard Wright",
+    "resumo": "Jovem negro empobrecido em Chicago comete dois crimes acidentais e mergulha em espiral inevitável de medo, violência e perseguição. Romance social, racismo, Chicago."
+  },
+  {
+    "id": 690,
+    "titulo": "Black Boy",
+    "autor": "Richard Wright",
+    "resumo": "Relato autobiográfico contundente expõe a violência racial implacável, a fome e a opressão no sul dos Estados Unidos. Romance autobiográfico, racismo, sul."
+  },
+  {
+    "id": 691,
+    "titulo": "The Outsider",
+    "autor": "Richard Wright",
+    "resumo": "Funcionário ferroviário finge a própria morte após acidente em Chicago e recomeça em Nova York mergulhado em crimes. Romance existencial, crime, identidade."
+  },
+  {
+    "id": 692,
+    "titulo": "Go Tell It on the Mountain",
+    "autor": "James Baldwin",
+    "resumo": "Adolescente no Harlem enfrenta a repressão religiosa do padrasto, o racismo e a descoberta de sua própria identidade. Romance psicológico, religião, Harlem."
+  },
+  {
+    "id": 693,
+    "titulo": "Giovanni's Room",
+    "autor": "James Baldwin",
+    "resumo": "Expatriado americano em Paris lida com a angústia amorosa, a culpa e a homossexualidade reprimida ao se envolver com garçom. Romance psicológico, Paris, afetos."
+  },
+  {
+    "id": 694,
+    "titulo": "Another Country",
+    "autor": "James Baldwin",
+    "resumo": "Grupo de intelectuais brancos e negros em Nova York navega por complexas relações de raça, sexo, amor e traição. Romance social, Nova York, sexualidade."
+  },
+  {
+    "id": 695,
+    "titulo": "If Beale Street Could Talk",
+    "autor": "James Baldwin",
+    "resumo": "Jovem grávida no Harlem luta incansavelmente para provar a inocência de seu companheiro preso injustamente por crime. Romance dramático, justiça, Harlem."
+  },
+  {
+    "id": 696,
+    "titulo": "The Fire Next Time",
+    "autor": "James Baldwin",
+    "resumo": "Cartas contundentes analisam o racismo estrutural devastador e a urgente necessidade de reconciliação racial nos Estados Unidos. Ensaio narrativo, racismo, EUA."
+  },
+  {
+    "id": 697,
+    "titulo": "Beloved",
+    "autor": "Toni Morrison",
+    "resumo": "Ex-escravizada em Ohio é implacavelmente assombrada pelo espírito da filha que sacrificou para salvá-la da escravidão. Romance histórico, trauma, maternidade."
+  },
+  {
+    "id": 698,
+    "titulo": "Song of Solomon",
+    "autor": "Toni Morrison",
+    "resumo": "Homem viaja ao sul profundo em busca de suas origens familiares ancestrais, descobrindo mitos, voar e identidade negra. Romance épico, ancestralidade, identidade."
+  },
+  {
+    "id": 699,
+    "titulo": "The Bluest Eye",
+    "autor": "Toni Morrison",
+    "resumo": "Menina negra empobrecida nos anos 1940 desenvolve obsessão dolorosa por ter olhos azuis em meio ao racismo estrutural. Romance dramático, infância, racismo."
+  },
+  {
+    "id": 700,
+    "titulo": "Tar Baby",
+    "autor": "Toni Morrison",
+    "resumo": "Modelo negra e homem marginalizado encontram-se em ilha caribenha, confrontando barreiras de raça, classe e civilização moderna. Romance psicológico, Caribe, raça."
+  },
+  {
+    "id": 701,
+    "titulo": "Sula",
+    "autor": "Toni Morrison",
+    "resumo": "Amizade complexa entre duas mulheres negras em comunidade periférica resiste ao tempo, ao julgamento moral e às tragédias. Romance psicológico, amizade, comunidade."
+  },
+  {
+    "id": 702,
+    "titulo": "Paradise",
+    "autor": "Toni Morrison",
+    "resumo": "Comunidade isolada fundada por negros nos EUA presencia conflitos violentos com mulheres abrigadas em convento próximo. Romance histórico, comunidade, violência."
+  },
+  {
+    "id": 703,
+    "titulo": "The Road",
+    "autor": "Cormac McCarthy",
+    "resumo": "Pai e filho caminham por cinzentos Estados Unidos pós-apocalípticos, enfrentando fome, frio e gangues de canibais brutais. Romance pós-apocalíptico, sobrevivência, pai e filho."
+  },
+  {
+    "id": 704,
+    "titulo": "Blood Meridian",
+    "autor": "Cormac McCarthy",
+    "resumo": "Jovem fugitivo junta-se a bando sanguinário de caçadores de escalpos na fronteira mexicano-americana do século XIX. Romance histórico, violência, fronteira."
+  },
+  {
+    "id": 705,
+    "titulo": "No Country for Old Men",
+    "autor": "Cormac McCarthy",
+    "resumo": "Caçador encontra mala cheia de dinheiro do tráfico e passa a ser perseguido por impiedoso assassino psicopata no Texas. Romance noir, suspense, Texas."
+  },
+  {
+    "id": 706,
+    "titulo": "All the Pretty Horses",
+    "autor": "Cormac McCarthy",
+    "resumo": "Jovem cowboy texano cruza a fronteira rumo ao México em busca de aventura, amor e trabalho nos ranchos remotos. Romance de formação, fronteira, México."
+  },
+  {
+    "id": 707,
+    "titulo": "Outer Dark",
+    "autor": "Cormac McCarthy",
+    "resumo": "Irmã e irmão incestuosos vagam por paisagens rurais desoladas do sul após o abandono do bebê recém-nascido. Romance gótico, sul, desolação."
+  },
+  {
+    "id": 708,
+    "titulo": "White Noise",
+    "autor": "Don DeLillo",
+    "resumo": "Professor de estudos hitlerianos em universidade americana lida com o medo da morte e nuvem tóxica de vazamento químico. Romance satírico, consumismo, ansiedade."
+  },
+  {
+    "id": 709,
+    "titulo": "Underworld",
+    "autor": "Don DeLillo",
+    "resumo": "Épico monumental acompanha a trajetória de uma bola de beisebol e múltiplos personagens ao longo da Guerra Fria americana. Romance histórico, Guerra Fria, EUA."
+  },
+  {
+    "id": 710,
+    "titulo": "Libra",
+    "autor": "Don DeLillo",
+    "resumo": "Ficção baseada em fatos reconstrói a vida de Lee Harvey Oswald e a vasta conspiração por trás do assassinato de Kennedy. Romance histórico, conspiração, Kennedy."
+  },
+  {
+    "id": 711,
+    "titulo": "Falling Man",
+    "autor": "Don DeLillo",
+    "resumo": "Sobrevivente dos atentados de 11 de setembro em Nova York lida com o trauma psicológico, a culpa e os escombros emocionais. Romance contemporâneo, trauma, 11 de setembro."
+  },
+  {
+    "id": 712,
+    "titulo": "Players",
+    "autor": "Don DeLillo",
+    "resumo": "Casal jovem em Nova York vivencia o tédio existencial, o terrorismo político e a superficialidade da modernidade urbana. Romance psicológico, terrorismo, Nova York."
+  },
+  {
+    "id": 713,
+    "titulo": "Infinite Jest",
+    "autor": "David Foster Wallace",
+    "resumo": "Futuro distópico nos EUA gira em torno de academia de tênis, centro de reabilitação e filme hipnótico e mortal. Romance complexo, vício, tecnologia."
+  },
+  {
+    "id": 714,
+    "titulo": "The Pale King",
+    "autor": "David Foster Wallace",
+    "resumo": "Funcionários de repartição federal de impostos em Illinois enfrentam o tédio burocrático, a rotina e o absurdo institucional. Romance póstumo, burocracia, tédio."
+  },
+  {
+    "id": 715,
+    "titulo": "Consider the Lobster",
+    "autor": "David Foster Wallace",
+    "resumo": "Ensaios brilhantes e irônicos exploram festivais de lagostas, pornografia, linguagem, tênis e a cultura de massa americana. Coletânea de ensaios, cultura, sociedade."
+  },
+  {
+    "id": 716,
+    "titulo": "The Broom of the System",
+    "autor": "David Foster Wallace",
+    "resumo": "Atendente telefônica em Ohio descobre que sua bisavó fugiu com um escritor e questiona se é apenas personagem de ficção. Romance pós-moderno, linguagem, identidade."
+  },
+  {
+    "id": 717,
+    "titulo": "Brief Interviews with Hideous Men",
+    "autor": "David Foster Wallace",
+    "resumo": "Transcrições e narrativas fragmentadas expõem discursos perturbadores e complexos de homens em entrevistas sobre relacionamentos. Coletânea de contos, gênero, psicologia."
   }
 ]
