@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "titulo": "Dom Quixote",
+    "autor": "Miguel de Cervantes",
+    "resumo": "Fidalgo enlouquecido acredita ser cavaleiro, enfrenta moinhos e vive aventuras absurdas. Idealismo contra realidade, sátira da honra."
+  },
+  {
+    "id": 2,
+    "titulo": "Neuromancer",
+    "autor": "William Gibson",
+    "resumo": "Hacker decadente é contratado para invasão virtual suicida por inteligência artificial consciente. Distopia cyberpunk, tecnologia, conspiração, decadência humana."
+  },
+  {
+    "id": 3,
+    "titulo": "Orgulho e Preconceito",
+    "autor": "Jane Austen",
+    "resumo": "Elizabeth Bennet enfrenta dilemas sociais e desentendimentos com o orgulhoso Fitzwilliam Darcy. Crítica social, romance, rigidez de classes."
+  },
+  {
+    "id": 4,
+    "titulo": "O Senhor dos Anéis",
+    "autor": "J.R.R. Tolkien",
+    "resumo": "Hobbit recebe a missão de destruir anel maligno em montanha vulcânica. Fantasia épica, amizade, combate ao mal supremo."
+  },
+  {
+    "id": 5,
+    "titulo": "O Nome da Rosa",
+    "autor": "Umberto Eco",
+    "resumo": "Monge franciscano investiga mortes misteriosas em abadia medieval isolada. Romance histórico, mistério, heresia, bibliotecas proibidas."
+  },
+  {
+    "id": 6,
+    "titulo": "Cinquenta Tons de Cinza",
+    "autor": "E.L. James",
+    "resumo": "Estudante jovem inicia relacionamento intenso e submisso com empresário bilionário. Romance erótico, sedução, controle, desejo."
+  },
+  {
+    "id": 7,
+    "titulo": "A Ilha do Tesouro",
+    "autor": "Robert Louis Stevenson",
+    "resumo": "Jovem encontra mapa pirata e embarca em expedição repleta de traições. Aventura clássica, pirataria, cobiça, amadurecimento."
+  },
+  {
+    "id": 8,
+    "titulo": "O Guia do Mochileiro das Galáxias",
+    "autor": "Douglas Adams",
+    "resumo": "Humano escapa da destruição da Terra viajando pelo espaço com extraterrestre. Humor absurdo, ficção científica, sátira existencial."
+  },
+  {
+    "id": 9,
+    "titulo": "O Código Da Vinci",
+    "autor": "Dan Brown",
+    "resumo": "Simbologista investiga assassinato no Louvre e descobre segredo milenar sobre a igreja. Ação, suspense, religião, enigmas históricos."
+  }
+]
