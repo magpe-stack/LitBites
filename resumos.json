@@ -52,8 +52,7 @@
     "titulo": "O Código Da Vinci",
     "autor": "Dan Brown",
     "resumo": "Simbologista investiga assassinato no Louvre e descobre segredo milenar sobre a igreja. Ação, suspense, religião, enigmas históricos."
-  }
-
+  },
   {
     "id": 10,
     "titulo": "Frankenstein",
@@ -101,8 +100,7 @@
     "titulo": "O Iluminado",
     "autor": "Stephen King",
     "resumo": "Escritor alcoólatra aceita trabalho em hotel isolado e enlouquece sob influência de forças sobrenaturais. Horror psicológico, isolamento, fantasmas."
-  }
-
+  },
   {
     "id": 18,
     "titulo": "Drácula",
@@ -211,5 +209,4 @@
     "autor": "Júlio Verne",
     "resumo": "Professor capturado navega pelos oceanos a bordo de submarino avançado liderado por capitão misterioso. Aventura, exploração, ciência."
   }
-  
 ]
