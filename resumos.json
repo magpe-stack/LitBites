@@ -5243,5 +5243,1205 @@
     "titulo": "Os Três Mosqueteiros",
     "autor": "Alexandre Dumas",
     "resumo": "Jovem d'Artagnan une-se a três mosqueteiros do rei na França do século XVII, enfrentando intrigas e a vingativa Milady. Romance de capa e espada, aventura, França."
+  },
+    {
+    "id": 882,
+    "titulo": "El amante",
+    "autor": "Marguerite Duras",
+    "resumo": "Jovem francesa na Indochina colonial vive tórrida e proibida paixão com aristocrata chinês mais velho em Saigon. Romance autobiográfico, Indochina, paixão."
+  },
+  {
+    "id": 883,
+    "titulo": "El mal de la muerte",
+    "autor": "Marguerite Duras",
+    "resumo": "Homem contrata mulher para passar noites em quarto de hotel à beira-mar refletindo sobre a incapacidade de amar. Romance psicológico, mar, solidão."
+  },
+  {
+    "id": 884,
+    "titulo": "El nombre de la rosa",
+    "autor": "Umberto Eco",
+    "resumo": "Frade franciscano investiga assassinatos misteriosos em abadia medieval alpina desvendando conspirações e labirintos de livros proibidos. Romance histórico, abadia, mistério."
+  },
+  {
+    "id": 885,
+    "titulo": "El péndulo de Foucault",
+    "autor": "Umberto Eco",
+    "resumo": "Editores em Milão inventam conspiração oculta falsa que acaba atraindo perigos reais e sociedades secretas fanáticas. Romance pós-moderno, conspiração, Milão."
+  },
+  {
+    "id": 886,
+    "titulo": "La amiga estupenda",
+    "autor": "Elena Ferrante",
+    "resumo": "Duas amigas crescem em bairro pobre e violento de Nápoles nos anos 1950, forjando laços complejos e duradouros. Romance psicológico, Nápoles, amizade."
+  },
+  {
+    "id": 887,
+    "titulo": "Los días del abandono",
+    "autor": "Elena Ferrante",
+    "resumo": "Mulher em Roma é abandonada subitamente pelo marido, mergulhando em crise psicológica profunda e desespero doméstico. Romance psicológico, Roma, crise."
+  },
+  {
+    "id": 888,
+    "titulo": "Los Buddenbrook",
+    "autor": "Thomas Mann",
+    "resumo": "Queda de quatro gerações de família rica de comerciantes em Lübeck sob o peso da modernidade e decadência burguesa. Romance histórico, Alemanha, decadência."
+  },
+  {
+    "id": 889,
+    "titulo": "La montaña mágica",
+    "autor": "Thomas Mann",
+    "resumo": "Jovem engenheiro visita sanatório nos Alpes suíços e permanece sete anos debatendo ideias, filosofia, doença e tempo. Romance filosófico, Alpes, tempo."
+  },
+  {
+    "id": 890,
+    "titulo": "Doctor Faustus",
+    "autor": "Thomas Mann",
+    "resumo": "Compositor alemão vende a alma ao diabo em troca de genialidade musical extrema durante a ascensão do nazismo. Romance filosófico, música, nazismo."
+  },
+  {
+    "id": 891,
+    "titulo": "El tambor de hojalata",
+    "autor": "Günter Grass",
+    "resumo": "Menino Oskar cresce na Polônia e Alemanha nazista recusando-se a crescer e tocando seu tambor metálico crítico. Romance histórico, Alemanha, nazismo."
+  },
+  {
+    "id": 892,
+    "titulo": "El gato y el ratón",
+    "autor": "Günter Grass",
+    "resumo": "Jovens em Danzig durante a Segunda Guerra Mundial enfrentam rivalidades escolares, heroísmo militar e dilemas morais profundos. Romance histórico, guerra, Alemanha."
+  },
+  {
+    "id": 893,
+    "titulo": "Carta de una desconocida",
+    "autor": "Stefan Zweig",
+    "resumo": "Escritor vienense recebe carta comovente de mulher moribunda que o amou em segredo durante toda a sua vida. Romance psicológico, Viena, amor."
+  },
+  {
+    "id": 894,
+    "titulo": "La impaciencia del corazón",
+    "autor": "Stefan Zweig",
+    "resumo": "Jovem oficial austríaco apaixona-se por jovem paraplégica, descobrindo que a piedade pode ser mais destrutiva que o ódio. Romance psicológico, Viena, culpa."
+  },
+  {
+    "id": 895,
+    "titulo": "La visita de la vieja dama",
+    "autor": "Friedrich Dürrenmatt",
+    "resumo": "Milionária excêntrica retorna à sua cidade natal na Suíça empobrecida oferecendo fortuna em troca da morte do ex-amante. Romance satírico, Suíça, vingança."
+  },
+  {
+    "id": 896,
+    "titulo": "La promesa",
+    "autor": "Friedrich Dürrenmatt",
+    "resumo": "Inspetor aposentado investiga assassinato de menina na Suíça, mantendo promessa obsessiva feita aos pais da vítima. Romance policial, Suíça, obsessión."
+  },
+  {
+    "id": 897,
+    "titulo": "Oliver Twist",
+    "autor": "Charles Dickens",
+    "resumo": "Órfão em Londres escapa de asilo miserável e une-se a bando de jovens ladrões comandados pelo astuto Fagin. Romance social, Londres, órfão."
+  },
+  {
+    "id": 898,
+    "titulo": "Great Expectations",
+    "autor": "Charles Dickens",
+    "resumo": "Jovem humilde Pip recebe fortuna misteriosa de benfeitor anônimo, transformando suas ambições na sociedade vitoriana londrina. Romance de formação, Londres, ambição."
+  },
+  {
+    "id": 899,
+    "titulo": "A Tale of Two Cities",
+    "autor": "Charles Dickens",
+    "resumo": "Doutor preso na Bastilha e sua família enfrentam os perigos sangrentos da Revolução Francesa entre Paris e Londres. Romance histórico, revolução, Paris."
+  },
+  {
+    "id": 900,
+    "titulo": "Mrs. Dalloway",
+    "autor": "Virginia Woolf",
+    "resumo": "Clarissa Dalloway prepara festa em Londres pós-guerra enquanto reflete sobre suas escolhas passadas e o trauma de veterano. Romance modernista, Londres, memória."
+  },
+  {
+    "id": 901,
+    "titulo": "To the Lighthouse",
+    "autor": "Virginia Woolf",
+    "resumo": "Família Ramsay planeja visita frustrada a farol escocês na véspera da Primeira Guerra, explorando o tempo e a arte. Romance modernista, Escócia, tempo."
+  },
+  {
+    "id": 902,
+    "titulo": "Saturday",
+    "autor": "Ian McEwan",
+    "resumo": "Neurocirurgião em Londres vive dia tenso em 2003 marcado por protestos contra a guerra e confronto aterrorizante em casa. Romance contemporâneo, Londres, política."
+  },
+  {
+    "id": 903,
+    "titulo": "Ulysses",
+    "autor": "James Joyce",
+    "resumo": "Publicidade e pensamentos de Leopold Bloom cruzam as ruas de Dublin em um único dia repleto de referências homéricas. Romance modernista, Dublin, épico."
+  },
+  {
+    "id": 904,
+    "titulo": "A Portrait of the Artist as a Young Man",
+    "autor": "James Joyce",
+    "resumo": "Jovem Stephen Dedalus rejeita a religião católica e o nacionalismo irlandês para buscar sua vocação artística. Romance de formação, Irlanda, arte."
+  },
+  {
+    "id": 905,
+    "titulo": "Normal People",
+    "autor": "Sally Rooney",
+    "resumo": "Jovens universitários na Irlanda navegam por inseguranças sociais, afetos intensos, silêncios e transformações em sua complexa relação amorosa. Romance contemporâneo, Irlanda, juventude."
+  },
+  {
+    "id": 906,
+    "titulo": "Conversations with Friends",
+    "autor": "Sally Rooney",
+    "resumo": "Estudantes universitárias em Dublin envolvem-se em dinâmica afetiva e intelectual complexa com casal mais velho e burguês. Romance psicológico, Dublin, relacionamentos."
+  },
+  {
+    "id": 907,
+    "titulo": "Hambre",
+    "autor": "Knut Hamsun",
+    "resumo": "Jovem escritor faminto e orgulhoso caminha pelas ruas de Kristiania enfrentando alucinações, miséria e degradação física extrema. Romance psicológico, Noruega, fome."
+  },
+  {
+    "id": 908,
+    "titulo": "Pan",
+    "autor": "Knut Hamsun",
+    "resumo": "Tenente isolado na floresta norueguesa vive paixão intensa e destrutiva com jovem aristocrata em meio à natureza selvagem. Romance regionalista, Noruega, natureza."
+  },
+  {
+    "id": 909,
+    "titulo": "La lucha contra mi vida",
+    "autor": "Karl Ove Knausgård",
+    "resumo": "Norueguês relata sem filtros os detalhes cotidianos, as dores, as frustrações e a paternidade em sua monumental saga. Romance autobiográfico, Noruega, cotidiano."
+  },
+  {
+    "id": 910,
+    "titulo": "Gösta Berlings saga",
+    "autor": "Selma Lagerlöf",
+    "resumo": "Pastor deposto e grupo de cavaleiros excêntricos vivem aventuras místicas e românticas nas paisagens nevadas da Suécia. Romance histórico, Suécia, misticismo."
+  },
+  {
+    "id": 911,
+    "titulo": "Los hombres que no amaban a las mujeres",
+    "autor": "Stieg Larsson",
+    "resumo": "Jornalista investiga desaparecimento antigo em ilha sueca com ajuda de hacker gótica brilhante e antissocial. Romance policial, Suécia, investigação."
+  },
+  {
+    "id": 912,
+    "titulo": "Purificación",
+    "autor": "Sofi Oksanen",
+    "resumo": "Mulher idosa na Estônia rural abriga jovem fugitiva russa, desvendando traumas soviéticos e segredos familiares dolorosos. Romance histórico, Estônia, soviéticos."
+  },
+  {
+    "id": 913,
+    "titulo": "Gente independiente",
+    "autor": "Halldór Laxness",
+    "resumo": "Fazendeiro obstinado na Islândia luta por independência financeira e dignidade em meio à pobreza e intempéries. Romance regionalista, Islândia, dureza."
+  },
+  {
+    "id": 914,
+    "titulo": "El atentado",
+    "autor": "Harry Mulisch",
+    "resumo": "Homem holandês busca compreender os fatos traumáticos de atentado nazista que dizimou sua família na Segunda Guerra. Romance histórico, Holanda, nazismo."
+  },
+  {
+    "id": 915,
+    "titulo": "La calle de las tienda oscuras",
+    "autor": "Patrick Modiano",
+    "resumo": "Detetive particular amnésico em Paris busca desvendar sua verdadeira identidade perdida durante a ocupação nazista. Romance policial, Paris, memória."
+  },
+  {
+    "id": 916,
+    "titulo": "La ridícula idea de no volver a verte",
+    "autor": "Rosa Montero",
+    "resumo": "Escritora espanhola reflete sobre o luto, a perda de seu marido e os diários de Marie Curie. Romance autobiográfico, luto, Madri."
+  },
+  {
+    "id": 917,
+    "titulo": "La pianista",
+    "autor": "Elfriede Jelinek",
+    "resumo": "Professora de piano em Viena vive relação sado-masoquista doentia e sufocante com sua mãe controladora e autoritária. Romance psicológico, Viena, música."
+  },
+  {
+    "id": 918,
+    "titulo": "La insoportable levedad del ser",
+    "autor": "Milan Kundera",
+    "resumo": "Intelectuais em Praga enfrentam a invasão soviética, amores livres, traições e o peso das escolhas existenciais. Romance filosófico, Praga, comunismo."
+  },
+  {
+    "id": 919,
+    "titulo": "La broma",
+    "autor": "Milan Kundera",
+    "resumo": "Jovem tcheco brinca com carta política ingênua e sofre punição severa do regime comunista anos a fio. Romance político, Praga, comunismo."
+  },
+  {
+    "id": 920,
+    "titulo": "El destino de los eslovacos",
+    "autor": "Dominik Tatarka",
+    "resumo": "Intelectual eslovaco retrata os dilemas políticos, as rupturas e a resistência cultural sob o totalitarismo. Romance político, Eslováquia, resistência."
+  },
+  {
+    "id": 921,
+    "titulo": "Sin destino",
+    "autor": "Imre Kertész",
+    "resumo": "Jovem húngaro sobrevive aos campos de concentração nazistas de Auschwitz e Buchenwald, retornando a Budapeste em profunda desolação. Romance histórico, Holocausto, Budapeste."
+  },
+  {
+    "id": 922,
+    "titulo": "Solenoid",
+    "autor": "Mircea Cărtărescu",
+    "resumo": "Professor em Bucareste vive experiências oníricas e existenciais em realidade labiríntica e surrealista na Romênia comunista. Romance surrealista, Bucareste, sonhos."
+  },
+  {
+    "id": 923,
+    "titulo": "The Time Shelter",
+    "autor": "Georgi Gospodinov",
+    "resumo": "Clínica na Europa oferece aos pacientes com Alzheimer a possibilidade de reviver décadas passadas em ambientes reconstruídos. Romance fantástico, Bulgária, memória."
+  },
+  {
+    "id": 924,
+    "titulo": "Alexis Zorba",
+    "autor": "Nikos Kazantzakis",
+    "resumo": "Intelectual metódico contrata mineiro grego livre e apaixonado pela vida na ilha de Creta. Romance filosófico, Grécia, liberdade."
+  },
+  {
+    "id": 925,
+    "titulo": "Me Dicho Istanbul",
+    "autor": "Orhan Pamuk",
+    "resumo": "Escritor em Istambul investiga o passado, os segredos familiares e as transformações culturais da metrópole turca. Romance urbano, Istambul, memória."
+  },
+  {
+    "id": 926,
+    "titulo": "Crimen y castigo",
+    "autor": "Fyodor Dostoiévski",
+    "resumo": "Ex-estudante em São Petersburgo comete assassinato para provar sua superioridade teórica, mergulhando em culpa devoradora. Romance psicológico, São Petersburgo, culpa."
+  },
+  {
+    "id": 927,
+    "titulo": "Los hermanos Karamázov",
+    "autor": "Fyodor Dostoiévski",
+    "resumo": "Irmãos russos enfrentam dilemas morais, fé, parricídio e a eterna luta entre o bem e o mal na alma humana. Romance filosófico, Rússia, moral."
+  },
+  {
+    "id": 928,
+    "titulo": "Voroshilovgrad",
+    "autor": "Serhiy Zhadan",
+    "resumo": "Homem retorna a cidade industrial ucraniana para proteger o posto de gasolina de seu irmão contra mafiosos locais. Romance contemporâneo, Ucrânia, resistência."
+  },
+  {
+    "id": 929,
+    "titulo": "Los balticos",
+    "autor": "Jaan Kross",
+    "resumo": "Historiador estoniano reconstrói os dilemas da aristocracia e os conflitos geopolíticos no Báltico ao longo dos séculos. Romance histórico, Estônia, Báltico."
+  },
+  {
+    "id": 930,
+    "titulo": "Hijos del sol",
+    "autor": "Rainis",
+    "resumo": "Poeta e dramaturgo letão explora a busca por liberdade, justiça social e emancipação espiritual do povo letão. Romance dramático, Letônia, liberdade."
+  },
+  {
+    "id": 931,
+    "titulo": "La emperatriz de la sal",
+    "autor": "Kristina Sabaliauskaitė",
+    "resumo": "Saga histórica explora a vida na corte, as intrigas políticas e a cultura da Lituânia barroca. Romance histórico, Lituânia, Vilnius."
+  },
+  {
+    "id": 932,
+    "titulo": "La abuela Iliko",
+    "autor": "Nodar Dumbadze",
+    "resumo": "Menino órfão na Geórgia soviética cresce sob os cuidados bem-humorados de suas avós e vizinhos excêntricos. Romance regionalista, Geórgia, humor."
+  },
+  {
+    "id": 933,
+    "titulo": "El solitario",
+    "autor": "Hovhannes Tumanyan",
+    "resumo": "Histórias e lendas das montanhas armênias retratam a vida, os amores e as dores do povo armênio. Romance regionalista, Armênia, montanhas."
+  },
+  {
+    "id": 934,
+    "titulo": "Baku Connection",
+    "autor": "Chingiz Abdullayev",
+    "resumo": "Agentes secretos enfrentam conspirações internacionais e redes criminosas nos bastidores políticos do Azerbaiján. Romance policial, Baku, conspiração."
+  },
+  {
+    "id": 935,
+    "titulo": "Un puente sobre el Drina",
+    "autor": "Ivo Andrić",
+    "resumo": "Séculos de história, conflitos étnicos e dominação otomana na Bósnia são testemunhados por ponte de pedra milenar. Romance histórico, Bósnia, ponte."
+  },
+  {
+    "id": 936,
+    "titulo": "El ministerio del dolor",
+    "autor": "Dubravka Ugrešić",
+    "resumo": "Professora croata exilada em Amsterdã lida com a perda da pátria, a língua fragmentada e os refugiados balcânicos. Romance psicológico, exílio, Amsterdã."
+  },
+  {
+    "id": 937,
+    "titulo": "El mar de la fortuna",
+    "autor": "Aleksandar Hemon",
+    "resumo": "Imigrante bósnio nos Estados Unidos lida com memórias de Sarajevo, adaptação cultural e o peso da guerra. Romance contemporâneo, diáspora, EUA."
+  },
+  {
+    "id": 938,
+    "titulo": "Boca a boca",
+    "autor": "Andrej Nikolaidis",
+    "resumo": "Artista em Montenegro lida com paranoias políticas, segredos de estado e crises existenciais na costa balcânica. Romance contemporâneo, Montenegro, crise."
+  },
+  {
+    "id": 939,
+    "titulo": "El precio de la libertad",
+    "autor": "Petre M. Andreevski",
+    "resumo": "Camponeses macedônios enfrentam a opressão otomana, as guerras e a luta pela terra natal. Romance histórico, Macedônia, resistência."
+  },
+  {
+    "id": 940,
+    "titulo": "El general de los muertos",
+    "autor": "Ismail Kadare",
+    "resumo": "Oficial italiano retorna à Albânia anos após a guerra para desenterrar e repatriar ossos de soldados caídos. Romance histórico, Albânia, guerra."
+  },
+  {
+    "id": 941,
+    "titulo": "El árbol de los vicios",
+    "autor": "Drago Jančar",
+    "resumo": "Esloveno na Europa central do século XX lida com os totalitarismos, as guerras e as rupturas históricas. Romance histórico, Eslovenia, totalitarismo."
+  },
+  {
+    "id": 942,
+    "titulo": "El festín de los días",
+    "autor": "Immanuel Mifsud",
+    "resumo": "Relatos íntimos e fragmentados exploram a identidade maltesa, as memórias familiares e a vida no Mediterrâneo. Romance intimista, Malta, Mediterrâneo."
+  },
+  {
+    "id": 943,
+    "titulo": "Crónica chipriota",
+    "autor": "Costas Montis",
+    "resumo": "Moradores em Chipre enfrentam os conflitos intercomunitários, a divisão da ilha e os dramas da história cipriota. Romance histórico, Chipre, divisão."
+  },
+  {
+    "id": 944,
+    "titulo": "La légende de Saint-Christophe",
+    "autor": "Louis Notari",
+    "resumo": "Lendas e tradições monegascas ganham vida em narrativa lírica sobre a identidade e o principado. Romance histórico, Mônaco, lendas."
+  },
+  {
+    "id": 945,
+    "titulo": "El secreto del cardenal",
+    "autor": "Marino Moretti",
+    "resumo": "Intrigas na alta sociedade de San Marino revelam segredos e paixões ocultas nas montanhas do microestado. Romance histórico, San Marino, intrigas."
+  },
+  {
+    "id": 946,
+    "titulo": "Lieder y baladas",
+    "autor": "Josef Gabriel Rheinberger",
+    "resumo": "Compositor e prosador retrata a vida cultural e as paisagens bucólicas do principado alpino de Liechtenstein. Romance regionalista, Liechtenstein, música."
+  },
+  {
+    "id": 947,
+    "titulo": "El gran Carlemany",
+    "autor": "Antoni Morell Mora",
+    "resumo": "História e lendas se cruzam na reconstituição romanesca das origens e da soberania do principado de Andorra. Romance histórico, Andorra, soberania."
+  },
+  {
+    "id": 948,
+    "titulo": "Kafka à Beira-Mar",
+    "autor": "Haruki Murakami",
+    "resumo": "Jovem fugitivo de casa e idoso capaz de falar com gatos cruzam caminhos em jornada mágica e surrealista no Japão. Romance fantástico, Tóquio, destino."
+  },
+  {
+    "id": 949,
+    "titulo": "Norwegian Wood",
+    "autor": "Haruki Murakami",
+    "resumo": "Estudante em Tóquio revive as memórias melancólicas de seus amores de juventude e perdas trágicas na universidade. Romance psicológico, Tóquio, juventude."
+  },
+  {
+    "id": 950,
+    "titulo": "Minha Querida Sputnik",
+    "autor": "Haruki Murakami",
+    "resumo": "Jovem aspirante a escritor em Tóquio lida com a paixão não correspondida por mulher enigmática que desaparece misteriosamente na Grécia. Romance psicológico, solidão, mistério."
+  },
+  {
+    "id": 951,
+    "titulo": "Confissões de uma Máscara",
+    "autor": "Yukio Mishima",
+    "resumo": "Jovem japonês esconde sua homossexualidade e seus desejos sombrios sob máscaras sociais durante os anos da Segunda Guerra. Romance psicológico, Japão, identidade."
+  },
+  {
+    "id": 952,
+    "titulo": "O Templo de Ouro",
+    "autor": "Yukio Mishima",
+    "resumo": "Jovem noviço budista gago obceca-se pela beleza perfeita de templo histórico até decidir incendiá-lo em ato extremo. Romance psicológico, Kyoto, beleza."
+  },
+  {
+    "id": 953,
+    "titulo": "Sorgo Vermelho",
+    "autor": "Mo Yan",
+    "resumo": "Três gerações de família chinesa enfrentam a violência brutal, a ocupação japonesa e as paixões nas plantações de sorgo. Romance histórico, China, guerra."
+  },
+  {
+    "id": 954,
+    "titulo": "Grandes Seios e Amelhos Plenos",
+    "autor": "Mo Yan",
+    "resumo": "Saga familiar na China rural acompanha a matriarca e seus filhos através das convulsões políticas do século XX. Romance histórico, China, família."
+  },
+  {
+    "id": 955,
+    "titulo": "A Montanha da Alma",
+    "autor": "Gao Xingjian",
+    "resumo": "Homem diagnosticado erroneamente com câncer empreende jornada solitária pelas florestas montanhosas do sul da China em busca de liberdade. Romance filosófico, China, liberdade."
+  },
+  {
+    "id": 956,
+    "titulo": "Um Conto sobre a Vila de Fishing",
+    "autor": "Gao Xingjian",
+    "resumo": "Aldeia chinesa remota isolada pelo rio vive transformações profundas e conflitos morais sob o regime comunista. Romance social, China, aldeia."
+  },
+  {
+    "id": 957,
+    "titulo": "Os Versos Satânicos",
+    "autor": "Salman Rushdie",
+    "resumo": "Dois atores indianos sobreviventes à explosão de avião sofrem transformações fantásticas em Londres após ataque terrorista. Romance pós-moderno, Londres, identidade."
+  },
+  {
+    "id": 958,
+    "titulo": "Midnight's Children",
+    "autor": "Salman Rushdie",
+    "resumo": "Nascidos no exato momento da independência da Índia, crianças com poderes telepáticos refletem o destino tumultuado da nação. Romance histórico, Índia, realismo mágico."
+  },
+  {
+    "id": 959,
+    "titulo": "O Deus das Pequenas Coisas",
+    "autor": "Arundhati Roy",
+    "resumo": "Irmãos gêmeos em Kerala enfrentam tragédias familiares, as rígidas regras de casta e um amor proibido devastador. Romance dramático, Índia, castas."
+  },
+  {
+    "id": 960,
+    "titulo": "O Fundamentalista Relutante",
+    "autor": "Mohsin Hamid",
+    "resumo": "Jovem paquistanês em Nova York lida com o trauma do 11 de Setembro, desilusão e sua conversão ideológica. Romance contemporâneo, Paquistão, EUA."
+  },
+  {
+    "id": 961,
+    "titulo": "A Golden Age",
+    "autor": "Tahmima Anam",
+    "resumo": "Mãe viúva em Bangladesh abriga combatentes da resistência durante a violenta guerra de independência contra o Paquistão em 1971. Romance histórico, Bangladesh, guerra."
+  },
+  {
+    "id": 962,
+    "titulo": "A Coruja Cega",
+    "autor": "Sadegh Hedayat",
+    "resumo": "Narrador em Teerã consome-se em delírios de ópio, culpa e visões macabras obcecadas por misteriosa mulher enigmática. Romance gótico, Irã, delírio."
+  },
+  {
+    "id": 963,
+    "titulo": "Meu Nome é Vermelho",
+    "autor": "Orhan Pamuk",
+    "resumo": "Artistas miniaturistas no Império Otomano do século XVI investigam assassinato misterioso em meio a choques culturais e artísticos. Romance histórico, Istambul, arte."
+  },
+  {
+    "id": 964,
+    "titulo": "A Casa de Silêncio",
+    "autor": "Orhan Pamuk",
+    "resumo": "Avó idosa e seus netos reúnem-se em cidade costeira turca na véspera do golpe militar de 1980. Romance histórico, Turquia, política."
+  },
+  {
+    "id": 965,
+    "titulo": "Uma História de Amor e Trevas",
+    "autor": "Amos Oz",
+    "resumo": "Menino cresce em Jerusalém dividida durante a fundação de Israel, cercado por livros, tragédias e segredos familiares. Romance autobiográfico, Jerusalém, Israel."
+  },
+    {
+    "id": 966,
+    "titulo": "Homens ao Sol",
+    "autor": "Ghassan Kanafani",
+    "resumo": "Três palestinos refugiados tentam cruzar o deserto escondidos em tanque de caminhão em busca de trabalho no Kuwait. Romance dramático, Palestina, exílio."
+  },
+  {
+    "id": 967,
+    "titulo": "Mulheres de Areia e Mirra",
+    "autor": "Hanan al-Shaykh",
+    "resumo": "Mulheres em país do Golfo Pérsico enfrentam a opressão patriarcal, o confinamento e buscam formas de liberdade. Romance feminista, Golfo, opressão."
+  },
+  {
+    "id": 968,
+    "titulo": "Não Há Facas nas Cozinhas desta Cidade",
+    "autor": "Khaled Khalifa",
+    "resumo": "Família em Alepo sofre a desintegração moral e física sob a violência sufocante do regime sírio. Romance histórico, Síria, violência."
+  },
+  {
+    "id": 969,
+    "titulo": "O Caçador de Pipas",
+    "autor": "Khaled Hosseini",
+    "resumo": "Jovem afegão radicado nos EUA retorna a Cabul para resgatar o filho de seu antigo amigo e buscar redenção. Romance dramático, Afeganistão, redenção."
+  },
+  {
+    "id": 970,
+    "titulo": "A Cidade do Sol",
+    "autor": "Khaled Hosseini",
+    "resumo": "Duas mulheres afegãs de gerações diferentes unem forças para sobreviver à brutalidade talibã em Cabul sitiada. Romance dramático, Cabul, mulheres."
+  },
+  {
+    "id": 971,
+    "titulo": "The Last Duty",
+    "autor": "Rollan Seisenbayev",
+    "resumo": "Aldeia nas estepes do Cazaquistão enfrenta dilemas morais, corrupção e os impactos devastadores dos testes nucleares soviéticos. Romance histórico, Cazaquistão, estepes."
+  },
+  {
+    "id": 972,
+    "titulo": "The Railway",
+    "autor": "Hamid Ismailov",
+    "resumo": "Passageiros em trem cruzando a Ásia Central e o Uzbequistão compartilham histórias de vida, revoluções e impérios. Romance histórico, Uzbequistão, trem."
+  },
+  {
+    "id": 973,
+    "titulo": "O Sol de Outono",
+    "autor": "Nodar Dumbadze",
+    "resumo": "Menino na Geórgia rural cresce em meio a vizinhos excêntricos, superando agruras com humor e profunda solidariedade humana. Romance regionalista, Geórgia, humor."
+  },
+  {
+    "id": 974,
+    "titulo": "Voss",
+    "autor": "Patrick White",
+    "resumo": "Explorador alemão enigmático lidera expedição trágica e mística pelo árido e implacável interior do outback australiano no século XIX. Romance histórico, outback, Austrália."
+  },
+  {
+    "id": 975,
+    "titulo": "Cloudstreet",
+    "autor": "Tim Winton",
+    "resumo": "Duas famílias operárias bem diferentes compartilham grande casa em Perth ao longo de décadas de dificuldades, cura e milagres cotidianos. Romance familiar, Perth, Austrália."
+  },
+  {
+    "id": 976,
+    "titulo": "Oscar and Lucinda",
+    "autor": "Peter Carey",
+    "resumo": "Herdeiro excêntrico inglês e herdeira australiana excêntrica apostam igreja de vidro transportada pelo interior selvagem da Austrália colonial. Romance histórico, Austrália, aposta."
+  },
+  {
+    "id": 977,
+    "titulo": "Carpentaria",
+    "autor": "Alexis Wright",
+    "resumo": "Comunidades indígenas no golfo de Carpentaria enfrentam o impacto devastador de mineradoras multinacionais e conflitos ancestrais pelo território. Romance épico, Austrália, indígenas."
+  },
+  {
+    "id": 978,
+    "titulo": "The Narrow Road to the Deep North",
+    "autor": "Richard Flanagan",
+    "resumo": "Cirurgião australiano prisioneiro dos japoneses na construção da ferrovia da morte relembra amor proibido e traumas. Romance histórico, guerra, Austrália."
+  },
+  {
+    "id": 979,
+    "titulo": "The Secret River",
+    "autor": "Kate Grenville",
+    "resumo": "Casal britânico degredado tenta recomeçar a vida na Austrália colonial, usurpando terras de aborígenes em conflito trágico. Romance histórico, Austrália, colonização."
+  },
+  {
+    "id": 980,
+    "titulo": "Schindler’s Ark",
+    "autor": "Thomas Keneally",
+    "resumo": "Industrial alemão Oskar Schindler arrisca tudo para salvar centenas de trabalhadores judeus dos campos de extermínio nazistas. Romance histórico, Holocausto, Alemanha."
+  },
+  {
+    "id": 981,
+    "titulo": "The Plains",
+    "autor": "Gerald Murnane",
+    "resumo": "Cineasta viaja às planícies remotas da Austrália interior para registrar a cultura e os mistérios inexplorados daquela vastidão. Romance metaficcional, Austrália, planícies."
+  },
+  {
+    "id": 982,
+    "titulo": "Owls Do Cry",
+    "autor": "Janet Frame",
+    "resumo": "Filhos de família pobre na Nova Zelândia enfrentam a pobreza, a loucura, tragédias e as duras pressões sociais locais. Romance psicológico, Nova Zelândia, família."
+  },
+  {
+    "id": 983,
+    "titulo": "The Bone People",
+    "autor": "Keri Hulme",
+    "resumo": "Mulher reclusa, garoto mudo e homem Maori formam laços de afeto intenso e cura em isolada praia neozelandesa. Romance psicológico, Nova Zelândia, Maori."
+  },
+  {
+    "id": 984,
+    "titulo": "The Luminaries",
+    "autor": "Eleanor Catton",
+    "resumo": "Buscadores de ouro, conspirações e segredos cruzam caminhos em cidade na Nova Zelândia durante a corrida do ouro de 1866. Romance histórico, Nova Zelândia, mistério."
+  },
+  {
+    "id": 985,
+    "titulo": "The Whale Rider",
+    "autor": "Witi Ihimaera",
+    "resumo": "Jovem garota Maori na Nova Zelândia desafia tradições ancestrais ao reivindicar seu direito de liderança sobre seu povo. Romance regionalista, Nova Zelândia, Maori."
+  },
+  {
+    "id": 986,
+    "titulo": "Potiki",
+    "autor": "Patricia Grace",
+    "resumo": "Comunidade Maori à beira-mar na Nova Zelândia luta contra o avanço de empresários capitalistas que ameaçam destruir suas terras ancestrais. Romance social, Nova Zelândia, resistência."
+  },
+  {
+    "id": 987,
+    "titulo": "Maiba",
+    "autor": "Russell Soaba",
+    "resumo": "Jovem em aldeia de Papua-Nova Guiné lidera seu povo contra a corrupção burocrática e a perda de valores tradicionais locais. Romance político, Papua-Nova Guiné, tradição."
+  },
+  {
+    "id": 988,
+    "titulo": "The Wounded Sea",
+    "autor": "Satendra Nandan",
+    "resumo": "Imigrantes nas ilhas Fiji enfrentam desenraizamento, divisões étnicas e os traumas políticos em sociedade insular em transformação. Romance histórico, Fiji, diáspora."
+  },
+  {
+    "id": 989,
+    "titulo": "Leaves of the Banyan Tree",
+    "autor": "Albert Wendt",
+    "resumo": "Três gerações de família em Samoa lidam com o impacto do colonialismo, a religião e as transformações culturais. Romance histórico, Samoa, tradição."
+  },
+  {
+    "id": 990,
+    "titulo": "Tales of the Tikongs",
+    "autor": "Epeli Hauʻofa",
+    "resumo": "Narrativas irônicas e críticas expõem os absurdos da burocracia moderna e da ocidentalização em pequena ilha do Pacífico. Romance satírico, Tonga, Pacífico."
+  },
+  {
+    "id": 991,
+    "titulo": "The Alternative",
+    "autor": "John Saunana",
+    "resumo": "Jovens nas Ilhas Salomão enfrentam os dilemas da descolonização, os choques culturais e a busca por identidade nacional. Romance político, Ilhas Salomão, independência."
+  },
+  {
+    "id": 992,
+    "titulo": "Капитанская дочка",
+    "autor": "Aleksandr Pushkin",
+    "resumo": "Jovem oficial russo enfrenta as agruras da rebelião de Pugachev na estepe, defendendo seu amor e sua honra. Romance histórico, rebelião, estepe."
+  },
+  {
+    "id": 993,
+    "titulo": "Мёртвые души",
+    "autor": "Nikolai Gogol",
+    "resumo": "Vigarista viaja pelo interior da Rússia comprando servos falecidos que ainda constam nos registros fiscais para enriquecer. Romance satírico, burocracia, Rússia."
+  },
+  {
+    "id": 994,
+    "titulo": "Отцы и дети",
+    "autor": "Ivan Turgenev",
+    "resumo": "Conflito geracional e ideológico entre jovens niilistas radicais e a velha aristocracia proprietária na Rússia do século XIX. Romance de ideias, niilismo, geração."
+  },
+  {
+    "id": 995,
+    "titulo": "Дворянское гнездо",
+    "autor": "Ivan Turgenev",
+    "resumo": "Aristocrata retorna da Europa para suas terras rurais na Rússia, vivenciando amor impossível e renúncias morais dolorosas. Romance dramático, aristocracia, campo."
+  },
+  {
+    "id": 996,
+    "titulo": "Накануне",
+    "autor": "Ivan Turgenev",
+    "resumo": "Jovem russa apaixona-se por revolucionário búlgaro, abandonando a vida confortável para lutar pela libertação dos Bálcãs. Romance político, paixão, revolução."
+  },
+  {
+    "id": 997,
+    "titulo": "Дым",
+    "autor": "Ivan Turgenev",
+    "resumo": "Russos em balneário alemão debatem o futuro da pátria enquanto o protagonista envolve-se em paixão obsessiva destrutiva. Romance psicológico, exílio, paixão."
+  },
+  {
+    "id": 998,
+    "titulo": "Новь",
+    "autor": "Ivan Turgenev",
+    "resumo": "Jovens idealistas urbanos tentam educar e conscientizar os camponeses rurais, enfrentando o choque da incompreensão popular. Romance político, camponeses, Rússia."
+  },
+  {
+    "id": 999,
+    "titulo": "Идиот",
+    "autor": "Fyodor Dostoiévski",
+    "resumo": "Príncipe bom e ingênuo retorna à sociedade petersburguesa, onde sua pureza desencadeia obsessões, ciúmes e tragédias morais. Romance psicológico, pureza, São Petersburgo."
+  },
+  {
+    "id": 1000,
+    "titulo": "Бесы",
+    "autor": "Fyodor Dostoiévski",
+    "resumo": "Célula niilista e revolucionária em cidadezinha russa articula conspirações, assassinatos e o caos moral no interior do país. Romance político, niilismo, conspiração."
+  },
+  {
+    "id": 1001,
+    "titulo": "Записки из Мёртвого дома",
+    "autor": "Fyodor Dostoiévski",
+    "resumo": "Nobre condenado relata a rotina brutal, as histórias humanas e a sobrevivência no presídio na Sibéria. Romance autobiográfico, Sibéria, prisão."
+  },
+  {
+    "id": 1002,
+    "titulo": "Игрок",
+    "autor": "Fyodor Dostoiévski",
+    "resumo": "Preceptor russo em cassino alemão consome-se na obsessão compulsiva pelo jogo de roleta e por paixão destrutiva. Romance psicológico, vício, roleta."
+  },
+  {
+    "id": 1003,
+    "titulo": "Война и мир",
+    "autor": "Lev Tolstói",
+    "resumo": "Famílias aristocráticas russas navegam por amores, filosofias e sofrimentos durante as invasões napoleônicas no século XIX. Romance histórico, Napoleão, Rússia."
+  },
+  {
+    "id": 1004,
+    "titulo": "Анна Каренина",
+    "autor": "Lev Tolstói",
+    "resumo": "Mulher casada da alta sociedade russa desafia as convenções morais ao viver paixão trágica com jovem oficial. Romance clássico, paixão, sociedade."
+  },
+  {
+    "id": 1005,
+    "titulo": "Воскресение",
+    "autor": "Lev Tolstói",
+    "resumo": "Aristocrata busca redenção espiritual ao tentar salvar jovem camponesa condenada injustamente ao degredo no trabalho forçado. Romance filosófico, redenção, Sibéria."
+  },
+  {
+    "id": 1006,
+    "titulo": "Семейное счастие",
+    "autor": "Lev Tolstói",
+    "resumo": "Jovem mulher relata a transição das ilusões do amor romântico para a maturidade e serenidade da vida conjugal. Romance psicológico, casamento, maturidade."
+  },
+  {
+    "id": 1007,
+    "titulo": "Драма na охоте",
+    "autor": "Anton Tchékhov",
+    "resumo": "Investigador relata crime passional ocorrido durante temporada de caça na nobreza rural russa em narrativa misteriosa. Romance policial, mistério, nobreza."
+  },
+  {
+    "id": 1008,
+    "titulo": "Мастер и Маргарита",
+    "autor": "Mikhail Bulgákov",
+    "resumo": "O Diabo visita Moscou nos anos 1930 semeando o caos burocrático enquanto Margarida busca salvar seu amado Mestre. Romance fantástico, Moscou, sátira."
+  },
+  {
+    "id": 1009,
+    "titulo": "Белая гвардия",
+    "autor": "Mikhail Bulgákov",
+    "resumo": "Família burguesa em Kiev enfrenta o colapso do Império Russo e os horrores da Guerra Civil em 1918. Romance histórico, Kiev, guerra civil."
+  },
+  {
+    "id": 1010,
+    "titulo": "Театральный роман",
+    "autor": "Mikhail Bulgákov",
+    "resumo": "Autor dramático navega pelos bastidores absurdos, vaidades e burocracia sufocante do meio teatral moscovita dos anos 1920. Romance satírico, teatro, Moscou."
+  },
+  {
+    "id": 1011,
+    "titulo": "Доктор Живаго",
+    "autor": "Boris Pasternak",
+    "resumo": "Médico e poeta atravessa a Primeira Guerra e a Revolução Russa dividido entre o amor, dever e arte. Romance histórico, Revolução Russa, poesia."
+  },
+  {
+    "id": 1012,
+    "titulo": "Раковый корпус",
+    "autor": "Aleksandr Soljenítsin",
+    "resumo": "Pacientes em ala hospitalar na Ásia Central soviética debatem a vida, o totalitarismo, a doença e a morte. Romance político, hospital, URSS."
+  },
+  {
+    "id": 1013,
+    "titulo": "В круге первом",
+    "autor": "Aleksandr Soljenítsin",
+    "resumo": "Cientistas e intelectuais presos em laboratório secreto soviético enfrentam escolhas éticas cruciais entre a liberdade e a consciência. Romance político, Gulag, ética."
+  },
+  {
+    "id": 1014,
+    "titulo": "Один день Ивана Денисовича",
+    "autor": "Aleksandr Soljenítsin",
+    "resumo": "Camponês cumpre rotina de trabalho, frio e fome em campo de trabalhos forçados no ártico. Romance histórico, Gulag, sobrevivência."
+  },
+  {
+    "id": 1015,
+    "titulo": "Защита Лужина",
+    "autor": "Vladimir Nabokov",
+    "resumo": "Enxadrista genial e frágil em Berlim perde a sanidade ao ver sua vida absorvida inteiramente pelo xadrez. Romance psicológico, xadrez, obsessão."
+  },
+  {
+    "id": 1016,
+    "titulo": "Лолита",
+    "autor": "Vladimir Nabokov",
+    "resumo": "Homem maduro relata sua obsessão avassaladora e criminosa por sua enteada pré-adolescente pelos hotéis das estradas americanas. Romance psicológico, obsessão, EUA."
+  },
+  {
+    "id": 1017,
+    "titulo": "Приглашение на казнь",
+    "autor": "Vladimir Nabokov",
+    "resumo": "Prisioneiro em fortaleza absurda aguarda a data de sua execução sob o olhar de carcereiros grotescos. Romance surrealista, totalitarismo, prisão."
+  },
+  {
+    "id": 1018,
+    "titulo": "Бледный огонь",
+    "autor": "Vladimir Nabokov",
+    "resumo": "Comentador acadêmico excêntrico analisa poema em narrativa repleta de enigmas, reis exilados e ilusões Literárias complexas. Romance experimental, poesia, enigmas."
+  },
+  {
+    "id": 1019,
+    "titulo": "Мать",
+    "autor": "Maksim Gorki",
+    "resumo": "Mulher camponesa idosa abraça a causa socialista após a prisão do filho operário na Rússia pré-revolucionária. Romance social, revolução, trabalho."
+  },
+  {
+    "id": 1020,
+    "titulo": "Жизнь Клима Самгина",
+    "autor": "Maksim Gorki",
+    "resumo": "Saga monumental acompanha a decadência da intelligentsia russa das vésperas de 1905 até a Revolução. Romance histórico, intelligentsia, Rússia."
+  },
+  {
+    "id": 1021,
+    "titulo": "Петербург",
+    "autor": "Andrei Bely",
+    "resumo": "Jovem estudante niilista em São Petersburgo recebe a missão de assassinar o próprio pai, um influente burocrata czarista. Romance simbolista, São Petersburgo, conspiração."
+  },
+  {
+    "id": 1022,
+    "titulo": "Серебряный голубь",
+    "autor": "Andrei Bely",
+    "resumo": "Poeta urbano mergulha em seita mística rural no interior da Rússia, sendo tragado por fanatismo e loucura. Romance simbolista, seita, interior."
+  },
+  {
+    "id": 1023,
+    "titulo": "Жизнь Арсеньева",
+    "autor": "Ivan Bunin",
+    "resumo": "Jovem nobre relembra sua infância amorosa, a juventude no campo e a perda de seu mundo czarista. Romance autobiográfico, memória, nobreza."
+  },
+  {
+    "id": 1024,
+    "titulo": "Омон Ра",
+    "autor": "Viktor Pelevin",
+    "resumo": "Jovem soviético treina para missão espacial lunar descobrindo que o programa espacial apoia-se em farsas e sacrifícios humanos. Romance satírico, espaço, URSS."
+  },
+  {
+    "id": 1025,
+    "titulo": "Чапаев и Пустота",
+    "autor": "Viktor Pelevin",
+    "resumo": "Poeta em hospício moscovita alterna entre a Guerra Civil de 1919 e a Rússia gangsterista dos anos 90. Romance pós-moderno, ilusionismo, Moscou."
+  },
+  {
+    "id": 1026,
+    "titulo": "S.N.U.F.F.",
+    "autor": "Viktor Pelevin",
+    "resumo": "Elite vive em cidade voadora utópica explorando e filmando guerras manipuladas contra os habitantes bárbaros do mundo inferior. Romance distópico, mídia, sátira."
+  },
+  {
+    "id": 1027,
+    "titulo": "Искренне ваш Шурик",
+    "autor": "Lyudmila Ulítskaia",
+    "resumo": "Homem bondoso em Moscou dedica sua vida a socorrer e agradar mulheres vulneráveis, esquecendo suas próprias vontades. Romance psicológico, Moscou, altruísmo."
+  },
+  {
+    "id": 1028,
+    "titulo": "Зеленый шатер",
+    "autor": "Lyudmila Ulítskaia",
+    "resumo": "Três amigos em Moscou navegam pela dissidência, censura e escolhas morais durante as décadas soviéticas pós-Stalin. Romance histórico, dissidência, Moscou."
+  },
+  {
+    "id": 1029,
+    "titulo": "Кысь",
+    "autor": "Tatiana Tolstaya",
+    "resumo": "Sobreviventes em Moscou pós-apocalíptica retrocedem à Idade Média, venerando livros antigos sem compreender seu real significado. Romance distópico, pós-apocalipse, Moscou."
+  },
+  {
+    "id": 1030,
+    "titulo": "Чевенгур",
+    "autor": "Andrei Platonov",
+    "resumo": "Idealistas em aldeia russa tentam implantar o comunismo utópico imediato, resultando em fome, morte e absurdos trágicos. Romance satírico, utopia, campo."
+  },
+  {
+    "id": 1031,
+    "titulo": "Котлован",
+    "autor": "Andrei Platonov",
+    "resumo": "Operários escavam imensa vala para a construção de edifício proletário monumental enquanto a fome e a morte aumentam. Romance distópico, URSS, trabalho."
+  },
+  {
+    "id": 1032,
+    "titulo": "Алые паруса",
+    "autor": "Aleksandr Grin",
+    "resumo": "Jovem sonhadora em vila costeira aguarda a chegada do navio de velas vermelhas profetizado por um marinheiro. Romance fantástico, esperança, mar."
+  },
+  {
+    "id": 1033,
+    "titulo": "Бегущая по волнам",
+    "autor": "Aleksandr Grin",
+    "resumo": "Marinheiro embarca em navio misterioso em busca de figura feminina lendária que caminha sobre o mar. Romance fantástico, mar, mistério."
+  },
+  {
+    "id": 1034,
+    "titulo": "Гиперболоид инженера Гарина",
+    "autor": "Aleksei Tolstói",
+    "resumo": "Cientista ambicioso inventa raio laser destruidor para dominar a economia global e instaurar ditadura. Romance de ficção científica, tecnologia, ambição."
+  },
+  {
+    "id": 1035,
+    "titulo": "Аэлита",
+    "autor": "Aleksei Tolstói",
+    "resumo": "Engenheiro russo e soldado viajam a Marte em foguete, liderando revolução proletária contra a oligarquia marciana. Romance de ficção científica, Marte, revolução."
+  },
+  {
+    "id": 1036,
+    "titulo": "Жизнь и судьба",
+    "autor": "Vasili Grossman",
+    "resumo": "Saga épica centra-se na Batalha de Stalingrado, comparando os horrores do nazismo e do totalitarismo stalinista. Romance histórico, Stalingrado, totalitarismo."
+  },
+  {
+    "id": 1037,
+    "titulo": "Тихий Дон",
+    "autor": "Mikhail Sholokhov",
+    "resumo": "Cossacos do rio Don enfrentam a Primeira Guerra e a sangrenta Guerra Civil que divide famílias e tradições. Romance histórico, cossacos, guerra civil."
+  },
+  {
+    "id": 1038,
+    "titulo": "Яма",
+    "autor": "Aleksandr Kuprin",
+    "resumo": "Vida cotidiana e miserável das prostitutas em bordel de cidade russa é retratada com cruento e impiedoso naturalismo. Romance naturalista, prostituição, Rússia."
+  },
+  {
+    "id": 1039,
+    "titulo": "Поединки",
+    "autor": "Aleksandr Kuprin",
+    "resumo": "Jovem subtenente idealista em guarnição provinciana sufoca sob a futilidade, a violência e a rigidez militar czarista. Romance social, exército, província."
+  },
+  {
+    "id": 1040,
+    "titulo": "Лето Господне",
+    "autor": "Ivan Shmelev",
+    "resumo": "Menino na Moscou czarista relembra com nostalgia profunda as festas religiosas, rituais e costumes de sua infância. Romance autobiográfico, nostalgia, Moscou."
+  },
+  {
+    "id": 1041,
+    "titulo": "Мелкий бес",
+    "autor": "Fyodor Sologub",
+    "resumo": "Professor provinciano paranoico e mesquinho mergulha gradualmente em delírios macabros e loucura absoluta no interior. Romance simbolista, loucura, província."
+  },
+  {
+    "id": 1042,
+    "titulo": "Слово о полку Игореве",
+    "autor": "Desconhecido",
+    "resumo": "Épico medieval relata a trágica expedição do príncipe Igor contra os polovtsianos, unindo lirismo e bravura eslava. Romance épico, Idade Média, Rússia."
+  },
+  {
+    "id": 1043,
+    "titulo": "Герой нашего времени",
+    "autor": "Mikhail Lermontov",
+    "resumo": "Oficial cínico e entediado vaga pelas montanhas do Cáucaso manipulando destinos e gerando tragédias em análise psicológica pioneira. Romance psicológico, Cáucaso, niilismo."
+  },
+  {
+    "id": 1044,
+    "titulo": "Отречение",
+    "autor": "Boris Pilniak",
+    "resumo": "Trama fragmentada retrata o caos e as convulsões sociais da intelligentsia e do campesinato durante a Revolução Russa. Romance histórico, revolução, Rússia."
+  },
+  {
+    "id": 1045,
+    "titulo": "Города и годы",
+    "autor": "Konstantin Fedin",
+    "resumo": "Intelecutal russo preso na Alemanha durante a Primeira Guerra retorna à pátria rachada pelas lutas da Revolução. Romance histórico, Alemanha, Rússia."
+  },
+    {
+    "id": 1046,
+    "titulo": "Тупейный художник",
+    "autor": "Nikolai Leskov",
+    "resumo": "Maquiador e atriz escravizada sofrem os abusos e a crueldade de conde tirânico na Rússia feudal. Romance histórico, escravidão, tragédia."
+  },
+  {
+    "id": 1047,
+    "titulo": "Азазель",
+    "autor": "Boris Akunin",
+    "resumo": "Jovem detetive Erast Fandorin investiga suicídio de herdeiro rico descobrindo conspiração secreta de alcance global em 1876. Romance policial, investigação, conspiração."
+  },
+  {
+    "id": 1048,
+    "titulo": "Турецкий гамбит",
+    "autor": "Boris Akunin",
+    "resumo": "Espião russo desvenda traições e códigos secretos na frente de batalha da Guerra Russo-Turca em 1877. Romance policial, espionagem, guerra."
+  },
+  {
+    "id": 1049,
+    "titulo": "Метро 2033",
+    "autor": "Dmitry Glukhovsky",
+    "resumo": "Sobreviventes de guerra nuclear vivem nos túneis do metrô de Moscou enfrentando mutantes, facções radicais e o terror nas sombras. Romance de ficção científica, pós-apocalipse, Moscou."
+  },
+  {
+    "id": 1050,
+    "titulo": "Ночной Дозор",
+    "autor": "Sergei Lukyanenko",
+    "resumo": "Agentes da Luz patrulham as ruas de Moscou para manter a trégua mística contra as forças das Trevas. Romance fantástico, magia, Moscou."
+  },
+  {
+    "id": 1051,
+    "titulo": "Это я, Эдичка",
+    "autor": "Eduard Limonov",
+    "resumo": "Imigrante russo falido em Nova York vive de auxílio social, amores marginais e desespero urbano nos anos 1970. Romance autobiográfico, Nova York, exílio."
+  },
+  {
+    "id": 1052,
+    "titulo": "Верный Руслан",
+    "autor": "Georgy Vladimov",
+    "resumo": "Cão de guarda de campo de trabalhos forçados soviético tenta manter seu dever após o fechamento do Gulag. Romance alegórico, Gulag, fidelidade."
+  },
+  {
+    "id": 1053,
+    "titulo": "Дети Арбата",
+    "autor": "Anatoly Rybakov",
+    "resumo": "Jovens moscovitas dos anos 1930 sofrem as perseguições políticas, prisões e a paranoia do terror stalinista. Romance histórico, terror stalinista, Moscou."
+  },
+  {
+    "id": 1054,
+    "titulo": "Господа Головлёвы",
+    "autor": "Mikhail Saltykov-Shchedrin",
+    "resumo": "Família proprietária de terras no interior desmorona sob a avareza, a hipocrisia e a decadência moral. Romance satírico, decadência, ganância."
+  },
+  {
+    "id": 1055,
+    "titulo": "Голубое сало",
+    "autor": "Vladimir Sorokin",
+    "resumo": "Clones de grandes escritores russos produzem substância misteriosa em narrativa pós-moderna, violenta e absurda. Romance experimental, clones, absurdo."
+  },
+  {
+    "id": 1056,
+    "titulo": "Обитель",
+    "autor": "Zakhar Prilepin",
+    "resumo": "Prisioneiros e guardas em antigo mosteiro transformado em campo de concentração no Báltico enfrentam a violência soviética. Romance histórico, Solovki, Gulag."
+  },
+  {
+    "id": 1057,
+    "titulo": "Зулейха открывает глаза",
+    "autor": "Guzel Yakhina",
+    "resumo": "Camponesa tártara tem o marido morto e é deportada para a Sibéria, descobrindo força e recomeço no exílio. Romance histórico, Sibéria, exílio."
+  },
+  {
+    "id": 1058,
+    "titulo": "Школа для дураков",
+    "autor": "Sasha Sokolov",
+    "resumo": "Jovem aluno com esquizofrenia e percepção temporal fragmentada narra sua visão poética e surreal do mundo. Romance experimental, esquizofrenia, tempo."
+  },
+  {
+    "id": 1059,
+    "titulo": "Пушкинский дом",
+    "autor": "Andrei Bitov",
+    "resumo": "Intelectual em Leningrado navega pela história literária russa e pelos conflitos ideológicos da era soviética. Romance metaficcional, Leningrado, literatura."
+  },
+  {
+    "id": 1060,
+    "titulo": "Русская красавица",
+    "autor": "Viktor Erofeyev",
+    "resumo": "Modelo moscovita vive paixões, escândalos e aventuras na alta sociedade soviética em decadência. Romance satírico, Moscou, erotismo."
+  },
+  {
+    "id": 1061,
+    "titulo": "Что делать?",
+    "autor": "Nikolai Chernyshevsky",
+    "resumo": "Jovem mulher emancipa-se através de casamento de conveniência e cooperativa de trabalho em utopia socialista. Romance político, utopia, feminismo."
+  },
+  {
+    "id": 1062,
+    "titulo": "Кто виноват?",
+    "autor": "Alexander Herzen",
+    "resumo": "Triângulo amoroso e convenções sociais rígidas destroem a vida de intelectuais idealistas na Rússia czarista. Romance social, drama, Rússia."
+  },
+  {
+    "id": 1063,
+    "titulo": "Герой нашего времени",
+    "autor": "Mikhail Lermontov",
+    "resumo": "Oficial cínico e desiludido no Cáucaso manipula sentimentos e desafia a morte em jogos psicológicos. Romance psicológico, Cáucaso, cinismo."
+  },
+  {
+    "id": 1064,
+    "titulo": "Мы",
+    "autor": "Yevgeny Zamyatin",
+    "resumo": "Engenheiro no Estado Único futurista, feito de vidro e lógica pura, descobre a paixão e a rebelião individual. Romance distópico, totalitarismo, futuro."
+  },
+  {
+    "id": 1065,
+    "titulo": "Пикник на обочине",
+    "autor": "Arkady e Boris Strugatsky",
+    "resumo": "Stalker arrisca a vida entrando em Zona misteriosa deixada por extraterrestres para resgatar artefatos perigosos. Romance de ficção científica, Zona, mistério."
+  },
+  {
+    "id": 1066,
+    "titulo": "Трудно быть богом",
+    "autor": "Arkady e Boris Strugatsky",
+    "resumo": "Observador terrestre infiltrado em planeta alienígena em fase medieval tenta evitar massacres sem interferir. Romance de ficção científica, Idade Média, ética."
+  },
+  {
+    "id": 1067,
+    "titulo": "Обломов",
+    "autor": "Ivan Goncharov",
+    "resumo": "Aristocrata russo indolente passa os dias na cama incapaz de tomar decisões ou agir, simbolizando a apatia nobre. Romance clássico, apatia, São Petersburgo."
+  },
+  {
+    "id": 1068,
+    "titulo": "Le Morte d'Arthur",
+    "autor": "Thomas Malory",
+    "resumo": "Cavaleiros da Távola Redonda, o Rei Arthur, Lancelot e a busca pelo Santo Graal em épico arturiano cavaleiresco medieval. Romance arturiano, cavaleiros, Idade Média."
+  },
+  {
+    "id": 1069,
+    "titulo": "The Countess of Pembroke's Arcadia",
+    "autor": "Philip Sidney",
+    "resumo": "Príncipes disfarçados vivem aventuras pastorais, paixões e intrigas políticas em reino idílico na Grécia antiga idealizada. Romance pastoral, renascimento, Grécia."
+  },
+  {
+    "id": 1070,
+    "titulo": "Oroonoko",
+    "autor": "Aphra Behn",
+    "resumo": "Príncipe africano é escravizado e levado ao Suriname colonial, liderando revolta trágica por liberdade e honra antes da execução. Romance histórico, escravidão, Suriname."
+  },
+  {
+    "id": 1071,
+    "titulo": "Robinson Crusoe",
+    "autor": "Daniel Defoe",
+    "resumo": "Marinheiro naufraga e sobrevive solitário em ilha deserta por décadas, dominando a natureza e encontrando resgate e redenção. Romance de aventura, sobrevivência, ilha."
+  },
+  {
+    "id": 1072,
+    "titulo": "Moll Flanders",
+    "autor": "Daniel Defoe",
+    "resumo": "Mulher astuta e marginalizada em Londres sobrevive ao crime, casamentos múltiplos e prisões até encontrar arrependimento e riqueza final. Romance picaresco, Londres, sobrevivência."
+  },
+  {
+    "id": 1073,
+    "titulo": "Gulliver's Travels",
+    "autor": "Jonathan Swift",
+    "resumo": "Médico britânico viaja a terras fantásticas habitadas por liliputianos, gigantes e cavalos racionais em sátira política feroz. Romance satírico, fantasia, política."
+  },
+  {
+    "id": 1074,
+    "titulo": "Pamela; or, Virtue Rewarded",
+    "autor": "Samuel Richardson",
+    "resumo": "Jovem criada virtuosa resiste bravamente às investidas persistentes de seu patrão libertino até reformá-lo pelo casamento. Romance epistolar, virtude, moral."
+  },
+  {
+    "id": 1075,
+    "titulo": "Clarissa",
+    "autor": "Samuel Richardson",
+    "resumo": "Jovem aristocrata virtuosa foge de família opressora, cai nas mãos de libertino cruel e enfrenta tragédia e morte. Romance epistolar, tragédia, virtude."
+  },
+  {
+    "id": 1076,
+    "titulo": "Tom Jones",
+    "autor": "Henry Fielding",
+    "resumo": "Enjeitado carismático e impulsivo viaja pela Inglaterra em busca de fortuna e do amor de sua vida em sátira vibrante. Romance picaresco, Inglaterra, humor."
+  },
+  {
+    "id": 1077,
+    "titulo": "Joseph Andrews",
+    "autor": "Henry Fielding",
+    "resumo": "Jovem criado casto resiste às tentações da patroa e viaja pela estrada inglesa em sátira bem-humorada aos romances sentimentais. Romance satírico, estrada, moral."
+  },
+  {
+    "id": 1078,
+    "titulo": "Tristram Shandy",
+    "autor": "Laurence Sterne",
+    "resumo": "Narrador excêntrico tenta relatar sua própria biografia em narrativa fragmentada repleta de digressões filosóficas e humor metalinguístico. Romance experimental, humor, digressão."
+  },
+  {
+    "id": 1079,
+    "titulo": "The Expedition of Humphry Clinker",
+    "autor": "Tobias Smollett",
+    "resumo": "Família excêntrica viaja pela Grã-Bretanha registrando em cartas observações satíricas sobre a sociedade da época. Romance epistolar, sátira, viagens."
+  },
+  {
+    "id": 1080,
+    "titulo": "The Mysteries of Udolpho",
+    "autor": "Ann Radcliffe",
+    "resumo": "Jovem heroína é aprisionada em castelo alpino sombrio por guardião tirânico em clássico do gótico e suspense. Romance gótico, castelo, suspense."
+  },
+  {
+    "id": 1081,
+    "titulo": "Frankenstein",
+    "autor": "Mary Shelley",
+    "resumo": "Cientista ambicioso cria ser monstruoso em laboratório, desencadeando tragédia, solidão e rejeição mútua em atmosfera gótica sombria. Romance gótico, ciência, monstro."
   }
 ]
