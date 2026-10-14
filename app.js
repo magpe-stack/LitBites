@@ -1,13 +1,26 @@
 /**
- * LitBites - Lógica limpa de carregamento de resumos externos via fetch e interações PWA
+ * LitBites - Lógica de carregamento e sorteio aleatório sem repetições
  */
 
-let resumosList = [];
+let resumosList = [];     // Lista original completa vinda do resumos.json
+let embaralhados = [];    // Fila de exibição atual (deck)
+let ultimoResumoId = null;
+
 const summaryText = document.getElementById('summary-text');
 const summaryMeta = document.getElementById('summary-meta');
 const btnNext = document.getElementById('btn-next');
 const btnCopy = document.getElementById('btn-copy');
 const toast = document.getElementById('toast');
+
+// --- Algoritmo de Embaralhamento (Fisher-Yates) ---
+function shuffle(array) {
+  const arr = [...array];
+  for (let i = arr.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [arr[i], arr[j]] = [arr[j], arr[i]];
+  }
+  return arr;
+}
 
 // --- Carregamento dos Resumos do resumos.json ---
 async function loadResumos() {
@@ -18,6 +31,8 @@ async function loadResumos() {
     resumosList = await response.json();
     
     if (resumosList.length > 0) {
+      // Cria a primeira pilha embaralhada
+      embaralhados = shuffle(resumosList);
       getRandomSummary();
     } else {
       summaryText.textContent = "Nenhum resumo encontrado no arquivo.";
@@ -28,12 +43,25 @@ async function loadResumos() {
   }
 }
 
-// --- Exibir Resumo Aleatório ---
+// --- Exibir Próximo Resumo Sem Repetição ---
 function getRandomSummary() {
   if (resumosList.length === 0) return;
 
-  const randomIndex = Math.floor(Math.random() * resumosList.length);
-  const item = resumosList[randomIndex];
+  // Se a pilha de resumos não vistos acabou, recarrega e embaralha novamente
+  if (embaralhados.length === 0) {
+    embaralhados = shuffle(resumosList);
+    
+    // Garante que o primeiro da nova rodada não seja idêntico ao último exibido
+    if (embaralhados.length > 1 && embaralhados[embaralhados.length - 1].id === ultimoResumoId) {
+      const itemAtropelado = embaralhados.pop();
+      embaralhados.unshift(itemAtropelado);
+    }
+    showToast("Todos os resumos foram exibidos! Reiniciando ciclo.");
+  }
+
+  // Tira o último item da pilha
+  const item = embaralhados.pop();
+  ultimoResumoId = item.id;
 
   // 1. Título e Autor no topo
   summaryMeta.textContent = `${item.titulo} — ${item.autor}`;
@@ -43,6 +71,7 @@ function getRandomSummary() {
 
 // --- Copiar Resumo Atual ---
 async function copySummary() {
+  if (!summaryMeta.textContent || !summaryText.textContent) return;
   const textToCopy = `${summaryMeta.textContent}\n\n${summaryText.textContent}`;
   
   try {
