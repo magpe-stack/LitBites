@@ -4258,5 +4258,990 @@
     "titulo": "Brief Interviews with Hideous Men",
     "autor": "David Foster Wallace",
     "resumo": "Transcrições e narrativas fragmentadas expõem discursos perturbadores e complexos de homens em entrevistas sobre relacionamentos. Coletânea de contos, gênero, psicologia."
+  },
+  {
+    "id": 718,
+    "titulo": "The Ambassadors",
+    "autor": "Henry James",
+    "resumo": "Homem maduro viaja a Paris enviado por rica matriarca para resgatar seu enteado, mas acaba transformado pela cultura europeia. Romance psicológico, Paris, arte."
+  },
+  {
+    "id": 719,
+    "titulo": "The Turn of the Screw",
+    "autor": "Henry James",
+    "resumo": "Preceptora em mansão isolada convence-se de que os órfãos sob sua guarda estão possuídos por espíritos corrompidos. Romance gótico, terror psicológico, fantasmas."
+  },
+  {
+    "id": 720,
+    "titulo": "The American",
+    "autor": "Henry James",
+    "resumo": "Homem de negócios americano busca esposa na aristocracia parisiense e depara-se com segredos cruéis e rejeição familiar fria. Romance psicológico, Paris, aristocracia."
+  },
+  {
+    "id": 721,
+    "titulo": "The Aspern Papers",
+    "autor": "Henry James",
+    "resumo": "Crítico literário sem escrúpulos viaja a Veneza para roubar cartas de poeta famoso mantidas por idosa reclusa. Romance psicológico, Veneza, obsessão."
+  },
+  {
+    "id": 722,
+    "titulo": "The Great Gatsby",
+    "autor": "F. Scott Fitzgerald",
+    "resumo": "Jovem milionário enigmático obsesiona-se por reconquistar seu antigo amor em Long Island durante a vibrante e decadente Era do Jazz. Romance moderno, Era do Jazz, tragédia."
+  },
+  {
+    "id": 723,
+    "titulo": "Tender Is the Night",
+    "autor": "F. Scott Fitzgerald",
+    "resumo": "Psiquiatra americano e sua esposa rica enfrentam a decadência moral, o alcoolismo e a ruína na Riviera Francesa. Romance psicológico, riqueza, tragédia."
+  },
+  {
+    "id": 724,
+    "titulo": "This Side of Paradise",
+    "autor": "F. Scott Fitzgerald",
+    "resumo": "Jovem estudante universitário narcisista navega pelas ilusões, romances tempestuosos e transformações da juventude nos anos 1920. Romance de formação, juventude, EUA."
+  },
+  {
+    "id": 725,
+    "titulo": "The Beautiful and Damned",
+    "autor": "F. Scott Fitzgerald",
+    "resumo": "Casal jovem e rico em Nova York corrói sua fortuna e sanidade entre festas intermináveis, tédio e alcoolismo. Romance realista, Nova York, decadência."
+  },
+  {
+    "id": 726,
+    "titulo": "The Sun Also Rises",
+    "autor": "Ernest Hemingway",
+    "resumo": "Expatriados americanos e britânicos na Europa pós-I Guerra Mundial buscam sentido na vida entre festas, touradas e desilusões. Romance moderno, Paris, desilusão."
+  },
+  {
+    "id": 727,
+    "titulo": "A Farewell to Arms",
+    "autor": "Ernest Hemingway",
+    "resumo": "Ambulante americano e enfermeira britânica vivem paixão trágica na frente italiana durante os horrores da Primeira Guerra Mundial. Romance bélico, amor, tragédia."
+  },
+  {
+    "id": 728,
+    "titulo": "For Whom the Bell Tolls",
+    "autor": "Ernest Hemingway",
+    "resumo": "Dinamitador americano junta-se a guerrilheiros antifascistas nas montanhas durante a sangrenta Guerra Civil Espanhola. Romance histórico, guerra, Espanha."
+  },
+  {
+    "id": 729,
+    "titulo": "The Old Man and the Sea",
+    "autor": "Ernest Hemingway",
+    "resumo": "Pescador cubano envelhecido trava batalha épica e solitária contra enorme marlin nas águas profundas do Golfo. Romance alegórico, mar, perseverança."
+  },
+  {
+    "id": 730,
+    "titulo": "To Have and Have Not",
+    "autor": "Ernest Hemingway",
+    "resumo": "Pescador em Key West lida com a crise econômica, o contrabando e o submundo criminoso na Flórida. Romance noir, Flórida, crise."
+  },
+  {
+    "id": 731,
+    "titulo": "The Sound and the Fury",
+    "autor": "William Faulkner",
+    "resumo": "Família aristocrática decadente no sul dos Estados Unidos desmorona sob o peso do tempo, da culpa e de segredos. Romance modernista, sul, tragédia."
+  },
+  {
+    "id": 732,
+    "titulo": "As I Lay Dying",
+    "autor": "William Faulkner",
+    "resumo": "Filhos transportam o caixão da mãe falecida em jornada árdua e bizarra através do Mississippi rural em polifonia dramática. Romance modernista, Mississippi, luto."
+  },
+  {
+    "id": 733,
+    "titulo": "Light in August",
+    "autor": "William Faulkner",
+    "resumo": "Homem de passado racial ambíguo foge de crime brutal no sul profundo, encontrando fanatismo, violência e tragédia implacável. Romance sulista, racismo, tragédia."
+  },
+  {
+    "id": 734,
+    "titulo": "Absalom, Absalom!",
+    "autor": "William Faulkner",
+    "resumo": "Jovem tenta desvendar a ascensão e a violenta ruína do patriarca Thomas Sutpen e sua família no Mississippi. Romance histórico, sul, tragédia."
+  },
+  {
+    "id": 735,
+    "titulo": "The Grapes of Wrath",
+    "autor": "John Steinbeck",
+    "resumo": "Família Joad migra do Dust Bowl rumo à Califórnia em busca de trabalho, enfrentando exploração e extrema miséria. Romance social, migração, Califórnia."
+  },
+  {
+    "id": 736,
+    "titulo": "Of Mice and Men",
+    "autor": "John Steinbeck",
+    "resumo": "Dois trabalhadores itinerantes sonham em possuir terras próprias na Califórnia durante a Grande Depressão, enfrentando tragédias inevitáveis. Romance dramático, amizade, Califórnia."
+  },
+  {
+    "id": 737,
+    "titulo": "East of Eden",
+    "autor": "John Steinbeck",
+    "resumo": "Famílias no Vale de Salinas encenam a eterna rivalidade bíblica entre Caim e Abel em épico sobre culpa e redenção. Romance épico, família, Califórnia."
+  },
+  {
+    "id": 738,
+    "titulo": "Cannery Row",
+    "autor": "John Steinbeck",
+    "resumo": "Habitantes excêntricos e marginalizados de rua em Monterey vivem pequenos dramas e alegrias em comunidade portuária única. Romance picaresco, comunidade, Califórnia."
+  },
+  {
+    "id": 739,
+    "titulo": "The Pearl",
+    "autor": "John Steinbeck",
+    "resumo": "Pescador pobre encontra pérola magnífica que atrai a cobiça, a violência e a destruição para sua família humilde. Romance parabólico, pobreza, tragédia."
+  },
+  {
+    "id": 740,
+    "titulo": "Their Eyes Were Watching God",
+    "autor": "Zora Neale Hurston",
+    "resumo": "Mulher negra na Flórida rompe com casamentos opressores e busca sua própria independência, voz e realização amorosa. Romance feminista, Flórida, identidade."
+  },
+  {
+    "id": 741,
+    "titulo": "Jonah's Gourd Vine",
+    "autor": "Zora Neale Hurston",
+    "resumo": "Pregador carismático e falho no sul rural enfrenta tentações, conflitos conjugais e a ruína de sua comunidade. Romance regionalista, sul, religião."
+  },
+  {
+    "id": 742,
+    "titulo": "Seraph on the Suwanee",
+    "autor": "Zora Neale Hurston",
+    "resumo": "Mulher branca na Flórida rural navega pelas complexas relações de classe, casamento e expectativas sociais tradicionais. Romance regionalista, Flórida, casamento."
+  },
+  {
+    "id": 743,
+    "titulo": "Native Son",
+    "autor": "Richard Wright",
+    "resumo": "Jovem negro empobrecido em Chicago comete crimes acidentais e enfrenta a implacável fúria racista do sistema judicial americano. Romance social, Chicago, racismo."
+  },
+  {
+    "id": 744,
+    "titulo": "Black Boy",
+    "autor": "Richard Wright",
+    "resumo": "Autobiografia ficcionalizada expõe a infância brutal, o racismo sufocante e a descoberta da leitura no sul dos EUA. Romance autobiográfico, racismo, sul."
+  },
+  {
+    "id": 745,
+    "titulo": "The Outsider",
+    "autor": "Richard Wright",
+    "resumo": "Homem em Chicago falsifica sua própria morte para escapar da justiça e mergulha em existencialismo niilista e violento. Romance filosófico, Chicago, niilismo."
+  },
+  {
+    "id": 746,
+    "titulo": "Invisible Man",
+    "autor": "Ralph Ellison",
+    "resumo": "Jovem negro invisibilizado pela sociedade americana narra sua odisseia entre o sul rural, o ativismo político e o Harlem. Romance modernista, Harlem, identidade."
+  },
+  {
+    "id": 747,
+    "titulo": "Go Tell It on the Mountain",
+    "autor": "James Baldwin",
+    "resumo": "Jovem em Harlem dos anos 1930 lida com o peso da religiosidade paterna, o racismo e a descoberta homossexual. Romance de formação, Harlem, religião."
+  },
+  {
+    "id": 748,
+    "titulo": "Giovanni's Room",
+    "autor": "James Baldwin",
+    "resumo": "Americano em Paris vivencia intensa crise amorosa e existencial ao envolver-se com jovem garçom em bar clandestino. Romance psicológico, Paris, homossexualidade."
+  },
+  {
+    "id": 749,
+    "titulo": "Another Country",
+    "autor": "James Baldwin",
+    "resumo": "Intelectuais e artistas em Nova York enfrentam tensões raciais, sexuais e os limites do amor em sociedade fragmentada. Romance urbano, Nova York, preconceito."
+  },
+  {
+    "id": 750,
+    "titulo": "The Beloved",
+    "autor": "Toni Morrison",
+    "resumo": "Escrava fugitiva em Ohio recebe a visita fantasmagórica da filha que sacrificou para salvá-la da escravidão. Romance histórico, escravidão, fantasmas."
+  },
+  {
+    "id": 751,
+    "titulo": "Song of Solomon",
+    "autor": "Toni Morrison",
+    "resumo": "Homem em busca de suas raízes familiares empreende jornada transformadora rumo ao sul profundo dos Estados Unidos. Romance épico, identidade, sul."
+  },
+  {
+    "id": 752,
+    "titulo": "The Bluest Eye",
+    "autor": "Toni Morrison",
+    "resumo": "Menina negra pobre no Ohio anseia desesperadamente por olhos azuis em sociedade que idolatra a branquitude e a beleza eurocêntrica. Romance dramático, racismo, infância."
+  },
+  {
+    "id": 753,
+    "titulo": "Sula",
+    "autor": "Toni Morrison",
+    "resumo": "Amizade intensa entre duas mulheres negras em comunidade de Ohio desafia todas as convenções sociais e morais impostas. Romance psicológico, amizade, Ohio."
+  },
+  {
+    "id": 754,
+    "titulo": "Tar Baby",
+    "autor": "Toni Morrison",
+    "resumo": "Modelo negra e ladrão caribenho encontram-se em ilha rica, confrontando choques raciais, culturais e paixões destrutivas. Romance psicológico, Caribe, racismo."
+  },
+  {
+    "id": 755,
+    "titulo": "The Color Purple",
+    "autor": "Alice Walker",
+    "resumo": "Mulher negra abusada no sul rural americano escreve cartas a Deus enquanto busca sua emancipação, amor e voz. Romance epistolar, sul, feminismo."
+  },
+  {
+    "id": 756,
+    "titulo": "Meridian",
+    "autor": "Alice Walker",
+    "resumo": "Ativista pelos direitos civis no sul dos EUA enfrenta dilemas morais, sacrifícios pessoais e as dores da luta política. Romance político, direitos civis, sul."
+  },
+  {
+    "id": 757,
+    "titulo": "The Third Life of Grange Copeland",
+    "autor": "Alice Walker",
+    "resumo": "Três gerações de sharecroppers no sul enfrentam a brutalidade da pobreza, da violência e a busca por redenção. Romance social, sul, pobreza."
+  },
+  {
+    "id": 758,
+    "titulo": "I Know Why the Caged Bird Sings",
+    "autor": "Maya Angelou",
+    "resumo": "Autobiografia lírica e marcante relata a infância superando abusos, racismo e traumas no sul dos EUA. Romance autobiográfico, racismo, sul."
+  },
+  {
+    "id": 759,
+    "titulo": "Not Without Laughter",
+    "autor": "Langston Hughes",
+    "resumo": "Menino negro cresce no Kansas dos anos 1930 enfrentando a pobreza, a discriminação e os sonhos de sua família. Romance de formação, Kansas, racismo."
+  },
+  {
+    "id": 760,
+    "titulo": "The Heart Is a Lonely Hunter",
+    "autor": "Carson McCullers",
+    "resumo": "Surdo-mudo em cidadezinha sulista torna-se confidente solitário de moradores marginalizados que buscam compreensão. Romance psicológico, solidão, sul."
+  },
+  {
+    "id": 761,
+    "titulo": "Reflections in a Golden Eye",
+    "autor": "Carson McCullers",
+    "resumo": "Militares e suas esposas em base no sul dos EUA escondem paixões proibidas, loucura e desejos destrutivos. Romance gótico, sul, segredos."
+  },
+  {
+    "id": 762,
+    "titulo": "The Member of the Wedding",
+    "autor": "Carson McCullers",
+    "resumo": "Menina solitária de doze anos no sul obsesiona-se com o casamento de seu irmão em verão sufocante. Romance de formação, sul, infância."
+  },
+  [
+  {
+    "id": 763,
+    "titulo": "Wise Blood",
+    "autor": "Flannery O’Connor",
+    "resumo": "Veterano desiludido no sul profundo funda igreja própria para pregar o niilismo e a ausência de pecado em tom grotesco. Romance gótico, sul, religião."
+  },
+  {
+    "id": 764,
+    "titulo": "The Violent Bear It Away",
+    "autor": "Flannery O’Connor",
+    "resumo": "Jovem no sul é criado por tio fanático para ser profeta relutante em embate feroz entre fé e loucura. Romance gótico, sul, fanatismo."
+  },
+  {
+    "id": 765,
+    "titulo": "The Optimist's Daughter",
+    "autor": "Eudora Welty",
+    "resumo": "Mulher acompanha o pai idoso em cirurgia no Mississippi, lidando com dinâmicas familiares, memória e o luto. Romance regionalista, Mississippi, luto."
+  },
+  {
+    "id": 766,
+    "titulo": "Delta Wedding",
+    "autor": "Eudora Welty",
+    "resumo": "Família rica de plantadores no delta do Mississippi reúne-se para casamento em atmosfera rica em detalhes e sutilezas psicológicas. Romance regionalista, Mississippi, família."
+  },
+  {
+    "id": 767,
+    "titulo": "The Robber Bridegroom",
+    "autor": "Eudora Welty",
+    "resumo": "Fábula mágica e sombria mistura lendas de bandidos, colonizadores e folclore nas matas do Mississippi colonial. Romance fantástico, Mississippi, folclore."
+  },
+  {
+    "id": 768,
+    "titulo": "Other Voices, Other Rooms",
+    "autor": "Truman Capote",
+    "resumo": "Menino órfão viaja a mansão decadente no sul para viver com o pai misterioso em atmosfera gótica e ambígua. Romance gótico, sul, infância."
+  },
+  {
+    "id": 769,
+    "titulo": "Breakfast at Tiffany's",
+    "autor": "Truman Capote",
+    "resumo": "Jovem aspirante a socialite excêntrica em Nova York vive de aparências, charme e encontros na alta sociedade metropolitana. Romance urbano, Nova York, elegância."
+  },
+  {
+    "id": 770,
+    "titulo": "The Bell Jar",
+    "autor": "Sylvia Plath",
+    "resumo": "Jovem estudante em Nova York e Boston mergulha em profunda depressão, colapso mental e internação psiquiátrica sufocante. Romance autobiográfico, saúde mental, Nova York."
+  },
+  {
+    "id": 771,
+    "titulo": "Looking for the Cowgirl",
+    "autor": "Anne Sexton",
+    "resumo": "Poeta e prosadora explora temas de identidade, traumas e desejos femininos em narrativa intensa e visceral. Romance psicológico, identidade, EUA."
+  },
+  {
+    "id": 772,
+    "titulo": "The Naked and the Dead",
+    "autor": "Norman Mailer",
+    "resumo": "Soldados americanos enfrentam a exaustão, o medo e a brutalidade psicológica em ilha do Pacífico na Segunda Guerra. Romance bélico, Pacífico, guerra."
+  },
+  {
+    "id": 773,
+    "titulo": "An American Dream",
+    "autor": "Norman Mailer",
+    "resumo": "Homem ricaço em Nova York assassina a esposa e foge por noite alucinatória de crimes, sexo e paranoia metropolitana. Romance noir, Nova York, paranoia."
+  },
+  {
+    "id": 774,
+    "titulo": "Catch-22",
+    "autor": "Joseph Heller",
+    "resumo": "Piloto americano na Segunda Guerra Mundial tenta escapar de missões suicidas através de bizarra armadilha burocrática e militar. Romance satírico, guerra, absurdo."
+  },
+  {
+    "id": 775,
+    "titulo": "Slaughterhouse-Five",
+    "autor": "Kurt Vonnegut",
+    "resumo": "Soldado americano sobrevive ao bombardeio de Dresden e torna-se viajante temporal abduzido por alienígenas em sátira antimilitarista. Romance de ficção científica, guerra, Dresden."
+  },
+  {
+    "id": 776,
+    "titulo": "Cat's Cradle",
+    "autor": "Kurt Vonnegut",
+    "resumo": "Cientista louco inventa substância capaz de congelar toda a água do planeta em sátira cáustica sobre ciência e religião. Romance satírico, apocalipse, ciência."
+  },
+  {
+    "id": 777,
+    "titulo": "Breakfast of Champions",
+    "autor": "Kurt Vonnegut",
+    "resumo": "Concessionário de carros enlouquece ao ler livro sobre a ilusão do livre-arbítrio em metrópole americana bizarra. Romance satírico, metanarrativa, EUA."
+  },
+  {
+    "id": 778,
+    "titulo": "Gravity's Rainbow",
+    "autor": "Thomas Pynchon",
+    "resumo": "Épico pós-moderno acompanha engenheiro americano na Europa caótica rastreando foguetes V-2 nazistas em conspiração surrealista. Romance pós-moderno, conspiração, guerra."
+  },
+  {
+    "id": 779,
+    "titulo": "V.",
+    "autor": "Thomas Pynchon",
+    "resumo": "Marinheiro excêntrico em Nova York busca enigmática mulher misteriosa cujas iniciais marcam conspirações ao longo do século XX. Romance pós-moderno, mistério, Nova York."
+  },
+  {
+    "id": 780,
+    "titulo": "The Crying of Lot 49",
+    "autor": "Thomas Pynchon",
+    "resumo": "Mulher na Califórnia descobre milenar rede clandestina de correios alternativa em conspiração corporativa bizarra. Romance pós-moderno, conspiração, Califórnia."
+  },
+  {
+    "id": 781,
+    "titulo": "Mason & Dixon",
+    "autor": "Thomas Pynchon",
+    "resumo": "Astrônomos traçam a histórica divisa entre colônias americanas em épico barroco repleto de anacronismos e humor. Romance histórico, cartografia, EUA."
+  },
+  {
+    "id": 782,
+    "titulo": "Portnoy's Complaint",
+    "autor": "Philip Roth",
+    "resumo": "Jovem advogado judeu em Nova York confessa suas neuroses sexuais e culpas familiares a terapeuta em monólogo hilário. Romance satírico, psicanálise, Nova York."
+  },
+  {
+    "id": 783,
+    "titulo": "American Pastoral",
+    "autor": "Philip Roth",
+    "resumo": "Empresário judeu bem-sucedido vê sua vida perfeita desmoronar quando a filha comete atentado terrorista nos anos 1960. Romance histórico, EUA, tragédia."
+  },
+  {
+    "id": 784,
+    "titulo": "The Plot Against America",
+    "autor": "Philip Roth",
+    "resumo": "História alternativa imagina a vitória do aviador antissemita Charles Lindbergh nas eleições presidenciais dos EUA em 1940. Romance histórico alternativo, política, EUA."
+  },
+  {
+    "id": 785,
+    "titulo": "The Human Stain",
+    "autor": "Philip Roth",
+    "resumo": "Professor universitário idoso é demitido injustamente enquanto esconde segredo racial explosivo ao longo de sua vida. Romance psicológico, racismo, EUA."
+  },
+  {
+    "id": 786,
+    "titulo": "The Adventures of Augie March",
+    "autor": "Saul Bellow",
+    "resumo": "Jovem optimista e ambicioso em Chicago vivencia múltiplas aventuras, empregos e romances na Grande Depressão. Romance picaresco, Chicago, otimismo."
+  },
+  {
+    "id": 787,
+    "titulo": "Herzog",
+    "autor": "Saul Bellow",
+    "resumo": "Professor universitário divorciado em Nova York escreve cartas imaginárias furiosas a figuras públicas enquanto lida com crise pessoal. Romance psicológico, Nova York, crise."
+  },
+  {
+    "id": 788,
+    "titulo": "Henderson the Rain King",
+    "autor": "Saul Bellow",
+    "resumo": "Milionário excêntrico americano viaja à África em busca de iluminação espiritual e significado para sua alma inquieta. Romance filosófico, África, busca."
+  },
+  {
+    "id": 789,
+    "titulo": "The Assistant",
+    "autor": "Bernard Malamud",
+    "resumo": "Jovem imigrante desempregado infiltra-se em mercearia de judeu idoso em Nova York, gerando culpa e redenção. Romance psicológico, Nova York, culpa."
+  },
+  {
+    "id": 790,
+    "titulo": "The Fixer",
+    "autor": "Bernard Malamud",
+    "resumo": "Handyman judeu na Rússia czarista é falsamente acusado de assassinato ritualístico, sofrendo prisão e tortura injustas. Romance histórico, Rússia, antissemitismo."
+  },
+  {
+    "id": 791,
+    "titulo": "Rabbit, Run",
+    "autor": "John Updike",
+    "resumo": "Ex-jogador de basquete foge de casamento sufocante e responsabilidades adultas na Pensilvânia em fuga errática e desesperada. Romance psicológico, Pensilvânia, fuga."
+  },
+  {
+    "id": 792,
+    "titulo": "The Witches of Eastwick",
+    "autor": "John Updike",
+    "resumo": "Três mulheres divorciadas e bruxas em cidadezinha da Nova Inglaterra provocam caos com seus poderes e encantos. Romance fantástico, Nova Inglaterra, feitiçaria."
+  },
+  {
+    "id": 793,
+    "titulo": "A Garden of Earthly Delights",
+    "autor": "Joyce Carol Oates",
+    "resumo": "Filha de trabalhadores migrantes pobres tenta ascender socialmente a qualquer custo na sociedade americana. Romance social, ambição, EUA."
+  },
+  {
+    "id": 794,
+    "titulo": "Them",
+    "autor": "Joyce Carol Oates",
+    "resumo": "Família em Detroit enfrenta a pobreza extrema, a violência urbana e as revoltas raciais ao longo de décadas tumultuadas. Romance social, Detroit, violência."
+  },
+  {
+    "id": 795,
+    "titulo": "Blonde",
+    "autor": "Joyce Carol Oates",
+    "resumo": "Ficção monumental reimagina a vida trágica, a vulnerabilidade e os abusos sofridos por Marilyn Monroe em Hollywood. Romance biográfico, Hollywood, tragédia."
+  },
+  {
+    "id": 796,
+    "titulo": "Alias Grace",
+    "autor": "Margaret Atwood",
+    "resumo": "Psiquiatra investiga se jovem empregada condenada por assassinato brutal no Canadá colonial é inocente ou louca. Romance histórico, Canadá, crime."
+  },
+  {
+    "id": 797,
+    "titulo": "The Blind Assassin",
+    "autor": "Margaret Atwood",
+    "resumo": "Idosa canadense relembra segredos familiares trágicos e publica romance clandestino de ficção científica pulp. Romance histórico, Canadá, segredos."
+  },
+  {
+    "id": 798,
+    "titulo": "Love Medicine",
+    "autor": "Louise Erdrich",
+    "resumo": "Gerações de família indígena Chippewa em Dakota do Norte enfrentam amores, perdas, alcoolismo e laços ancestrais profundos. Romance regionalista, Dakota, família."
+  },
+  {
+    "id": 799,
+    "titulo": "The Beet Queen",
+    "autor": "Louise Erdrich",
+    "resumo": "Primos órfãos crescem em cidadezinha de Dakota do Norte, construindo destinos cruzados em narrativa rica e fragmentada. Romance regionalista, Dakota, destinos."
+  },
+  {
+    "id": 800,
+    "titulo": "The Round House",
+    "autor": "Louise Erdrich",
+    "resumo": "Jovem indígena em reserva busca justiça após brutal agressão sofrida por sua mãe em Dakota do Norte. Romance policial, justiça, Dakota."
+  },
+  {
+    "id": 801,
+    "titulo": "The Absolutely True Diary of a Part-Time Indian",
+    "autor": "Sherman Alexie",
+    "resumo": "Menino indígena deixa reserva para estudar em escola branca, enfrentando racismo e bullying com humor. Romance de formação, infância, racismo."
+  },
+  {
+    "id": 802,
+    "titulo": "Flight",
+    "autor": "Sherman Alexie",
+    "resumo": "Adolescente indígena abusado viaja no tempo através de corpos alheios após atirar em aeroporto, encontrando empatia e cura. Romance fantástico, viagem no tempo, cura."
+  },
+  {
+    "id": 803,
+    "titulo": "Ceremony",
+    "autor": "Leslie Marmon Silko",
+    "resumo": "Soldado indígena traumatizado da Segunda Guerra retorna à reserva Laguna Pueblo, buscando cura em rituais ancestrais. Romance regionalista, trauma, rituais."
+  },
+  {
+    "id": 804,
+    "titulo": "Almanac of the Dead",
+    "autor": "Leslie Marmon Silko",
+    "resumo": "Épico indígena cruza fronteiras entre EUA e México em profecia sobre a reconquista da terra pelos povos originários. Romance épico, profecia, fronteira."
+  },
+  {
+    "id": 805,
+    "titulo": "House Made of Dawn",
+    "autor": "N. Scott Momaday",
+    "resumo": "Jovem indígena retorna da guerra e tenta se reintegrar à sua comunidade e tradições ancestrais no Novo México. Romance regionalista, Novo México, identidade."
+  },
+  {
+    "id": 806,
+    "titulo": "The Way to Rainy Mountain",
+    "autor": "N. Scott Momaday",
+    "resumo": "Relato lírico e histórico acompanha a migração secular do povo Kiowa rumo às planícies do sul. Romance histórico, Kiowa, planícies."
+  },
+  {
+    "id": 807,
+    "titulo": "The Woman Warrior",
+    "autor": "Maxine Hong Kingston",
+    "resumo": "Mulher sino-americana em São Francisco mescla mitos chineses tradicionais e memórias familiares de imigração. Romance autobiográfico, imigração, mitos."
+  },
+  {
+    "id": 808,
+    "titulo": "China Men",
+    "autor": "Maxine Hong Kingston",
+    "resumo": "Histórias de homens imigrantes chineses construindo ferrovias e lutando por dignidade nos EUA do século XIX. Romance histórico, imigração, EUA."
+  },
+  {
+    "id": 809,
+    "titulo": "The Joy Luck Club",
+    "autor": "Amy Tan",
+    "resumo": "Mães imigrantes chinesas em São Francisco e suas filhas americanizadas reconciliam diferenças culturais e traumas familiares. Romance dramático, imigração, São Francisco."
+  },
+  {
+    "id": 810,
+    "titulo": "The Kitchen God's Wife",
+    "autor": "Amy Tan",
+    "resumo": "Mãe imigrante chinesa revela à filha adulta seu passado traumático na China devastada pela guerra. Romance histórico, China, segredos."
+  },
+  {
+    "id": 811,
+    "titulo": "The Namesake",
+    "autor": "Jhumpa Lahiri",
+    "resumo": "Filho de imigrantes indianos em Boston luta com seu nome peculiar, sua identidade dividida e os laços familiares. Romance contemporâneo, imigração, Boston."
+  },
+  {
+    "id": 812,
+    "titulo": "The Surrendered",
+    "autor": "Chang-rae Lee",
+    "resumo": "Sobreviventes da Guerra da Coreia encontram-se anos depois nos EUA, lidando com traumas, culpa e perdas profundas. Romance histórico, Coreia, trauma."
+  },
+  {
+    "id": 813,
+    "titulo": "Native Speaker",
+    "autor": "Chang-rae Lee",
+    "resumo": "Espião industrial coreano-americano em Nova York investiga político em ascensão enquanto examina sua própria identidade dividida. Romance policial, Nova York, espionagem."
+  },
+  {
+    "id": 814,
+    "titulo": "The Sympathizer",
+    "autor": "Viet Thanh Nguyen",
+    "resumo": "Espião comunista vietnamita infiltrado nos EUA após a queda de Saigão lida com duplo exílio e traições. Romance histórico, Vietnã, espionagem."
+  },
+  {
+    "id": 815,
+    "titulo": "The Committed",
+    "autor": "Viet Thanh Nguyen",
+    "resumo": "Continuação acompanha ex-espião vietnamita em Paris envolvido com o submundo do tráfico e filosofias radicais. Romance policial, Paris, imigração."
+  },
+  {
+    "id": 816,
+    "titulo": "The Nickel Boys",
+    "autor": "Colson Whitehead",
+    "resumo": "Adolescentes negros em reformatório abusivo na Flórida enfrentam corrupção, violência e cicatrizes duradouras. Romance histórico, Flórida, racismo."
+  },
+  {
+    "id": 817,
+    "titulo": "Harlem Shuffle",
+    "autor": "Colson Whitehead",
+    "resumo": "Vendedor de móveis em Harlem dos anos 1960 equilibra negócios legítimos e assaltos audaciosos no submundo. Romance policial, Harlem, anos 1960."
+  },
+  {
+    "id": 818,
+    "titulo": "Salvage the Bones",
+    "autor": "Jesmyn Ward",
+    "resumo": "Menina grávida e sua família empobrecida no Mississippi preparam-se para a chegada iminente do furacão Katrina. Romance dramático, Mississippi, furacão."
+  },
+  {
+    "id": 819,
+    "titulo": "Sing, Unburied, Sing",
+    "autor": "Jesmyn Ward",
+    "resumo": "Família no Mississippi viaja em van para buscar pai preso, cruzando com fantasmas do passado e tensões raciais. Romance fantasmagórico, Mississippi, racismo."
+  },
+  {
+    "id": 820,
+    "titulo": "Little Fires Everywhere",
+    "autor": "Celeste Ng",
+    "resumo": "Família perfeita em subúrbio de Ohio tem sua rotina abalada pela chegada de mãe e filha enigmáticas. Romance psicológico, subúrbio, Ohio."
+  },
+  {
+    "id": 821,
+    "titulo": "Everything I Never Told You",
+    "autor": "Celeste Ng",
+    "resumo": "Família sino-americana em Ohio investiga o afogamento misterioso de sua filha adolescente favorita. Romance psicológico, Ohio, segredos."
+  },
+  {
+    "id": 822,
+    "titulo": "The Corrections",
+    "autor": "Jonathan Franzen",
+    "resumo": "Família no meio-oeste americano reúne-se no Natal enquanto pais idosos enfrentam doenças e filhos lidam com crises. Romance psicológico, meio-oeste, família."
+  },
+  {
+    "id": 823,
+    "titulo": "Freedom",
+    "autor": "Jonathan Franzen",
+    "resumo": "Casal progressista em Minnesota vê sua vida conjugal e familiar ruir em meio a crises políticas, ambientais e pessoais. Romance contemporâneo, Minnesota, família."
+  },
+  {
+    "id": 824,
+    "titulo": "Infinite Jest",
+    "autor": "David Foster Wallace",
+    "resumo": "Épico pós-moderno em centro de reabilitação e academia de tênis lida com dependência, entretenimento e tédio metropolitano. Romance pós-moderno, vício, EUA."
+  },
+  {
+    "id": 825,
+    "titulo": "Purity",
+    "autor": "Jonathan Franzen",
+    "resumo": "Jovem endividada nos EUA envolve-se com organização global de vazamento de dados em busca da identidade de seu pai. Romance contemporâneo, segredos, tecnologia."
+  },
+  {
+    "id": 826,
+    "titulo": "Crossroads",
+    "autor": "Jonathan Franzen",
+    "resumo": "Família de pastor em Chicago nos anos 1970 vivencia dilemas morais, tentações e crises de fé às vésperas do Natal. Romance psicológico, Chicago, religião."
+  },
+  {
+    "id": 827,
+    "titulo": "The Goldfinch",
+    "autor": "Donna Tartt",
+    "resumo": "Garoto sobrevive a atentado em museu de Nova York e carrega secretamente pintura valiosa que molda sua vida trágica. Romance de formação, arte, Nova York."
+  },
+  {
+    "id": 828,
+    "titulo": "The Secret History",
+    "autor": "Donna Tartt",
+    "resumo": "Estudantes de clássicos em universidade da Nova Inglaterra envolvem-se em assassinato rituístico de colega e paranoia subsequente. Romance psicológico, mistério, universidade."
+  },
+  {
+    "id": 829,
+    "titulo": "The Little Friend",
+    "autor": "Donna Tartt",
+    "resumo": "Menina no Mississippi tenta resolver o assassinato não solucionado de seu irmão mais velho ocorrido anos antes em seu quintal. Romance regionalista, Mississippi, infância."
+  },
+  {
+    "id": 830,
+    "titulo": "Middlesex",
+    "autor": "Jeffrey Eugenides",
+    "resumo": "Saga familiar acompanha três gerações de imigrantes gregos e a jornada de autodescoberta de jovem intersexo nos EUA. Romance de formação, identidade, saga familiar."
+  },
+  {
+    "id": 831,
+    "titulo": "The Virgin Suicides",
+    "autor": "Jeffrey Eugenides",
+    "resumo": "Grupo de rapazes em subúrbio dos anos 1970 obsesiona-se pelas misteriosas e trágicas cinco irmãs Lisbon após seus suicídios. Romance psicológico, tragédia, subúrbio."
+  },
+  {
+    "id": 832,
+    "titulo": "American Psycho",
+    "autor": "Bret Easton Ellis",
+    "resumo": "Executivo jovem e psicopata em Wall Street narra seus crimes sádicos, marcas de grife e consumismo fútil nos anos 1980. Romance satírico, Wall Street, terror."
+  },
+  {
+    "id": 833,
+    "titulo": "Less Than Zero",
+    "autor": "Bret Easton Ellis",
+    "resumo": "Jovens ricos e entorpecidos em Los Angeles vivenciam festas vazias, drogas e apatia extrema nos anos 1980. Romance contemporâneo, Los Angeles, apatia."
+  },
+  {
+    "id": 834,
+    "titulo": "Fight Club",
+    "autor": "Chuck Palahniuk",
+    "resumo": "Trabalhador insone e vendedor de sabão fundam clube clandestino de luta que evolui para milícia anarquista subversiva. Romance satírico, anarquia, subversão."
+  },
+  {
+    "id": 835,
+    "titulo": "Choke",
+    "autor": "Chuck Palahniuk",
+    "resumo": "Vigarista viciado em sexo finge engasgar-se em restaurantes caros para extorquir dinheiro de clientes salvadores. Romance satírico, vício, humor negro."
+  },
+  {
+    "id": 836,
+    "titulo": "The Amazing Adventures of Kavalier & Clay",
+    "autor": "Michael Chabon",
+    "resumo": "Primos judeus em Nova York criam super-herói de quadrinhos durante a Segunda Guerra Mundial em épico premiado. Romance histórico, quadrinhos, Nova York."
+  },
+  {
+    "id": 837,
+    "titulo": "Extremely Loud & Incredibly Close",
+    "autor": "Jonathan Safran Foer",
+    "resumo": "Menino em Nova York busca a fechadura para chave misteriosa deixada por seu pai morto no 11 de Setembro. Romance dramático, Nova York, luto."
+  },
+  {
+    "id": 838,
+    "titulo": "The History of Love",
+    "autor": "Nicole Krauss",
+    "resumo": "Idoso solitário em Nova York busca o amor de sua juventude através de livro perdido em narrativa delicada. Romance psicológico, Nova York, amor."
+  },
+  {
+    "id": 839,
+    "titulo": "The Love Songs of W.E.B. Du Bois",
+    "autor": "Honorée Fanonne Jeffers",
+    "resumo": "Jovem negra no sul dos EUA descobre segredos familiares profundos, racismo e legado acadêmico. Romance histórico, sul, família."
+  },
+  {
+    "id": 840,
+    "titulo": "A Visit from the Goon Squad",
+    "autor": "Jennifer Egan",
+    "resumo": "Vidas de executivos da indústria fonográfica e jovens em Nova York cruzam-se em capítulos estruturados como canções de rock. Romance contemporâneo, música, Nova York."
+  },
+  {
+    "id": 841,
+    "titulo": "Tenth of December",
+    "autor": "George Saunders",
+    "resumo": "Contos brilhantes exploram a empatia, a tecnologia distópica e os dilemas morais da vida moderna americana. Romance psicológico, ética, modernidade."
+  },
+  {
+    "id": 842,
+    "titulo": "The Force",
+    "autor": "Don Winslow",
+    "resumo": "Policial corrompido em Nova York tenta salvar sua equipe e sua pele em épico policial de alta voltagem. Romance policial, Nova York, corrupção."
+  },
+  {
+    "id": 843,
+    "titulo": "Gone Girl",
+    "autor": "Gillian Flynn",
+    "resumo": "Marido torna-se principal suspeito após o desaparecimento misterioso de sua esposa no aniversário de casamento no Missouri. Romance policial, suspense, Missouri."
+  },
+  {
+    "id": 844,
+    "titulo": "The Stand",
+    "autor": "Stephen King",
+    "resumo": "Sobreviventes de pandemia letal de gripe apocalíptica enfrentam-se em batalha definitiva entre o bem e o mal nos EUA. Romance de terror, apocalipse, EUA."
+  },
+  {
+    "id": 845,
+    "titulo": "The Shining",
+    "autor": "Stephen King",
+    "resumo": "Escritor alcoólatra aceita emprego de vigia em hotel isolado nas montanhas, descobrindo forças maléficas que enlouquecem sua família. Romance de terror, hotel, isolamento."
+  },
+  {
+    "id": 846,
+    "titulo": "It",
+    "autor": "Stephen King",
+    "resumo": "Grupo de amigos de infância em cidade do Maine une-se para derrotar criatura ancestral aterrorizante que retorna periodicamente. Romance de terror, infância, Maine."
+  },
+  {
+    "id": 847,
+    "titulo": "Interview with the Vampire",
+    "autor": "Anne Rice",
+    "resumo": "Vampiro milenar relata sua longa trajetória de culpa, solidão e imortalidade a jovem repórter em Nova Orleans. Romance gótico, vampiros, Nova Orleans."
+  },
+  {
+    "id": 848,
+    "titulo": "The Call of Cthulhu",
+    "autor": "H.P. Lovecraft",
+    "resumo": "Investigador descobre cultos secretos dedicados a entidade cósmica ancestral adormecida nas profundezas do oceano Pacífico. Romance de terror, horror cósmico, mistério."
+  },
+  {
+    "id": 849,
+    "titulo": "Fahrenheit 451",
+    "autor": "Ray Bradbury",
+    "resumo": "Bombeiro em sociedade futurista tem como missão queimar livros proibidos até questionar o sistema e rebelar-se. Romance distópico, censura, futuro."
+  },
+  {
+    "id": 850,
+    "titulo": "The Martian Chronicles",
+    "autor": "Ray Bradbury",
+    "resumo": "Colonizadores terrestres em Marte enfrentam o isolamento, a nostalgia e o colapso da civilização marciana nativa. Romance de ficção científica, Marte, colonização."
+  },
+  {
+    "id": 851,
+    "titulo": "The Year of the Flood",
+    "autor": "Margaret Atwood",
+    "resumo": "Mulheres em seita religiosa tentam sobreviver a catástrofe global provocada por corporações gananciosas. Romance distópico, apocalipse, sobrevivência."
+  },
+  {
+    "id": 852,
+    "titulo": "MaddAddam",
+    "autor": "Margaret Atwood",
+    "resumo": "Sobreviventes humanos e seres geneticamente modificados unem forças para reconstruir a civilização após a extinção da humanidade. Romance de ficção científica, pós-apocalipse, reconstrução."
+  },
+  {
+    "id": 853,
+    "titulo": "The English Patient",
+    "autor": "Michael Ondaatje",
+    "resumo": "Encarcerado misterioso com queimaduras graves em mosteiro italiano relata memórias de amor e espionagem na guerra. Romance histórico, Segunda Guerra, Itália."
+  },
+  {
+    "id": 854,
+    "titulo": "In the Skin of a Lion",
+    "autor": "Michael Ondaatje",
+    "resumo": "Trabalhadores imigrantes constroem pontes e aquedutos em Toronto, vivenciando paixões, lutas sindicais e segredos urbanos. Romance histórico, Toronto, imigrantes."
+  },
+  {
+    "id": 855,
+    "titulo": "Divisadero",
+    "autor": "Michael Ondaatje",
+    "resumo": "Irmãs adotivas na Califórnia enfrentam evento traumático violento cujos ecos reverberam por décadas em suas trajetórias adultas. Romance psicológico, memória, família."
+  },
+  {
+    "id": 856,
+    "titulo": "Barney's Version",
+    "autor": "Mordecai Richler",
+    "resumo": "Produtor de TV canadense octogenário e beberrão relembra suas três esposas e polêmicas divertidas no fim da vida. Romance satírico, biografia, Canadá."
+  },
+  {
+    "id": 857,
+    "titulo": "The Apprenticeship of Duddy Kravitz",
+    "autor": "Mordecai Richler",
+    "resumo": "Jovem judeu ambicioso em Montreal usa qualquer meio para enriquecer e conquistar status na sociedade local. Romance satírico, ambição, Montreal."
+  },
+  {
+    "id": 858,
+    "titulo": "A Fine Balance",
+    "autor": "Rohinton Mistry",
+    "resumo": "Quatro estranhos compartilham apartamento em Mumbai sob estado de emergência governamental, enfrentando tragédias e profunda solidão. Romance dramático, Índia, política."
+  },
+  {
+    "id": 859,
+    "titulo": "Such a Long Journey",
+    "autor": "Rohinton Mistry",
+    "resumo": "Pai de família parse em Mumbai vê sua rotina pacata abalada por conspirações políticas e corrupção governamental. Romance político, Mumbai, família."
+  },
+  {
+    "id": 860,
+    "titulo": "Family Matters",
+    "autor": "Rohinton Mistry",
+    "resumo": "Idoso patriarca com mal de Parkinson é acolhido por parentes em Mumbai, testando os limites da paciência e do afeto. Romance familiar, Mumbai, envelhecimento."
+  },
+  {
+    "id": 861,
+    "titulo": "Anne of Green Gables",
+    "autor": "L.M. Montgomery",
+    "resumo": "Órfã ruiva e falante é adotada por engano por irmãos solteirões na Ilha do Príncipe Eduardo, transformando a comunidade. Romance infanto-juvenil, clássico, Canadá."
+  },
+  {
+    "id": 862,
+    "titulo": "Anne of Avonlea",
+    "autor": "L.M. Montgomery",
+    "resumo": "Anne Shirley cresce, torna-se professora na escola local e vive novas peripécias na bucólica Ilha do Príncipe Eduardo. Romance infanto-juvenil, crescimento, Canadá."
+  },
+  {
+    "id": 863,
+    "titulo": "Anne of the Island",
+    "autor": "L.M. Montgomery",
+    "resumo": "Anne deixa sua ilha natal para estudar na faculdade em Nova Scotia, descobrindo novos romances e independência pessoal. Romance de formação, faculdade, Canadá."
+  },
+  {
+    "id": 864,
+    "titulo": "Neuromancer",
+    "autor": "William Gibson",
+    "resumo": "Hacker de computador lavado e viciado é contratado para realizar o último e definitivo golpe cibernético em inteligência artificial. Romance cyberpunk, tecnologia, cibermundo."
+  },
+  {
+    "id": 865,
+    "titulo": "Count Zero",
+    "autor": "William Gibson",
+    "resumo": "Mercenários, corporações e caçadores de artefatos digitais cruzam caminhos em mundo dominado por redes e inteligências artificiais. Romance cyberpunk, corporações, internet."
+  },
+  {
+    "id": 866,
+    "titulo": "Mona Lisa Overdrive",
+    "autor": "William Gibson",
+    "resumo": "Destinos de ex-prostituta, jovem herdeira e mercenários convergem em conspiração envolvendo o ciberespaço e IA avançada. Romance cyberpunk, conspiração, futuro."
+  },
+  {
+    "id": 867,
+    "titulo": "Life of Pi",
+    "autor": "Yann Martel",
+    "resumo": "Jovem indiano sobrevive 227 dias em bote salva-vidas no Oceano Pacífico acompanhado apenas por um tigre de Bengala. Romance filosófico, sobrevivência, mar."
+  },
+  {
+    "id": 868,
+    "titulo": "Beatrice and Virgil",
+    "autor": "Yann Martel",
+    "resumo": "Escritor em crise recebe manuscrito alegórico sobre o Holocausto envolvendo animais taxidermizados em diálogo com teatro. Romance metaficcional, Holocausto, arte."
+  },
+  {
+    "id": 869,
+    "titulo": "The Song of Kahunsha",
+    "autor": "Anosh Irani",
+    "resumo": "Menino órfão foge para as ruas violentas de Mumbai, encontrando amizade, perigos e a dura realidade metropolitana. Romance dramático, Mumbai, infância."
+  },
+  {
+    "id": 870,
+    "titulo": "Memorial do Convento",
+    "autor": "José Saramago",
+    "resumo": "Soldado mutilado e mulher com poderes mediúnicos unem-se durante a construção do Convento de Mafra na Inquisição. Romance histórico, Portugal, Inquisição."
+  },
+  {
+    "id": 871,
+    "titulo": "O Ano da Morte de Ricardo Reis",
+    "autor": "José Saramago",
+    "resumo": "Médico heterónomo de Fernando Pessoa retorna a Lisboa em 1936, vivenciando o fascismo e a melancolia portuguesa. Romance histórico, Lisboa, melancolia."
+  },
+  {
+    "id": 872,
+    "titulo": "Ensaio sobre a Cegueira",
+    "autor": "José Saramago",
+    "resumo": "População é acometida por epidemia de cegueira branca repentina, colapsando rapidamente as estruturas da sociedade e da moral. Romance distópico, cegueira, sociedade."
+  },
+  {
+    "id": 873,
+    "titulo": "As Naus",
+    "autor": "António Lobo Antunes",
+    "resumo": "Ex-combatentes e figuras da colonização portuguesa retornam de Angola em navio fantasma repleto de fantasmas históricos e desilusões. Romance psicológico, descolonização, Portugal."
+  },
+  {
+    "id": 874,
+    "titulo": "Fado Alexandrino",
+    "autor": "António Lobo Antunes",
+    "resumo": "Oficiais do exército português rememoram os horrores da guerra colonial em Angola durante noites alucinadas em Lisboa. Romance psicológico, guerra colonial, Lisboa."
+  },
+  {
+    "id": 875,
+    "titulo": "Corazón tan blanco",
+    "autor": "Javier Marías",
+    "resumo": "Tradutor recém-casado descobre segredos sombrios sobre o passado trágico e os casamentos sucessivos de seu pai em Madri. Romance psicológico, segredos, Madri."
+  },
+  {
+    "id": 876,
+    "titulo": "Mañana en la batalla piensa en mí",
+    "autor": "Javier Marías",
+    "resumo": "Homem presencia a morte repentina de mulher casada com quem jantaria, envolvendo-se em dilemas éticos complexos. Romance psicológico, Madri, culpa."
+  },
+  {
+    "id": 877,
+    "titulo": "Los enamoramientos",
+    "autor": "Javier Marías",
+    "resumo": "Mulher em Madri observa casal perfeccionista na cafeteria até o homem ser assassinado brutalmente, alterando sua rotina psicológica. Romance psicológico, Madri, mistério."
+  },
+  {
+    "id": 878,
+    "titulo": "Los Miserables",
+    "autor": "Victor Hugo",
+    "resumo": "Ex-presidiário Jean Valjean busca redenção na França oitocentista enquanto é implacavelmente perseguido pelo inspetor Javert na revolução. Romance histórico, França, redenção."
+  },
+  {
+    "id": 879,
+    "titulo": "Notre-Dame de Paris",
+    "autor": "Victor Hugo",
+    "resumo": "Corcunda Quasímodo defende cigana Esmeralda em Paris medieval sob os arcos góticos da grande catedral histórica. Romance histórico, Paris, gótico."
+  },
+  {
+    "id": 880,
+    "titulo": "O Conde de Monte Cristo",
+    "autor": "Alexandre Dumas",
+    "resumo": "Marinheiro traído injustamente escapa de prisão insular e assume nova identidade milionária para vingar-se metodicamente de seus inimigos. Romance de aventura, vingança, França."
+  },
+  {
+    "id": 881,
+    "titulo": "Os Três Mosqueteiros",
+    "autor": "Alexandre Dumas",
+    "resumo": "Jovem d'Artagnan une-se a três mosqueteiros do rei na França do século XVII, enfrentando intrigas e a vingativa Milady. Romance de capa e espada, aventura, França."
   }
 ]
