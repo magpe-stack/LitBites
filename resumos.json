@@ -53,4 +53,163 @@
     "autor": "Dan Brown",
     "resumo": "Simbologista investiga assassinato no Louvre e descobre segredo milenar sobre a igreja. Ação, suspense, religião, enigmas históricos."
   }
+
+  {
+    "id": 10,
+    "titulo": "Frankenstein",
+    "autor": "Mary Shelley",
+    "resumo": "Cientista obcecado cria vida a partir de cadáveres e rejeita sua própria criação. Horror gótico, ética científica, solidão, monstruosidade."
+  },
+  {
+    "id": 11,
+    "titulo": "Duna",
+    "autor": "Frank Herbert",
+    "resumo": "Jovem nobre assume controle de planeta desértico disputado por recurso valioso. Ficção científica épica, política, ecologia, messianismo."
+  },
+  {
+    "id": 12,
+    "titulo": "1984",
+    "autor": "George Orwell",
+    "resumo": "Funcionário público tenta rebelar-se contra regime totalitário que controla pensamentos. Distopia, vigilância governamental, manipulação da verdade."
+  },
+  {
+    "id": 13,
+    "titulo": "O Hobbit",
+    "autor": "J.R.R. Tolkien",
+    "resumo": "Hobbit pacato é recrutado por anões e mago para recuperar tesouro guardado por dragão. Fantasia, coragem, aventura, amizade."
+  },
+  {
+    "id": 14,
+    "titulo": "As Crônicas de Nárnia",
+    "autor": "C.S. Lewis",
+    "resumo": "Crianças descobrem guarda-roupa mágico que dá acesso a mundo dominado por feiticeira. Fantasia, alegoria, bem contra o mal."
+  },
+  {
+    "id": 15,
+    "titulo": "O Conde de Monte Cristo",
+    "autor": "Alexandre Dumas",
+    "resumo": "Marinheiro traído e preso injustamente escapa após anos para executar vingança implacável. Aventura histórica, justiça, vingança, obsessão."
+  },
+  {
+    "id": 16,
+    "titulo": "Os Três Mosqueteiros",
+    "autor": "Alexandre Dumas",
+    "resumo": "Jovem provinciano une-se a guardas do rei para defender a coroa de conspirações políticas. Aventura clássica, lealdade, espadachins, intriga."
+  },
+  {
+    "id": 17,
+    "titulo": "O Iluminado",
+    "autor": "Stephen King",
+    "resumo": "Escritor alcoólatra aceita trabalho em hotel isolado e enlouquece sob influência de forças sobrenaturais. Horror psicológico, isolamento, fantasmas."
+  }
+
+  {
+    "id": 18,
+    "titulo": "Drácula",
+    "autor": "Bram Stoker",
+    "resumo": "Corretor imobiliário visita castelo na Transilvânia e descobre plano de vampiro secular para invadir Londres. Horror clássico, vampirismo, fobia vitoriana."
+  },
+  {
+    "id": 19,
+    "titulo": "Admirável Mundo Novo",
+    "autor": "Aldous Huxley",
+    "resumo": "Sociedade futurista condiciona cidadãos geneticamente ao consumo e apaga emoções humanas. Distopia, eugenia, controle social."
+  },
+  {
+    "id": 20,
+    "titulo": "Fundação",
+    "autor": "Isaac Asimov",
+    "resumo": "Matemático prevê queda de império galáctico e cria plano para preservar conhecimento humano. Ficção científica, psicohistória, império espacial."
+  },
+  {
+    "id": 21,
+    "titulo": "O Morro dos Ventos Uivantes",
+    "autor": "Emily Brontë",
+    "resumo": "Amor obsessivo e destrutivo entre Heathcliff e Catherine devasta gerações de duas famílias. Romance gótico, vingança, paixão tóxica."
+  },
+  {
+    "id": 22,
+    "titulo": "Jane Eyre",
+    "autor": "Charlotte Brontë",
+    "resumo": "Órfã torna-se preceptora e apaixona-se por patrão enigmático que esconde segredo sombrio. Romance vitoriano, independência feminina, segredos."
+  },
+  {
+    "id": 23,
+    "titulo": "Cem Anos de Solidão",
+    "autor": "Gabriel García Márquez",
+    "resumo": "Saga familiar acompanha gerações dos Buendía na mágica e isolada aldeia de Macondo. Realismo mágico, destino, solidão."
+  },
+  {
+    "id": 24,
+    "titulo": "A Náusea",
+    "autor": "Jean-Paul Sartre",
+    "resumo": "Intelectual francês enfrenta crise existencial ao perceber o absurdo da vida e a falta de sentido. Romance filosófico, existencialismo, absurdo."
+  },
+  {
+    "id": 25,
+    "titulo": "O Apanhador no Campo de Centeio",
+    "autor": "J.D. Salinger",
+    "resumo": "Adolescente rebelde vagueia por Nova York desiludido com o mundo adulto e superficial. Romance de formação, alienação juvenil."
+  },
+  {
+    "id": 26,
+    "titulo": "O Grande Gatsby",
+    "autor": "F. Scott Fitzgerald",
+    "resumo": "Milionário misterioso dá festas luxuosas na esperança de reconquistar antigo amor de juventude. Sonho americano, obsessão, decadência."
+  },
+  {
+    "id": 27,
+    "titulo": "Fahrenheit 451",
+    "autor": "Ray Bradbury",
+    "resumo": "Bombeiro encarregado de queimar livros proibidos questiona seu papel e junta-se à resistência. Distopia, censura, alienação tecnológica."
+  },
+  {
+    "id": 28,
+    "titulo": "Laranja Mecânica",
+    "autor": "Anthony Burgess",
+    "resumo": "Jovem líder de gangue violenta passa por tratamento governamental traumático de recondicionamento comportamental. Ficção sociológica, livre-arbítrio, violência."
+  },
+  {
+    "id": 29,
+    "titulo": "O Retrato de Dorian Gray",
+    "autor": "Oscar Wilde",
+    "resumo": "Jovem vaidoso vende a alma para manter juventude eterna enquanto seu retrato envelhece. Romance filosófico, hedonismo, moralidade."
+  },
+  {
+    "id": 30,
+    "titulo": "Crime e Castigo",
+    "autor": "Fiódor Dostoiévski",
+    "resumo": "Estudante pobre assassina agiota e enfrenta tormento psicológico e busca por redenção espiritual. Romance psicológico, culpa, ética."
+  },
+  {
+    "id": 31,
+    "titulo": "O Velho e o Mar",
+    "autor": "Ernest Hemingway",
+    "resumo": "Pescador cubano idoso enfrenta sozinho no alto-mar combate épico contra peixe-espada gigante. Novela, perseverança, dignidade humana."
+  },
+  {
+    "id": 32,
+    "titulo": "Moby Dick",
+    "autor": "Herman Melville",
+    "resumo": "Capitão obcecado arrasta tripulação em caçada vingativa contra colossal baleia-branca que lhe tirou a perna. Aventura marítima, obsessão, destino."
+  },
+  {
+    "id": 33,
+    "titulo": "A Guerra dos Mundos",
+    "autor": "H.G. Wells",
+    "resumo": "Marcianos invadem a Terra com tripés gigantes destruindo cidades e dizimando forças humanas. Ficção científica clássica, invasão alienígena."
+  },
+  {
+    "id": 34,
+    "titulo": "A Máquina do Tempo",
+    "autor": "H.G. Wells",
+    "resumo": "Cientista vitoriano constrói veículo temporário e viaja ao futuro descobrindo humanidade dividida em duas espécies. Ficção científica, luta de classes."
+  },
+  {
+    "id": 35,
+    "titulo": "Vinte Mil Léguas Submarinas",
+    "autor": "Júlio Verne",
+    "resumo": "Professor capturado navega pelos oceanos a bordo de submarino avançado liderado por capitão misterioso. Aventura, exploração, ciência."
+  }
+  
 ]
