@@ -137,7 +137,7 @@ body {
 
 .summary-content {
   display: flex;
-  flex-direction: column; /* Força ordem vertical: Meta topo, texto embaixo */
+  flex-direction: column;
   gap: 1rem;
 }
 
