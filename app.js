@@ -1,5 +1,5 @@
 /**
- * LitBites - Lógica de carregamento aleatório de microresumos e interações
+ * LitBites - Lógica limpa de carregamento de resumos externos via fetch e interações PWA
  */
 
 let resumosList = [];
@@ -12,8 +12,9 @@ const toast = document.getElementById('toast');
 // --- Carregamento dos Resumos do resumos.json ---
 async function loadResumos() {
   try {
-    const response = await fetch(`resumos.json?v=${Date.now()}`); // Força o download do JSON atualizado
-    if (!response.ok) throw new Error('Falha ao carregar o arquivo de resumos.');
+    const response = await fetch('resumos.json');
+    if (!response.ok) throw new Error(`HTTP error! Status: ${response.status}`);
+    
     resumosList = await response.json();
     
     if (resumosList.length > 0) {
@@ -22,8 +23,8 @@ async function loadResumos() {
       summaryText.textContent = "Nenhum resumo encontrado no arquivo.";
     }
   } catch (error) {
-    console.error('Erro:', error);
-    summaryText.textContent = "Erro ao carregar os microresumos. Verifique a conexão ou execute via servidor local.";
+    console.error('Erro ao carregar os microresumos:', error);
+    summaryText.textContent = "Erro ao carregar os microresumos. Verifique o arquivo resumos.json ou execute via servidor local.";
   }
 }
 
@@ -36,7 +37,7 @@ function getRandomSummary() {
 
   // 1. Título e Autor no topo
   summaryMeta.textContent = `${item.titulo} — ${item.autor}`;
-  // 2. Resumo sem aspas embaixo
+  // 2. Resumo sem aspas na parte de baixo
   summaryText.textContent = item.resumo;
 }
 
