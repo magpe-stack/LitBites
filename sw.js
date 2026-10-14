@@ -1,4 +1,4 @@
-const CACHE_NAME = 'litbites-v15';
+const CACHE_NAME = 'litbites-v16';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',
