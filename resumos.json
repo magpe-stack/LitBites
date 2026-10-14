@@ -538,5 +538,197 @@
     "titulo": "O Idiota",
     "autor": "Fiódor Dostoiévski",
     "resumo": "Príncipe bondoso e ingênuo tenta navegar na sociedade russa corrupta, sendo tomado por louco pelos outros. Romance psicológico, pureza, tragédia."
+  },
+  {
+    "id": 91,
+    "titulo": "O Som e a Fúria",
+    "autor": "William Faulkner",
+    "resumo": "Decadência de família aristocrática do sul americano é narrada sob quatro perspectivas complexas e fragmentadas. Modernismo, tragédia familiar, tempo."
+  },
+  {
+    "id": 92,
+    "titulo": "O Médico e o Monstro",
+    "autor": "Robert Louis Stevenson",
+    "resumo": "Médico bondoso desenvolve poção que liberta sua personalidade sombria e violenta na escuridão de Londres. Horror psicológico, dualidade humana."
+  },
+  {
+    "id": 93,
+    "titulo": "As Aventuras de Sherlock Holmes",
+    "autor": "Arthur Conan Doyle",
+    "resumo": "Detetive brilhante e seu fiel parceiro solucionam enigmas complexos na Londres vitoriana. Literatura policial, dedução, mistério."
+  },
+  {
+    "id": 94,
+    "titulo": "O Cão dos Baskerville",
+    "autor": "Arthur Conan Doyle",
+    "resumo": "Sherlock Holmes investiga maldição familiar de sabujo demoníaco que aterroriza charneca sombria na Inglaterra. Literatura policial, mistério, lenda."
+  },
+  {
+    "id": 95,
+    "titulo": "E Não Sobrou Nenhum",
+    "autor": "Agatha Christie",
+    "resumo": "Dez estranhos são convidados para ilha isolada e começam a ser assassinados um a um conforme poema. Suspense policial, isolamento, justiça."
+  },
+  {
+    "id": 96,
+    "titulo": "Misery: Louca Obsessão",
+    "autor": "Stephen King",
+    "resumo": "Escritor sofre acidente e é mantido refém por fã obcecada insatisfeita com o fim de sua personagem. Horror psicológico, obsessão, cativeiro."
+  },
+  {
+    "id": 97,
+    "titulo": "Cemitério Maldito",
+    "autor": "Stephen King",
+    "resumo": "Família descobre antigo cemitério capaz de trazer mortos de volta à vida com consequências aterradoras. Horror, luto, sobrenatural."
+  },
+  {
+    "id": 98,
+    "titulo": "A Espera de um Milagre",
+    "autor": "Stephen King",
+    "resumo": "Guarda de corredor da morte descobre que gigante acusado de crime possui poderes divinos de cura. Drama, milagre, injustiça."
+  },
+  {
+    "id": 99,
+    "titulo": "Os Sete Maridos de Evelyn Hugo",
+    "autor": "Taylor Jenkins Reid",
+    "resumo": "Lenda do cinema revela segredos guardados por décadas e a verdade sobre seu grande amor. Drama, Hollywood, segredos."
+  },
+  {
+    "id": 100,
+    "titulo": "É Assim que Acaba",
+    "autor": "Colleen Hoover",
+    "resumo": "Mulher tenta quebrar ciclo de violência doméstica em relacionamento tóxico após reencontrar antigo amor. Romance dramático, superação, trauma."
+  },
+  {
+    "id": 101,
+    "titulo": "O Ilusionista",
+    "autor": "Steven Millhauser",
+    "resumo": "Mágico misterioso desafia leis da física e autoridade imperial com apresentações inexplicáveis na Viena do século XIX. Ficção histórica, ilusão, obsessão."
+  },
+  {
+    "id": 102,
+    "titulo": "A Garota do Lago",
+    "autor": "Charlie Donlea",
+    "resumo": "Jornalista investiga o assassinato brutal de uma estudante de direito em cidadezinha pacata e cheia de segredos. Suspense policial, mistério, investigação."
+  },
+  {
+    "id": 103,
+    "titulo": "Verity",
+    "autor": "Colleen Hoover",
+    "resumo": "Escritora contratada para terminar série de livros descobre autobiografia assustadora com segredos perturbadores de autora em coma. Suspense psicológico, obsessão."
+  },
+  {
+    "id": 104,
+    "titulo": "A Paciente Silenciosa",
+    "autor": "Alex Michaelides",
+    "resumo": "Mulher famosa mata o marido e nunca mais profere uma palavra, desafiando psicoterapeuta obcecado por sua cura. Suspense psicológico, mistério, reviravolta."
+  },
+  {
+    "id": 105,
+    "titulo": "A Empregada",
+    "autor": "Freida McFadden",
+    "resumo": "Mulher recém-saída da prisão aceita trabalhar em mansão rica e descobre segredos sombrios sobre a família perfeita. Thriller psicológico, manipulação, suspense."
+  },
+  {
+    "id": 106,
+    "titulo": "O Homem de Giz",
+    "autor": "C.J. Tudor",
+    "resumo": "Grupo de amigos de infância encontra corpo esquartejado orientado por desenhos a giz e o passado retorna anos depois. Horror psicológico, mistério, passado."
+  },
+  {
+    "id": 107,
+    "titulo": "Teto Para Dois",
+    "autor": "Beth O'Leary",
+    "resumo": "Dois estranhos dividem o mesmo apartamento e cama sem nunca se encontrarem, comunicando-se apenas por bilhetes. Comédia romântica, convivência."
+  },
+  {
+    "id": 108,
+    "titulo": "A Hipótese do Amor",
+    "autor": "Ali Hazelwood",
+    "resumo": "Cientista finge namorar professor ranzinza para provar que superou passado amoroso e acaba apaixonando-se de verdade. Comédia romântica, ambiente acadêmico."
+  },
+  {
+    "id": 109,
+    "titulo": "O Duque e Eu",
+    "autor": "Julia Quinn",
+    "resumo": "Jovem da alta sociedade vitoriana faz acordo de falso namoro com duque rebelde para afastar pretendentes indesejados. Romance de época, aristocracia."
+  },
+  {
+    "id": 110,
+    "titulo": "Vermelho, Branco e Sangue Azul",
+    "autor": "Casey McQuiston",
+    "resumo": "Filho da presidente americana apaixona-se pelo príncipe da Inglaterra em meio a escândalo internacional e eleições. Romance LGBTQIA+, política."
+  },
+  {
+    "id": 111,
+    "titulo": "Torto Arado",
+    "autor": "Itamar Vieira Junior",
+    "resumo": "Duas irmãs no sertão baiano encontram faca antiga no baú da avó e sofrem acidente que une seus destinos. Romance contemporâneo, sertão, raça, terra."
+  },
+  {
+    "id": 112,
+    "titulo": "A Casa das Orquídeas",
+    "autor": "Lucinda Riley",
+    "resumo": "Pianista deprimida retorna à propriedade rural da família e descobre segredos amorosos guardados durante a Segunda Guerra. Romance histórico, segredos."
+  },
+  {
+    "id": 113,
+    "titulo": "As Sete Irmãs",
+    "autor": "Lucinda Riley",
+    "resumo": "Mulher adota seis filhas em vários cantos do mundo e deixa pistas sobre a origem de cada uma em seu testamento. Romance histórico, mistério, legado."
+  },
+  {
+    "id": 114,
+    "titulo": "Outlander: A Viajante do Tempo",
+    "autor": "Diana Gabaldon",
+    "resumo": "Enfermeira da Segunda Guerra toca em pedras mágicas na Escócia e viaja duzentos anos no tempo. Romance histórico, viagem no tempo, ação."
+  },
+  {
+    "id": 115,
+    "titulo": "Como Eu Era Antes de Você",
+    "autor": "Jojo Moyes",
+    "resumo": "Garota simples é contratada para cuidar de jovem rico e tetraplégico que perdeu o gosto pela vida. Romance dramático, empatia, escolhas."
+  },
+  {
+    "id": 116,
+    "titulo": "Tudo É Rio",
+    "autor": "Carla Madeira",
+    "resumo": "Triângulo amoroso marcado por ciúme, paixão avassaladora e tragédia transforma a vida de moradores em cidade pequena. Drama, paixão, perdão."
+  },
+  {
+    "id": 117,
+    "titulo": "A Biblioteca da Meia-Noite",
+    "autor": "Matt Haig",
+    "resumo": "Mulher à beira do desespero encontra biblioteca mágica onde cada livro permite viver uma vida diferente. Ficção contemporânea, escolhas, arrependimento."
+  },
+  {
+    "id": 118,
+    "titulo": "O Silêncio das Montanhas",
+    "autor": "Khaled Hosseini",
+    "resumo": "Dois irmãos órfãos no Afeganistão são separados na infância, desencadeando jornada de busca e memória ao longo das décadas. Drama, família, exílio."
+  },
+  {
+    "id": 119,
+    "titulo": "A Maçã",
+    "autor": "Michel Faber",
+    "resumo": "Jovem prostituta na Londres vitoriana tenta usar sua inteligência para ascender socialmente e conquistar liberdade. Romance histórico, ambição, sociedade."
+  },
+  {
+    "id": 120,
+    "titulo": "Tudo o Que Nunca Te Contei",
+    "autor": "Celeste Ng",
+    "resumo": "A morte misteriosa da filha favorita desestrutura família americana e expõe pressões invisíveis e segredos. Drama familiar, segredos, identidade."
+  },
+  {
+    "id": 121,
+    "titulo": "Flores para Algernon",
+    "autor": "Daniel Keyes",
+    "resumo": "Homem com deficiência intelectual passa por cirurgia experimental de inteligência, mas enfrenta consequências emocionais e regressão. Ficção científica, humanidade."
+  },
+  {
+    "id": 122,
+    "titulo": "O Sol Também É uma Estrela",
+    "autor": "Nicola Yoon",
+    "resumo": "Adolescente pragmática prestes a ser deportada conhece garoto romântico e vivem romance intenso em poucas horas. Romance jovem, destino."
   }
 ]
