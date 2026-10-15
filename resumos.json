@@ -6442,5 +6442,497 @@
     "titulo": "Frankenstein",
     "autor": "Mary Shelley",
     "resumo": "Cientista ambicioso cria ser monstruoso em laboratório, desencadeando tragédia, solidão e rejeição mútua em atmosfera gótica sombria. Romance gótico, ciência, monstro."
+  },
+  {
+    "id": 1082,
+    "titulo": "Sense and Sensibility",
+    "autor": "Jane Austen",
+    "resumo": "Duas irmãs com temperamentos opostos, razão e sensibilidade, enfrentam desilusões amorosas e pressões financeiras na sociedade inglesa. Romance de costumes, Inglaterra, irmãs."
+  },
+  {
+    "id": 1083,
+    "titulo": "Pride and Prejudice",
+    "autor": "Jane Austen",
+    "resumo": "Elizabeth Bennet e o orgulhoso Sr. Darcy superam preconceitos e mal-entendidos para encontrar o amor verdadeiro no campo inglês. Romance clássico, casamento, preconceito."
+  },
+  {
+    "id": 1084,
+    "titulo": "Mansfield Park",
+    "autor": "Jane Austen",
+    "resumo": "Jovem tímida é criada por tios ricos em propriedade rural, mantendo seus princípios morais firmes diante de tentações. Romance de costumes, moral, Inglaterra."
+  },
+  {
+    "id": 1085,
+    "titulo": "Emma",
+    "autor": "Jane Austen",
+    "resumo": "Jovem rica, inteligente e voluntariosa em vila inglesa diverte-se bancando o cupido, cometendo erros catastróficos em seus arranjos. Romance de costumes, comédia, casamento."
+  },
+  {
+    "id": 1086,
+    "titulo": "Northanger Abbey",
+    "autor": "Jane Austen",
+    "resumo": "Jovem leitora ingênua de romances góticos visita mansão antiga, confundindo imaginação fértil com mistérios criminais reais. Romance satírico, gótico, ironia."
+  },
+  {
+    "id": 1087,
+    "titulo": "Persuasion",
+    "autor": "Jane Austen",
+    "resumo": "Mulher madura reencontra o oficial naval que persuadiram a rejeitar anos antes, descobrindo segunda chance no amor. Romance romântico, maturidade, segunda chance."
+  },
+  {
+    "id": 1088,
+    "titulo": "Jane Eyre",
+    "autor": "Charlotte Brontë",
+    "resumo": "Órfã perseverante torna-se governadora em mansão isolada, apaixonando-se por patrão enigmático que esconde segredo terrível no sótão. Romance gótico, paixão, segredo."
+  },
+  {
+    "id": 1089,
+    "titulo": "Shirley",
+    "autor": "Charlotte Brontë",
+    "resumo": "Herdeira independente e tecelões revoltosos enfrentam crises industriais e dilemas amorosos no norte da Inglaterra do século XIX. Romance histórico, industrial, Inglaterra."
+  },
+  {
+    "id": 1090,
+    "titulo": "Villette",
+    "autor": "Charlotte Brontë",
+    "resumo": "Jovem inglesa solitária viaja a cidade fictícia na Bélgica para lecionar, enfrentando amores não correspondidos e isolamento psicológico. Romance psicológico, Bélgica, solidão."
+  },
+  {
+    "id": 1091,
+    "titulo": "Wuthering Heights",
+    "autor": "Emily Brontë",
+    "resumo": "Paixão destrutiva e obsessiva entre Heathcliff e Catherine nos ventosos picos de Yorkshire gera vingança multigeracional implacável. Romance gótico, paixão, Yorkshire."
+  },
+  {
+    "id": 1092,
+    "titulo": "The Tenant of Wildfell Hall",
+    "autor": "Anne Brontë",
+    "resumo": "Mulher misteriosa foge de casamento abusivo com filho pequeno e esconde-se em mansão rural isolada na Inglaterra. Romance vitoriano, abuso, fuga."
+  },
+  {
+    "id": 1093,
+    "titulo": "David Copperfield",
+    "autor": "Charles Dickens",
+    "resumo": "Menino órfão enfrenta a infância explorada em fábrica, a escola rígida e a maturidade até tornar-se escritor bem-sucedido. Romance de formação, autobiografia, Inglaterra."
+  },
+  {
+    "id": 1094,
+    "titulo": "Bleak House",
+    "autor": "Charles Dickens",
+    "resumo": "Processo judicial interminável arruína vidas de várias gerações enquanto detetive investiga mistério sombrio na névoa de Londres. Romance social, justiça, Londres."
+  },
+  {
+    "id": 1095,
+    "titulo": "Vanity Fair",
+    "autor": "William Makepeace Thackeray",
+    "resumo": "Mulher ambiciosa e sem posses Becky Sharp usa charme e manipulação para ascender na alta sociedade inglesa vitoriana. Romance satírico, ambição, sociedade."
+  },
+  {
+    "id": 1096,
+    "titulo": "Middlemarch",
+    "autor": "George Eliot",
+    "resumo": "Vidas de moradores em província inglesa cruzam-se em reformas, casamentos frustrados e buscas por idealismo e conhecimento intelectual. Romance psicológico, província, idealismo."
+  },
+  {
+    "id": 1097,
+    "titulo": "The Mill on the Floss",
+    "autor": "George Eliot",
+    "resumo": "Irmãos unidos enfrentam as rígidas pressões sociais, tragédias familiares e o preconceito na zona rural inglesa. Romance dramático, família, província."
+  },
+  {
+    "id": 1098,
+    "titulo": "Silas Marner",
+    "autor": "George Eliot",
+    "resumo": "Tecelão avarento e solitário recupera a alegria de viver ao encontrar bebê abandonado em sua cabana isolada. Romance regionalista, redenção, província."
+  },
+  {
+    "id": 1099,
+    "titulo": "Barchester Towers",
+    "autor": "Anthony Trollope",
+    "resumo": "Intrigas clericais, disputas por poder e romance agitam a pacata cidade catedralícia de Barchester na era vitoriana. Romance satírico, clero, província."
+  },
+  {
+    "id": 1100,
+    "titulo": "The Moonstone",
+    "autor": "Wilkie Collins",
+    "resumo": "Diamante indiano amaldiçoado é roubado de mansão rural inglesa em mistério policial pioneiro com múltiplos narradores. Romance policial, mistério, diamante."
+  },
+  {
+    "id": 1101,
+    "titulo": "The Woman in White",
+    "autor": "Wilkie Collins",
+    "resumo": "Artista em Londres depara-se com misteriosa mulher de branco ligada a conspiração e roubo de identidade. Romance de suspense, identidade, mistério."
+  },
+  {
+    "id": 1102,
+    "titulo": "Tess of the d'Urbervilles",
+    "autor": "Thomas Hardy",
+    "resumo": "Jovem camponesa inocente sofre tragédias, julgamento moral implacável e destino cruel na zona rural inglesa. Romance trágico, destino, campo."
+  },
+  {
+    "id": 1103,
+    "titulo": "Jude the Obscure",
+    "autor": "Thomas Hardy",
+    "resumo": "Pedreiro pobre sonha em estudar na universidade, mas esbarra em barreiras sociais, casamentos desastrosos e tragédias. Romance trágico, educação, sociedade."
+  },
+  {
+    "id": 1104,
+    "titulo": "The Picture of Dorian Gray",
+    "autor": "Oscar Wilde",
+    "resumo": "Jovem hedonista permanece jovem enquanto seu retrato pintado envelhece e carrega as marcas de seus pecados. Romance filosófico, hedonismo, pecado."
+  },
+  {
+    "id": 1105,
+    "titulo": "Treasure Island",
+    "autor": "Robert Louis Stevenson",
+    "resumo": "Menino Jim Hawkins embarca em navio pirata rumo a ilha deserta em busca de tesouro enterrado. Romance de aventura, piratas, tesouro."
+  },
+  {
+    "id": 1106,
+    "titulo": "Strange Case of Dr Jekyll and Mr Hyde",
+    "autor": "Robert Louis Stevenson",
+    "resumo": "Cientista respeitável em Londres cria poção que separa sua dualidade moral, liberando alter ego monstruoso. Romance gótico, dualidade, Londres."
+  },
+  {
+    "id": 1107,
+    "titulo": "Dracula",
+    "autor": "Bram Stoker",
+    "resumo": "Conde vampiro transilvano viaja a Londres para espalhar o mal, enfrentando grupo liderado por professor em caçada implacável. Romance de terror, vampiros, Londres."
+  },
+  {
+    "id": 1108,
+    "titulo": "The Time Machine",
+    "autor": "H.G. Wells",
+    "resumo": "Cientista viaja ao futuro distante da Terra, descobrindo a divisão da humanidade em duas espécies degeneradas. Romance de ficção científica, futuro, evolução."
+  },
+  {
+    "id": 1109,
+    "titulo": "The War of the Worlds",
+    "autor": "H.G. Wells",
+    "resumo": "Invasores marcianos desembarcam na Inglaterra com máquinas mortíferas, dizimando cidades até serem derrotados por bactérias terrestres. Romance de ficção científica, invasão, marte."
+  },
+  {
+    "id": 1110,
+    "titulo": "Heart of Darkness",
+    "autor": "Joseph Conrad",
+    "resumo": "Navegador sobe o rio Congo em vapor para resgatar agente imperial corrompido que enlouqueceu na selva africana. Romance psicológico, Congo, colonialismo."
+  },
+  {
+    "id": 1111,
+    "titulo": "Lord Jim",
+    "autor": "Joseph Conrad",
+    "resumo": "Marinheiro jovem abandona navio em apuros e passa a vida tentando redimir sua honra manchada em porto remoto. Romance psicológico, honra, mar."
+  },
+  {
+    "id": 1112,
+    "titulo": "Kim",
+    "autor": "Rudyard Kipling",
+    "resumo": "Órfão irlandês na Índia colonial trabalha como espião britânico enquanto viaja em peregrinação budista com místico tibetano. Romance de aventura, Índia, espionagem."
+  },
+  {
+    "id": 1113,
+    "titulo": "A Passage to India",
+    "autor": "E.M. Forster",
+    "resumo": "Visita de britânicos a cavernas na Índia colonial gera mal-entendido catastrófico, tensões raciais e rupturas irreparáveis. Romance psicológico, Índia, colonialismo."
+  },
+  {
+    "id": 1114,
+    "titulo": "Howards End",
+    "autor": "E.M. Forster",
+    "resumo": "Famílias de classes sociais distintas em Londres debatem o futuro da Inglaterra, cultura, herança e conexões humanas profundas. Romance social, Londres, classes."
+  },
+  {
+    "id": 1115,
+    "titulo": "Sons and Lovers",
+    "autor": "D.H. Lawrence",
+    "resumo": "Jovem artista em comunidade mineira na Inglaterra lida com apego sufocante da mãe e romances conflitantes. Romance psicológico, mineração, família."
+  },
+  {
+    "id": 1116,
+    "titulo": "Lady Chatterley's Lover",
+    "autor": "D.H. Lawrence",
+    "resumo": "Aristocrata infeliz em casamento paralítico vive tórrida paixão com guarda-caça da propriedade em exploração da liberdade. Romance polômico, paixão, classe."
+  },
+  {
+    "id": 1117,
+    "titulo": "Brave New World",
+    "autor": "Aldous Huxley",
+    "resumo": "Sociedade futurista condicionada em laboratório controla cidadãos com drogas e entretenimento, eliminando arte e individualidade. Romance distópico, futuro, controle."
+  },
+  {
+    "id": 1118,
+    "titulo": "Brideshead Revisited",
+    "autor": "Evelyn Waugh",
+    "resumo": "Jovem aristocrata relembra sua amizade com família católica excêntrica e os anos áureos em mansão britânica. Romance nostálgico, aristocracia, religião."
+  },
+  {
+    "id": 1119,
+    "titulo": "The Quiet American",
+    "autor": "Graham Greene",
+    "resumo": "Analista americano no Vietnã dos anos 1950 interfere em conflitos locais com idealismo cego que gera desastres. Romance político, Vietnã, espionagem."
+  },
+  {
+    "id": 1120,
+    "titulo": "Nineteen Eighty-Four",
+    "autor": "George Orwell",
+    "resumo": "Cidadão em Londres totalitária sob vigilância perpétua do Grande Irmão tenta rebelar-se com amor proibido. Romance distópico, totalitarismo, vigilância."
+  },
+  {
+    "id": 1121,
+    "titulo": "Animal Farm",
+    "autor": "George Orwell",
+    "resumo": "Animais expulsam fazendeiro humano para autogerir fazenda, mas revolução degenera em ditadura corrupta entre porcos líderes. Romance satírico, alegoria, totalitarismo."
+  },
+  {
+    "id": 1122,
+    "titulo": "The Lord of the Rings",
+    "autor": "J.R.R. Tolkien",
+    "resumo": "Hobbits embarcam em perigosa jornada para destruir Anel do Poder em vulcão na Terra-média, enfrentando forças das trevas. Romance de fantasia, épico, anel."
+  },
+  {
+    "id": 1123,
+    "titulo": "The Hobbit",
+    "autor": "J.R.R. Tolkien",
+    "resumo": "Bilbo Bolseiro junta-se a anões em aventura para recuperar tesouro guardado por dragão terrível nas montanhas. Romance de fantasia, aventura, dragão."
+  },
+  {
+    "id": 1124,
+    "titulo": "The Lion, the Witch and the Wardrobe",
+    "autor": "C.S. Lewis",
+    "resumo": "Quatro irmãos entram por guarda-roupa em mundo mágico congelado chamado Nárnia, ajudando leão a derrotar feiticeira. Romance de fantasia, Nárnia, magia."
+  },
+  {
+    "id": 1125,
+    "titulo": "The Murder of Roger Ackroyd",
+    "autor": "Agatha Christie",
+    "resumo": "Detetive Hercule Poirot investiga assassinato em vila inglesa onde todos os suspeitos escondem segredos obscuros. Romance policial, mistério, detetive."
+  },
+  {
+    "id": 1126,
+    "titulo": "And Then There Were None",
+    "autor": "Agatha Christie",
+    "resumo": "Dez estranhos isolados em ilha remota são assassinados um a um conforme rima infantil misteriosa. Romance policial, suspense, ilha."
+  },
+  {
+    "id": 1127,
+    "titulo": "Gaudy Night",
+    "autor": "Dorothy L. Sayers",
+    "resumo": "Investigador Lord Peter Wimsey e acadêmica em Oxford desvendam cartas difamatórias e crimes em colégio feminino. Romance policial, Oxford, mistério."
+  },
+  {
+    "id": 1128,
+    "titulo": "Leave It to Psmith",
+    "autor": "P.G. Wodehouse",
+    "resumo": "Jovem cavalheiro encantador envolve-se em planos hilários de roubo de joias em mansão rural britânica pacata. Romance satírico, humor, Inglaterra."
+  },
+  {
+    "id": 1129,
+    "titulo": "A Study in Scarlet",
+    "autor": "Arthur Conan Doyle",
+    "resumo": "Detetive Sherlock Holmes e Dr. Watson investigam assassinato com inscrições misteriosas em casa abandonada em Londres. Romance policial, Sherlock Holmes, Londres."
+  },
+  {
+    "id": 1130,
+    "titulo": "The Forsyte Saga",
+    "autor": "John Galsworthy",
+    "resumo": "Três gerações de família burguesa britânica enfrentam rivalidades, amores e a obsessão pela propriedade na era vitoriana. Romance histórico, família, burguesia."
+  },
+  {
+    "id": 1131,
+    "titulo": "Parade's End",
+    "autor": "Ford Madox Ford",
+    "resumo": "Oficial aristocrata britânico lida com a honra antiga, o trauma da Primeira Guerra e o fim de um casamento. Romance histórico, Primeira Guerra, honra."
+  },
+  {
+    "id": 1132,
+    "titulo": "The Alexandria Quartet",
+    "autor": "Lawrence Durrell",
+    "resumo": "Relações amorosas, espionagem e perspectivas múltiplas cruzam-se em Alexandria antes da Segunda Guerra Mundial. Romance modernista, Alexandria, paixão."
+  },
+  {
+    "id": 1133,
+    "titulo": "A Clockwork Orange",
+    "autor": "Anthony Burgess",
+    "resumo": "Jovem delinquente em futuro distópico comete crimes violentos antes de sofrer lavagem cerebral científica do governo. Romance distópico, violência, liberdade."
+  },
+  {
+    "id": 1134,
+    "titulo": "Lucky Jim",
+    "autor": "Kingsley Amis",
+    "resumo": "Professor universitário britânico desajeitado revolta-se contra a pretensão acadêmica e o snobismo cultural em comédia mordaz. Romance satírico, universidade, humor."
+  },
+  {
+    "id": 1135,
+    "titulo": "The Radiant Way",
+    "autor": "Margaret Drabble",
+    "resumo": "Três amigas universitárias em Londres navegam por carreiras, casamentos e transformações sociais na Grã-Bretanha contemporânea. Romance contemporâneo, Londres, amizade."
+  },
+  {
+    "id": 1136,
+    "titulo": "The Sea, the Sea",
+    "autor": "Iris Murdoch",
+    "resumo": "Diretor de teatro aposentado isola-se em casa na costa britânica, sendo consumido por obsessão por seu antigo amor. Romance psicológico, obsessão, mar."
+  },
+  {
+    "id": 1137,
+    "titulo": "The Golden Notebook",
+    "autor": "Doris Lessing",
+    "resumo": "Escritora em Londres divide sua vida em cadernos temáticos para organizar os fragmentos de sua identidade e política. Romance psicológico, Londres, política."
+  },
+  {
+    "id": 1138,
+    "titulo": "The Remains of the Day",
+    "autor": "Kazuo Ishiguro",
+    "resumo": "Mordomo britânico idoso recorda sua longa carreira em mansão e o amor não vivido enquanto viaja de carro. Romance psicológico, memória, Inglaterra."
+  },
+  {
+    "id": 1139,
+    "titulo": "Never Let Me Go",
+    "autor": "Kazuo Ishiguro",
+    "resumo": "Alunos em internato britânico isolado descobrem gradualmente sua verdadeira natureza e destino trágico como clones doadores. Romance distópico, clones, tragédia."
+  },
+  {
+    "id": 1140,
+    "titulo": "Flaubert's Parrot",
+    "autor": "Julian Barnes",
+    "resumo": "Médico britânico viaja à França obcecado pela vida e pelas relíquias literárias do romancista Gustave Flaubert. Romance metaficcional, literatura, França."
+  },
+  {
+    "id": 1141,
+    "titulo": "Money",
+    "autor": "Martin Amis",
+    "resumo": "Publicitário britânico hedonista em Nova York consome-se em álcool, pornografia, excessos financeiros e autodestruição urbana. Romance satírico, Nova York, excessos."
+  },
+  {
+    "id": 1142,
+    "titulo": "White Teeth",
+    "autor": "Zadie Smith",
+    "resumo": "Famílias imigrantes em Londres de origens jamaicana e bengalesa lidam com choques culturais, racismo e identidade moderna. Romance contemporâneo, Londres, imigração."
+  },
+  {
+    "id": 1143,
+    "titulo": "Wolf Hall",
+    "autor": "Hilary Mantel",
+    "resumo": "Thomas Cromwell ascende ao poder na corte de Henry VIII navegando por intrigas religiosas e traições políticas. Romance histórico, Tudor, política."
+  },
+  {
+    "id": 1144,
+    "titulo": "Tipping the Velvet",
+    "autor": "Sarah Waters",
+    "resumo": "Jovem trabalhadora em ostraia vitoriana apaixona-se por atriz de teatro e vive mundo boêmio em Londres. Romance histórico, Londres, teatro."
+  },
+  {
+    "id": 1145,
+    "titulo": "Oranges Are Not the Only Fruit",
+    "autor": "Jeanette Winterson",
+    "resumo": "Menina adotada por família evangélica extremista descobre sua homossexualidade e rebela-se contra dogmas religiosos rígidos. Romance de formação, religião, identidade."
+  },
+  {
+    "id": 1146,
+    "titulo": "The Buddha of Suburbia",
+    "autor": "Hanif Kureishi",
+    "resumo": "Jovem mestiço em subúrbio londrino busca identidade, fama, música punk e aventuras na contracultura dos anos 1970. Romance contemporâneo, Londres, juventude."
+  },
+  {
+    "id": 1147,
+    "titulo": "The Line of Beauty",
+    "autor": "Alan Hollinghurst",
+    "resumo": "Jovem gay em Londres durante a era Thatcher navega por festas da alta sociedade, política e epidemia de AIDS. Romance contemporâneo, Londres, política."
+  },
+  {
+    "id": 1148,
+    "titulo": "High Fidelity",
+    "autor": "Nick Hornby",
+    "resumo": "Dono de loja de discos em Londres obcecado por listas musicais analisa seus fracassos amorosos passados. Romance contemporâneo, Londres, música."
+  },
+  {
+    "id": 1149,
+    "titulo": "Chocolat",
+    "autor": "Joanne Harris",
+    "resumo": "Mulher misteriosa abre loja de chocolates em pacata vila francesa, transformando os desejos e a moral dos moradores. Romance mágico, França, chocolate."
+  },
+  {
+    "id": 1150,
+    "titulo": "Northern Lights",
+    "autor": "Philip Pullman",
+    "resumo": "Menina Lyra viaja ao norte ártico em busca de crianças sequestradas, descobrindo conspiração cósmica envolvendo poeira misteriosa. Romance de fantasia, ártico, magia."
+  },
+  {
+    "id": 1151,
+    "titulo": "Neverwhere",
+    "autor": "Neil Gaiman",
+    "resumo": "Homem comum em Londres cai em mundo subterrâneo mágico e perigoso conhecido como Londres Abaixo após ajudar ferida. Romance fantástico, Londres, magia."
+  },
+  {
+    "id": 1152,
+    "titulo": "Harry Potter and the Philosopher's Stone",
+    "autor": "J.K. Rowling",
+    "resumo": "Menino órfão descobre ser bruxo aos onze anos e ingressa na Escola de Magia e Bruxaria de Hogwarts. Romance fantástico, magia, Hogwarts."
+  },
+  {
+    "id": 1153,
+    "titulo": "Guards! Guards!",
+    "autor": "Terry Pratchett",
+    "resumo": "Patrulha noturna da cidade de Ankh-Morpork enfrenta dragão invocado por sociedade secreta em sátira fantástica brilhante. Romance fantástico, sátira, dragão."
+  },
+  {
+    "id": 1154,
+    "titulo": "The Woman in Black",
+    "autor": "Susan Hill",
+    "resumo": "Jovem advogado viaja a mansão isolada em pântano inglês para organizar papéis de falecida e encontra fantasma vingativo. Romance de terror, fantasma, pântano."
+  },
+  {
+    "id": 1155,
+    "titulo": "Regeneration",
+    "autor": "Pat Barker",
+    "resumo": "Psiquiatra trata soldados traumatizados pela Primeira Guerra em hospital militar, questionando a sanidade e a brutalidade do combate. Romance histórico, Primeira Guerra, trauma."
+  },
+  {
+    "id": 1156,
+    "titulo": "Brick Lane",
+    "autor": "Monica Ali",
+    "resumo": "Imigrante bengalesa em Londres lida com casamento arranjado, monotonia e agitação política em bairro popular. Romance contemporâneo, Londres, imigração."
+  },
+  {
+    "id": 1157,
+    "titulo": "Small Island",
+    "autor": "Andrea Levy",
+    "resumo": "Imigrantes jamaicanos na Inglaterra pós-Segunda Guerra enfrentam o racismo, choque cultural e dificuldades de adaptação em Londres. Romance histórico, imigração, Londres."
+  },
+  {
+    "id": 1158,
+    "titulo": "Burnt Shadows",
+    "autor": "Kamila Shamsie",
+    "resumo": "Mulher japonesa sobrevivente da bomba de Nagasaki cruza caminhos com indianos e paquistaneses ao longo de décadas de conflitos globais. Romance histórico, Nagasaki, guerra."
+  },
+  {
+    "id": 1159,
+    "titulo": "The Spy Who Came in from the Cold",
+    "autor": "John le Carré",
+    "resumo": "Espião britânico finge descontentamento para se infiltrar em serviços secretos alemães em jogo duplo mortal da Guerra Fria. Romance de espionagem, Guerra Fria, Berlim."
+  },
+  {
+    "id": 1160,
+    "titulo": "Rites of Passage",
+    "autor": "William Golding",
+    "resumo": "Jovem aristocrata embarca em navio rumo à Austrália no século XIX, presenciando humilhações e tragédia a bordo. Romance histórico, mar, tragédia."
+  },
+  {
+    "id": 1161,
+    "titulo": "Moon Tiger",
+    "autor": "Penelope Lively",
+    "resumo": "Historiadora moribunda em hospital de Londres recorda sua vida, o caso de amor na guerra e a escrita da história. Romance psicológico, memória, Londres."
+  },
+  {
+    "id": 1162,
+    "titulo": "Music and Silence",
+    "autor": "Rose Tremain",
+    "resumo": "Músico inglês viaja à Dinamarca barroca para tocar na corte do rei Christian IV, vivendo intrigas e paixões. Romance histórico, Dinamarca, música."
+  },
+  {
+    "id": 1163,
+    "titulo": "Birdsong",
+    "autor": "Sebastian Faulks",
+    "resumo": "Soldado britânico nas trincheiras da Primeira Guerra e seu neto décadas depois enfrentam os traumas indeléveis do combate. Romance histórico, Primeira Guerra, trincheiras."
   }
 ]
